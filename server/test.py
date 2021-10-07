@@ -1,4 +1,4 @@
-import pandas as pd
+import sqlite3
 
 
 def csv_clearSpaces(path, filename):
@@ -39,14 +39,19 @@ def csv_clearSpaces(path, filename):
             f.write(new_file_content)
 
 
-data = pd.read_csv("datasets/TN_data.csv")
-df = pd.DataFrame(data)
-
-
 def get_distinct(col):
     li = list(set(df[col].to_list()))
-
     return li
 
 
-print(get_distinct("Production"))
+def execute_query(sql_query):
+    with sqlite3.connect("datasets/data.sqlite") as conn:
+        cur = conn.cursor()
+        result = cur.execute(sql_query)
+        conn.commit()
+    return result
+
+
+print(execute_query("SELECT name FROM sqlite_temp_master WHERE type='table';").fetchall())
+
+# Dont try to delete sql file.. Ill kill you.. Bye.. Gud night
