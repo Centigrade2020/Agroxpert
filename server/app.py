@@ -8,6 +8,12 @@ data = pd.read_csv("server/datasets/TN_data.csv")
 df = pd.DataFrame(data)
 
 
+def get_distinct():   #param : col
+    #li = list(set(df[col].to_list()))
+    group = df.groupby('District_Name')
+    df2 = group.apply(lambda x: x['Crop'].unique())
+    return df2
+"""
 @app.route('/getcrop/<district>/<name>')
 def getCrop(district, name):
     # content = request.get_json()
@@ -29,4 +35,7 @@ def index():
 
 if __name__ == "__main__":
     app.run(debug=True, port=6900)
+"""
+print(get_distinct())
+
 
