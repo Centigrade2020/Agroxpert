@@ -8,11 +8,17 @@ data = pd.read_csv("datasets/TN_data.csv")
 df = pd.DataFrame(data)
 
 
+# def get_distinct(col):   #param : col
+#     #li = list(set(df[col].to_list()))
+#     group = df.groupby(col)
+#     df2 = group.apply(lambda x: x['Crop'].unique())
+#     return df2
+
 def get_distinct(col):   #param : col
-    #li = list(set(df[col].to_list()))
-    group = df.groupby(col)
-    df2 = group.apply(lambda x: x['Crop'].unique())
-    return df2
+    li = list(set(df[col].to_list()))
+    # group = df.groupby(col)
+    # df2 = group.apply(lambda x: x['Crop'].unique())
+    return li
 
 
 def get_yield(district):
@@ -51,6 +57,7 @@ if __name__ == "__main__":
     app.run(debug=True, port=6900)
 """
 
-get_yield("ARIYALUR")
+# get_yield("ARIYALUR")
+print(get_distinct("District_Name"))
 
 

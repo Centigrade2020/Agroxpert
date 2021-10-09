@@ -39,9 +39,9 @@ def csv_clearSpaces(path, filename):
             f.write(new_file_content)
 
 
-def get_distinct(col):
-    li = list(set(df[col].to_list()))
-    return li
+# def get_distinct(col):
+#     li = list(set(df[col].to_list()))
+#     return li
 
 
 def execute_query(sql_query):
@@ -52,6 +52,6 @@ def execute_query(sql_query):
     return result
 
 
-print(execute_query("SELECT name FROM sqlite_temp_master WHERE type='table';").fetchall())
+# print(execute_query("SELECT name FROM sqlite_temp_master WHERE type='table';").fetchall())
 
 # Dont try to delete sql file.. Ill kill you.. Bye.. Gud night
