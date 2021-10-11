@@ -4,7 +4,7 @@ import requests
 
 app = Flask(__name__)
 
-data = pd.read_csv("datasets/TN_data.csv")
+data = pd.read_csv("server/datasets/TN_data.csv")
 df = pd.DataFrame(data)
 
 

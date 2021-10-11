@@ -2,21 +2,20 @@ import { useState } from "react";
 import "./App.css";
 
 function App() {
-  const [district,setDistrict] = useState("")
+  const [district, setDistrict] = useState(""); //removed district
   const sendData = async () => {
     await fetch("/getcrop", {
-    method :"POST",
-    headers:{
-      'Content-Type':'application/json',
-    },
-    body: JSON.stringify({ 
-    districts:districts,
-    seasons:seasons,
-  })
-})
-console.log(districts)
-}
- 
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify({
+        districts: districts,
+        seasons: seasons,
+      }),
+    });
+    console.log(districts);
+  };
 
   const districts = [
     "TIRUPPUR",
@@ -57,26 +56,33 @@ console.log(districts)
   return (
     <div className="App">
       <h1>AgroXpert</h1>
-      <form onSubmit={sendData}>
-        <select name="district">
-          onChange={(e)=>{
+      <form
+        onSubmit={(e) => {
+          e.preventDefault();
+          sendData();
+        }}
+      >
+        <select
+          name="district"
+          onChange={(e) => {
             setDistrict(e.target.value);
           }}
+        >
           {districts.map((district, key) => (
             <option value={district} key={key}>
               {district}
-         
             </option>
           ))}
         </select>
-        
-        <select name ="season">
-          {seasons.map((season,key) => (<option value = {season} key={key}>
-            {season}
+
+        <select name="season">
+          {seasons.map((season, key) => (
+            <option value={season} key={key}>
+              {season}
             </option>
           ))}
         </select>
-        <button >Search Crops</button>
+        <button>Search Crops</button>
       </form>
     </div>
   );
