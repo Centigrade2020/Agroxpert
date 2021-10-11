@@ -3,14 +3,18 @@ import "./App.css";
 
 function App() {
 
-  const sendData = () =>{
-    fetch("/getcrop", {method =["POST"],
+  const sendData = () => {
+    fetch("/getcrop", {
+    method :"POST",
+    headers:{
+      'content-type':'application/json',
+    },
     body: JSON.stringify({ 
     district,
     season
-  }),
+  })
+})
 }
-
   const districts = [
     "TIRUPPUR",
     "TIRUVANNAMALAI",
@@ -74,6 +78,5 @@ function App() {
     </div>
   );
 }
-
 
 export default App;
