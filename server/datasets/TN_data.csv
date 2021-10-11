@@ -1,26 +1,26 @@
 State_Name,District_Name,Crop_Year,Season,Crop,Area,Production
-Tamil Nadu,ARIYALUR,2008,Kharif,Rice,24574,0
-Tamil Nadu,ARIYALUR,2008,Whole Year,Arhar/Tur,209,0
-Tamil Nadu,ARIYALUR,2008,Whole Year,Bajra,565,0
-Tamil Nadu,ARIYALUR,2008,Whole Year,Banana,190,0
-Tamil Nadu,ARIYALUR,2008,Whole Year,Cashewnut,31113,0
-Tamil Nadu,ARIYALUR,2008,Whole Year,Castor seed,27,0
-Tamil Nadu,ARIYALUR,2008,Whole Year,Coconut,335,0
-Tamil Nadu,ARIYALUR,2008,Whole Year,Coriander,460,0
-Tamil Nadu,ARIYALUR,2008,Whole Year,Cotton(lint),3566,0
-Tamil Nadu,ARIYALUR,2008,Whole Year,Dry chillies,1774,0
-Tamil Nadu,ARIYALUR,2008,Whole Year,Groundnut,14528,0
-Tamil Nadu,ARIYALUR,2008,Whole Year,Jowar,6674,0
-Tamil Nadu,ARIYALUR,2008,Whole Year,Maize,9797,0
-Tamil Nadu,ARIYALUR,2008,Whole Year,Moong(Green Gram),39,0
-Tamil Nadu,ARIYALUR,2008,Whole Year,Onion,21,0
-Tamil Nadu,ARIYALUR,2008,Whole Year,Ragi,13,0
-Tamil Nadu,ARIYALUR,2008,Whole Year,Sugarcane,8608,0
-Tamil Nadu,ARIYALUR,2008,Whole Year,Sunflower,221,0
-Tamil Nadu,ARIYALUR,2008,Whole Year,Sweet potato,2,0
-Tamil Nadu,ARIYALUR,2008,Whole Year,Tapioca,258,0
-Tamil Nadu,ARIYALUR,2008,Whole Year,Turmeric,10,0
-Tamil Nadu,ARIYALUR,2008,Whole Year,Urad,1192,0
+Tamil Nadu,ARIYALUR,2008,Kharif,Rice,24574,
+Tamil Nadu,ARIYALUR,2008,Whole Year,Arhar/Tur,209,
+Tamil Nadu,ARIYALUR,2008,Whole Year,Bajra,565,
+Tamil Nadu,ARIYALUR,2008,Whole Year,Banana,190,
+Tamil Nadu,ARIYALUR,2008,Whole Year,Cashewnut,31113,
+Tamil Nadu,ARIYALUR,2008,Whole Year,Castor seed,27,
+Tamil Nadu,ARIYALUR,2008,Whole Year,Coconut,335,
+Tamil Nadu,ARIYALUR,2008,Whole Year,Coriander,460,
+Tamil Nadu,ARIYALUR,2008,Whole Year,Cotton(lint),3566,
+Tamil Nadu,ARIYALUR,2008,Whole Year,Dry chillies,1774,
+Tamil Nadu,ARIYALUR,2008,Whole Year,Groundnut,14528,
+Tamil Nadu,ARIYALUR,2008,Whole Year,Jowar,6674,
+Tamil Nadu,ARIYALUR,2008,Whole Year,Maize,9797,
+Tamil Nadu,ARIYALUR,2008,Whole Year,Moong(Green Gram),39,
+Tamil Nadu,ARIYALUR,2008,Whole Year,Onion,21,
+Tamil Nadu,ARIYALUR,2008,Whole Year,Ragi,13,
+Tamil Nadu,ARIYALUR,2008,Whole Year,Sugarcane,8608,
+Tamil Nadu,ARIYALUR,2008,Whole Year,Sunflower,221,
+Tamil Nadu,ARIYALUR,2008,Whole Year,Sweet potato,2,
+Tamil Nadu,ARIYALUR,2008,Whole Year,Tapioca,258,
+Tamil Nadu,ARIYALUR,2008,Whole Year,Turmeric,10,
+Tamil Nadu,ARIYALUR,2008,Whole Year,Urad,1192,
 Tamil Nadu,ARIYALUR,2009,Kharif,Rice,25978,80462
 Tamil Nadu,ARIYALUR,2009,Kharif,Small millets,404,649
 Tamil Nadu,ARIYALUR,2009,Whole Year,Arhar/Tur,160,122
@@ -281,46 +281,46 @@ Tamil Nadu,COIMBATORE,2002,Kharif,Sunflower,10,12
 Tamil Nadu,COIMBATORE,2002,Kharif,Urad,2083,831
 Tamil Nadu,COIMBATORE,2002,Kharif,Varagu,1,1
 Tamil Nadu,COIMBATORE,2002,Rabi,Gram,4113,3046
-Tamil Nadu,COIMBATORE,2002,Rabi,Wheat,6,0
+Tamil Nadu,COIMBATORE,2002,Rabi,Wheat,6,
 Tamil Nadu,COIMBATORE,2002,Whole Year,Arecanut,1589,
-Tamil Nadu,COIMBATORE,2002,Whole Year,Ash Gourd,67,0
+Tamil Nadu,COIMBATORE,2002,Whole Year,Ash Gourd,67,
 Tamil Nadu,COIMBATORE,2002,Whole Year,Banana,6499,212533
-Tamil Nadu,COIMBATORE,2002,Whole Year,Beans & Mutter(Vegetable),2,0
-Tamil Nadu,COIMBATORE,2002,Whole Year,Beet Root,265,0
+Tamil Nadu,COIMBATORE,2002,Whole Year,Beans & Mutter(Vegetable),2,
+Tamil Nadu,COIMBATORE,2002,Whole Year,Beet Root,265,
 Tamil Nadu,COIMBATORE,2002,Whole Year,Bhindi,392,5017
-Tamil Nadu,COIMBATORE,2002,Whole Year,Bitter Gourd,182,0
-Tamil Nadu,COIMBATORE,2002,Whole Year,Bottle Gourd,12,0
+Tamil Nadu,COIMBATORE,2002,Whole Year,Bitter Gourd,182,
+Tamil Nadu,COIMBATORE,2002,Whole Year,Bottle Gourd,12,
 Tamil Nadu,COIMBATORE,2002,Whole Year,Brinjal,621,6413
 Tamil Nadu,COIMBATORE,2002,Whole Year,Cashewnut,243,73
-Tamil Nadu,COIMBATORE,2002,Whole Year,Cauliflower,59,0
+Tamil Nadu,COIMBATORE,2002,Whole Year,Cauliflower,59,
 Tamil Nadu,COIMBATORE,2002,Whole Year,Citrus Fruit,56,62
 Tamil Nadu,COIMBATORE,2002,Whole Year,Coconut,99250,630000
 Tamil Nadu,COIMBATORE,2002,Whole Year,Coriander,680,323
-Tamil Nadu,COIMBATORE,2002,Whole Year,Cucumber,33,0
-Tamil Nadu,COIMBATORE,2002,Whole Year,Drum Stick,45,0
+Tamil Nadu,COIMBATORE,2002,Whole Year,Cucumber,33,
+Tamil Nadu,COIMBATORE,2002,Whole Year,Drum Stick,45,
 Tamil Nadu,COIMBATORE,2002,Whole Year,Dry chillies,1265,654
 Tamil Nadu,COIMBATORE,2002,Whole Year,Garlic,2,11
 Tamil Nadu,COIMBATORE,2002,Whole Year,Grapes,368,6782
 Tamil Nadu,COIMBATORE,2002,Whole Year,Jack Fruit,13,147
-Tamil Nadu,COIMBATORE,2002,Whole Year,Lab-Lab,119,0
+Tamil Nadu,COIMBATORE,2002,Whole Year,Lab-Lab,119,
 Tamil Nadu,COIMBATORE,2002,Whole Year,Mango,3848,28864
 Tamil Nadu,COIMBATORE,2002,Whole Year,Onion,1970,26248
 Tamil Nadu,COIMBATORE,2002,Whole Year,Orange,18,28
-Tamil Nadu,COIMBATORE,2002,Whole Year,Other Citrus Fruit,162,0
-Tamil Nadu,COIMBATORE,2002,Whole Year,Other Fresh Fruits,325,0
-Tamil Nadu,COIMBATORE,2002,Whole Year,Other Vegetables,626,0
-Tamil Nadu,COIMBATORE,2002,Whole Year,Papaya,149,0
+Tamil Nadu,COIMBATORE,2002,Whole Year,Other Citrus Fruit,162,
+Tamil Nadu,COIMBATORE,2002,Whole Year,Other Fresh Fruits,325,
+Tamil Nadu,COIMBATORE,2002,Whole Year,Other Vegetables,626,
+Tamil Nadu,COIMBATORE,2002,Whole Year,Papaya,149,
 Tamil Nadu,COIMBATORE,2002,Whole Year,Pome Fruit,172,900
-Tamil Nadu,COIMBATORE,2002,Whole Year,Pome Granet,51,0
-Tamil Nadu,COIMBATORE,2002,Whole Year,Redish,9,0
-Tamil Nadu,COIMBATORE,2002,Whole Year,Ribed Guard,78,0
-Tamil Nadu,COIMBATORE,2002,Whole Year,Snak Guard,85,0
+Tamil Nadu,COIMBATORE,2002,Whole Year,Pome Granet,51,
+Tamil Nadu,COIMBATORE,2002,Whole Year,Redish,9,
+Tamil Nadu,COIMBATORE,2002,Whole Year,Ribed Guard,78,
+Tamil Nadu,COIMBATORE,2002,Whole Year,Snak Guard,85,
 Tamil Nadu,COIMBATORE,2002,Whole Year,Sugarcane,9623,830060
 Tamil Nadu,COIMBATORE,2002,Whole Year,Tapioca,518,15576
 Tamil Nadu,COIMBATORE,2002,Whole Year,Tomato,4409,56986
 Tamil Nadu,COIMBATORE,2002,Whole Year,Turmeric,1453,7620
-Tamil Nadu,COIMBATORE,2002,Whole Year,Water Melon,32,0
-Tamil Nadu,COIMBATORE,2002,Whole Year,Yam,5,0
+Tamil Nadu,COIMBATORE,2002,Whole Year,Water Melon,32,
+Tamil Nadu,COIMBATORE,2002,Whole Year,Yam,5,
 Tamil Nadu,COIMBATORE,2003,Kharif,Arhar/Tur,342,209
 Tamil Nadu,COIMBATORE,2003,Kharif,Bajra,500,575
 Tamil Nadu,COIMBATORE,2003,Kharif,Castor seed,205,76
@@ -340,48 +340,48 @@ Tamil Nadu,COIMBATORE,2003,Kharif,Sunflower,13,17
 Tamil Nadu,COIMBATORE,2003,Kharif,Urad,1715,701
 Tamil Nadu,COIMBATORE,2003,Rabi,Gram,4627,3427
 Tamil Nadu,COIMBATORE,2003,Whole Year,Arecanut,1577,
-Tamil Nadu,COIMBATORE,2003,Whole Year,Ash Gourd,167,0
+Tamil Nadu,COIMBATORE,2003,Whole Year,Ash Gourd,167,
 Tamil Nadu,COIMBATORE,2003,Whole Year,Banana,4983,145880
-Tamil Nadu,COIMBATORE,2003,Whole Year,Beans & Mutter(Vegetable),2,0
-Tamil Nadu,COIMBATORE,2003,Whole Year,Beet Root,290,0
+Tamil Nadu,COIMBATORE,2003,Whole Year,Beans & Mutter(Vegetable),2,
+Tamil Nadu,COIMBATORE,2003,Whole Year,Beet Root,290,
 Tamil Nadu,COIMBATORE,2003,Whole Year,Bhindi,337,2885
-Tamil Nadu,COIMBATORE,2003,Whole Year,Bitter Gourd,233,0
+Tamil Nadu,COIMBATORE,2003,Whole Year,Bitter Gourd,233,
 Tamil Nadu,COIMBATORE,2003,Whole Year,Black pepper,127,25
-Tamil Nadu,COIMBATORE,2003,Whole Year,Bottle Gourd,6,0
+Tamil Nadu,COIMBATORE,2003,Whole Year,Bottle Gourd,6,
 Tamil Nadu,COIMBATORE,2003,Whole Year,Brinjal,553,6182
 Tamil Nadu,COIMBATORE,2003,Whole Year,Cabbage,5,318
 Tamil Nadu,COIMBATORE,2003,Whole Year,Cardamom,813,63
 Tamil Nadu,COIMBATORE,2003,Whole Year,Cashewnut,249,86
-Tamil Nadu,COIMBATORE,2003,Whole Year,Cauliflower,55,0
+Tamil Nadu,COIMBATORE,2003,Whole Year,Cauliflower,55,
 Tamil Nadu,COIMBATORE,2003,Whole Year,Citrus Fruit,59,62
 Tamil Nadu,COIMBATORE,2003,Whole Year,Coconut,99381,690200
 Tamil Nadu,COIMBATORE,2003,Whole Year,Coriander,1747,911
-Tamil Nadu,COIMBATORE,2003,Whole Year,Cucumber,47,0
-Tamil Nadu,COIMBATORE,2003,Whole Year,Drum Stick,60,0
+Tamil Nadu,COIMBATORE,2003,Whole Year,Cucumber,47,
+Tamil Nadu,COIMBATORE,2003,Whole Year,Drum Stick,60,
 Tamil Nadu,COIMBATORE,2003,Whole Year,Dry chillies,1410,724
 Tamil Nadu,COIMBATORE,2003,Whole Year,Grapes,365,1638
 Tamil Nadu,COIMBATORE,2003,Whole Year,Jack Fruit,14,135
-Tamil Nadu,COIMBATORE,2003,Whole Year,Lab-Lab,244,0
+Tamil Nadu,COIMBATORE,2003,Whole Year,Lab-Lab,244,
 Tamil Nadu,COIMBATORE,2003,Whole Year,Mango,3793,10951
 Tamil Nadu,COIMBATORE,2003,Whole Year,Onion,1330,18824
 Tamil Nadu,COIMBATORE,2003,Whole Year,Orange,12,24
-Tamil Nadu,COIMBATORE,2003,Whole Year,Other Citrus Fruit,213,0
-Tamil Nadu,COIMBATORE,2003,Whole Year,Other Fresh Fruits,382,0
-Tamil Nadu,COIMBATORE,2003,Whole Year,Other Vegetables,322,0
-Tamil Nadu,COIMBATORE,2003,Whole Year,Papaya,218,0
+Tamil Nadu,COIMBATORE,2003,Whole Year,Other Citrus Fruit,213,
+Tamil Nadu,COIMBATORE,2003,Whole Year,Other Fresh Fruits,382,
+Tamil Nadu,COIMBATORE,2003,Whole Year,Other Vegetables,322,
+Tamil Nadu,COIMBATORE,2003,Whole Year,Papaya,218,
 Tamil Nadu,COIMBATORE,2003,Whole Year,Pome Fruit,156,1096
-Tamil Nadu,COIMBATORE,2003,Whole Year,Pome Granet,38,0
-Tamil Nadu,COIMBATORE,2003,Whole Year,Pump Kin,387,0
-Tamil Nadu,COIMBATORE,2003,Whole Year,Redish,18,0
-Tamil Nadu,COIMBATORE,2003,Whole Year,Ribed Guard,80,0
-Tamil Nadu,COIMBATORE,2003,Whole Year,Snak Guard,108,0
+Tamil Nadu,COIMBATORE,2003,Whole Year,Pome Granet,38,
+Tamil Nadu,COIMBATORE,2003,Whole Year,Pump Kin,387,
+Tamil Nadu,COIMBATORE,2003,Whole Year,Redish,18,
+Tamil Nadu,COIMBATORE,2003,Whole Year,Ribed Guard,80,
+Tamil Nadu,COIMBATORE,2003,Whole Year,Snak Guard,108,
 Tamil Nadu,COIMBATORE,2003,Whole Year,Sugarcane,6299,548422
 Tamil Nadu,COIMBATORE,2003,Whole Year,Sweet potato,1,14
 Tamil Nadu,COIMBATORE,2003,Whole Year,Tapioca,459,14224
 Tamil Nadu,COIMBATORE,2003,Whole Year,Tomato,4386,52229
 Tamil Nadu,COIMBATORE,2003,Whole Year,Turmeric,1786,7945
-Tamil Nadu,COIMBATORE,2003,Whole Year,Water Melon,21,0
-Tamil Nadu,COIMBATORE,2003,Whole Year,Yam,5,0
+Tamil Nadu,COIMBATORE,2003,Whole Year,Water Melon,21,
+Tamil Nadu,COIMBATORE,2003,Whole Year,Yam,5,
 Tamil Nadu,COIMBATORE,2004,Kharif,Arhar/Tur,296,198
 Tamil Nadu,COIMBATORE,2004,Kharif,Bajra,460,865
 Tamil Nadu,COIMBATORE,2004,Kharif,Castor seed,236,87
@@ -805,30 +805,30 @@ Tamil Nadu,CUDDALORE,2002,Kharif,Sunflower,235,272
 Tamil Nadu,CUDDALORE,2002,Kharif,Urad,31732,12419
 Tamil Nadu,CUDDALORE,2002,Kharif,Varagu,4754,5730
 Tamil Nadu,CUDDALORE,2002,Rabi,Gram,5,2
-Tamil Nadu,CUDDALORE,2002,Whole Year,Ash Gourd,4,0
+Tamil Nadu,CUDDALORE,2002,Whole Year,Ash Gourd,4,
 Tamil Nadu,CUDDALORE,2002,Whole Year,Banana,3753,104971
 Tamil Nadu,CUDDALORE,2002,Whole Year,Bhindi,70,522
-Tamil Nadu,CUDDALORE,2002,Whole Year,Bitter Gourd,58,0
-Tamil Nadu,CUDDALORE,2002,Whole Year,Bottle Gourd,1,0
+Tamil Nadu,CUDDALORE,2002,Whole Year,Bitter Gourd,58,
+Tamil Nadu,CUDDALORE,2002,Whole Year,Bottle Gourd,1,
 Tamil Nadu,CUDDALORE,2002,Whole Year,Brinjal,250,1906
 Tamil Nadu,CUDDALORE,2002,Whole Year,Cashewnut,28083,19178
 Tamil Nadu,CUDDALORE,2002,Whole Year,Citrus Fruit,60,67
 Tamil Nadu,CUDDALORE,2002,Whole Year,Coconut,2670,35700
 Tamil Nadu,CUDDALORE,2002,Whole Year,Coriander,4182,769
-Tamil Nadu,CUDDALORE,2002,Whole Year,Cucumber,9,0
-Tamil Nadu,CUDDALORE,2002,Whole Year,Drum Stick,59,0
+Tamil Nadu,CUDDALORE,2002,Whole Year,Cucumber,9,
+Tamil Nadu,CUDDALORE,2002,Whole Year,Drum Stick,59,
 Tamil Nadu,CUDDALORE,2002,Whole Year,Dry chillies,169,100
 Tamil Nadu,CUDDALORE,2002,Whole Year,Jack Fruit,527,5966
-Tamil Nadu,CUDDALORE,2002,Whole Year,Lab-Lab,30,0
+Tamil Nadu,CUDDALORE,2002,Whole Year,Lab-Lab,30,
 Tamil Nadu,CUDDALORE,2002,Whole Year,Mango,563,3373
 Tamil Nadu,CUDDALORE,2002,Whole Year,Onion,121,1023
-Tamil Nadu,CUDDALORE,2002,Whole Year,Other Fresh Fruits,4,0
-Tamil Nadu,CUDDALORE,2002,Whole Year,Other Vegetables,128,0
+Tamil Nadu,CUDDALORE,2002,Whole Year,Other Fresh Fruits,4,
+Tamil Nadu,CUDDALORE,2002,Whole Year,Other Vegetables,128,
 Tamil Nadu,CUDDALORE,2002,Whole Year,Pome Fruit,493,2579
-Tamil Nadu,CUDDALORE,2002,Whole Year,Pump Kin,4,0
-Tamil Nadu,CUDDALORE,2002,Whole Year,Redish,4,0
-Tamil Nadu,CUDDALORE,2002,Whole Year,Ribed Guard,3,0
-Tamil Nadu,CUDDALORE,2002,Whole Year,Snak Guard,172,0
+Tamil Nadu,CUDDALORE,2002,Whole Year,Pump Kin,4,
+Tamil Nadu,CUDDALORE,2002,Whole Year,Redish,4,
+Tamil Nadu,CUDDALORE,2002,Whole Year,Ribed Guard,3,
+Tamil Nadu,CUDDALORE,2002,Whole Year,Snak Guard,172,
 Tamil Nadu,CUDDALORE,2002,Whole Year,Sugarcane,40269,4598700
 Tamil Nadu,CUDDALORE,2002,Whole Year,Sweet potato,69,540
 Tamil Nadu,CUDDALORE,2002,Whole Year,Tapioca,4923,205397
@@ -852,36 +852,36 @@ Tamil Nadu,CUDDALORE,2003,Kharif,Small millets,2158,2177
 Tamil Nadu,CUDDALORE,2003,Kharif,Sunflower,317,410
 Tamil Nadu,CUDDALORE,2003,Kharif,Urad,31396,10382
 Tamil Nadu,CUDDALORE,2003,Kharif,Varagu,2069,2158
-Tamil Nadu,CUDDALORE,2003,Whole Year,Ash Gourd,11,0
+Tamil Nadu,CUDDALORE,2003,Whole Year,Ash Gourd,11,
 Tamil Nadu,CUDDALORE,2003,Whole Year,Banana,3756,93525
 Tamil Nadu,CUDDALORE,2003,Whole Year,Bhindi,78,546
-Tamil Nadu,CUDDALORE,2003,Whole Year,Bitter Gourd,57,0
+Tamil Nadu,CUDDALORE,2003,Whole Year,Bitter Gourd,57,
 Tamil Nadu,CUDDALORE,2003,Whole Year,Brinjal,296,3309
 Tamil Nadu,CUDDALORE,2003,Whole Year,Cashewnut,28497,22157
 Tamil Nadu,CUDDALORE,2003,Whole Year,Citrus Fruit,60,63
 Tamil Nadu,CUDDALORE,2003,Whole Year,Coconut,2652,39100
 Tamil Nadu,CUDDALORE,2003,Whole Year,Coriander,5996,2421
-Tamil Nadu,CUDDALORE,2003,Whole Year,Cucumber,23,0
-Tamil Nadu,CUDDALORE,2003,Whole Year,Drum Stick,69,0
+Tamil Nadu,CUDDALORE,2003,Whole Year,Cucumber,23,
+Tamil Nadu,CUDDALORE,2003,Whole Year,Drum Stick,69,
 Tamil Nadu,CUDDALORE,2003,Whole Year,Dry chillies,149,79
 Tamil Nadu,CUDDALORE,2003,Whole Year,Jack Fruit,529,5111
-Tamil Nadu,CUDDALORE,2003,Whole Year,Lab-Lab,31,0
+Tamil Nadu,CUDDALORE,2003,Whole Year,Lab-Lab,31,
 Tamil Nadu,CUDDALORE,2003,Whole Year,Mango,571,2372
 Tamil Nadu,CUDDALORE,2003,Whole Year,Onion,83,748
-Tamil Nadu,CUDDALORE,2003,Whole Year,Other Citrus Fruit,1,0
-Tamil Nadu,CUDDALORE,2003,Whole Year,Other Fresh Fruits,10,0
-Tamil Nadu,CUDDALORE,2003,Whole Year,Other Vegetables,143,0
+Tamil Nadu,CUDDALORE,2003,Whole Year,Other Citrus Fruit,1,
+Tamil Nadu,CUDDALORE,2003,Whole Year,Other Fresh Fruits,10,
+Tamil Nadu,CUDDALORE,2003,Whole Year,Other Vegetables,143,
 Tamil Nadu,CUDDALORE,2003,Whole Year,Pome Fruit,499,3504
-Tamil Nadu,CUDDALORE,2003,Whole Year,Pump Kin,8,0
-Tamil Nadu,CUDDALORE,2003,Whole Year,Redish,7,0
-Tamil Nadu,CUDDALORE,2003,Whole Year,Ribed Guard,4,0
-Tamil Nadu,CUDDALORE,2003,Whole Year,Snak Guard,181,0
+Tamil Nadu,CUDDALORE,2003,Whole Year,Pump Kin,8,
+Tamil Nadu,CUDDALORE,2003,Whole Year,Redish,7,
+Tamil Nadu,CUDDALORE,2003,Whole Year,Ribed Guard,4,
+Tamil Nadu,CUDDALORE,2003,Whole Year,Snak Guard,181,
 Tamil Nadu,CUDDALORE,2003,Whole Year,Sugarcane,34061,4042121
 Tamil Nadu,CUDDALORE,2003,Whole Year,Sweet potato,59,531
 Tamil Nadu,CUDDALORE,2003,Whole Year,Tapioca,5168,177563
 Tamil Nadu,CUDDALORE,2003,Whole Year,Tomato,7,71
 Tamil Nadu,CUDDALORE,2003,Whole Year,Turmeric,51,212
-Tamil Nadu,CUDDALORE,2003,Whole Year,Water Melon,10,0
+Tamil Nadu,CUDDALORE,2003,Whole Year,Water Melon,10,
 Tamil Nadu,CUDDALORE,2004,Kharif,Arhar/Tur,664,443
 Tamil Nadu,CUDDALORE,2004,Kharif,Bajra,3176,4640
 Tamil Nadu,CUDDALORE,2004,Kharif,Castor seed,27,18
@@ -1295,51 +1295,51 @@ Tamil Nadu,DHARMAPURI,2002,Kharif,Varagu,25,28
 Tamil Nadu,DHARMAPURI,2002,Rabi,Gram,442,55
 Tamil Nadu,DHARMAPURI,2002,Rabi,Rapeseed &Mustard,474,117
 Tamil Nadu,DHARMAPURI,2002,Whole Year,Arecanut,203,
-Tamil Nadu,DHARMAPURI,2002,Whole Year,Ash Gourd,12,0
+Tamil Nadu,DHARMAPURI,2002,Whole Year,Ash Gourd,12,
 Tamil Nadu,DHARMAPURI,2002,Whole Year,Banana,1142,42200
-Tamil Nadu,DHARMAPURI,2002,Whole Year,Beans & Mutter(Vegetable),843,0
-Tamil Nadu,DHARMAPURI,2002,Whole Year,Beet Root,166,0
+Tamil Nadu,DHARMAPURI,2002,Whole Year,Beans & Mutter(Vegetable),843,
+Tamil Nadu,DHARMAPURI,2002,Whole Year,Beet Root,166,
 Tamil Nadu,DHARMAPURI,2002,Whole Year,Bhindi,598,4455
-Tamil Nadu,DHARMAPURI,2002,Whole Year,Bitter Gourd,26,0
-Tamil Nadu,DHARMAPURI,2002,Whole Year,Bottle Gourd,7,0
+Tamil Nadu,DHARMAPURI,2002,Whole Year,Bitter Gourd,26,
+Tamil Nadu,DHARMAPURI,2002,Whole Year,Bottle Gourd,7,
 Tamil Nadu,DHARMAPURI,2002,Whole Year,Brinjal,590,4499
 Tamil Nadu,DHARMAPURI,2002,Whole Year,Cabbage,1113,58583
-Tamil Nadu,DHARMAPURI,2002,Whole Year,Carrot,115,0
+Tamil Nadu,DHARMAPURI,2002,Whole Year,Carrot,115,
 Tamil Nadu,DHARMAPURI,2002,Whole Year,Cashewnut,16,5
-Tamil Nadu,DHARMAPURI,2002,Whole Year,Cauliflower,195,0
+Tamil Nadu,DHARMAPURI,2002,Whole Year,Cauliflower,195,
 Tamil Nadu,DHARMAPURI,2002,Whole Year,Citrus Fruit,91,101
 Tamil Nadu,DHARMAPURI,2002,Whole Year,Coconut,20229,155900
 Tamil Nadu,DHARMAPURI,2002,Whole Year,Coriander,808,150
-Tamil Nadu,DHARMAPURI,2002,Whole Year,Cucumber,145,0
-Tamil Nadu,DHARMAPURI,2002,Whole Year,Drum Stick,29,0
+Tamil Nadu,DHARMAPURI,2002,Whole Year,Cucumber,145,
+Tamil Nadu,DHARMAPURI,2002,Whole Year,Drum Stick,29,
 Tamil Nadu,DHARMAPURI,2002,Whole Year,Dry chillies,703,646
 Tamil Nadu,DHARMAPURI,2002,Whole Year,Dry ginger,1,16
 Tamil Nadu,DHARMAPURI,2002,Whole Year,Grapes,119,2019
 Tamil Nadu,DHARMAPURI,2002,Whole Year,Jack Fruit,38,430
-Tamil Nadu,DHARMAPURI,2002,Whole Year,Lab-Lab,48,0
+Tamil Nadu,DHARMAPURI,2002,Whole Year,Lab-Lab,48,
 Tamil Nadu,DHARMAPURI,2002,Whole Year,Mango,36523,353860
 Tamil Nadu,DHARMAPURI,2002,Whole Year,Onion,352,2977
 Tamil Nadu,DHARMAPURI,2002,Whole Year,Orange,1,2
-Tamil Nadu,DHARMAPURI,2002,Whole Year,Other Citrus Fruit,17,0
-Tamil Nadu,DHARMAPURI,2002,Whole Year,Other Fresh Fruits,405,0
-Tamil Nadu,DHARMAPURI,2002,Whole Year,Other Vegetables,311,0
-Tamil Nadu,DHARMAPURI,2002,Whole Year,Papaya,89,0
+Tamil Nadu,DHARMAPURI,2002,Whole Year,Other Citrus Fruit,17,
+Tamil Nadu,DHARMAPURI,2002,Whole Year,Other Fresh Fruits,405,
+Tamil Nadu,DHARMAPURI,2002,Whole Year,Other Vegetables,311,
+Tamil Nadu,DHARMAPURI,2002,Whole Year,Papaya,89,
 Tamil Nadu,DHARMAPURI,2002,Whole Year,Pineapple,1,31
 Tamil Nadu,DHARMAPURI,2002,Whole Year,Pome Fruit,504,2637
-Tamil Nadu,DHARMAPURI,2002,Whole Year,Pome Granet,53,0
+Tamil Nadu,DHARMAPURI,2002,Whole Year,Pome Granet,53,
 Tamil Nadu,DHARMAPURI,2002,Whole Year,Potato,277,5832
-Tamil Nadu,DHARMAPURI,2002,Whole Year,Pump Kin,26,0
-Tamil Nadu,DHARMAPURI,2002,Whole Year,Redish,434,0
-Tamil Nadu,DHARMAPURI,2002,Whole Year,Ribed Guard,11,0
-Tamil Nadu,DHARMAPURI,2002,Whole Year,Snak Guard,13,0
+Tamil Nadu,DHARMAPURI,2002,Whole Year,Pump Kin,26,
+Tamil Nadu,DHARMAPURI,2002,Whole Year,Redish,434,
+Tamil Nadu,DHARMAPURI,2002,Whole Year,Ribed Guard,11,
+Tamil Nadu,DHARMAPURI,2002,Whole Year,Snak Guard,13,
 Tamil Nadu,DHARMAPURI,2002,Whole Year,Sugarcane,16049,1114260
 Tamil Nadu,DHARMAPURI,2002,Whole Year,Sweet potato,27,369
 Tamil Nadu,DHARMAPURI,2002,Whole Year,Tapioca,14712,305811
 Tamil Nadu,DHARMAPURI,2002,Whole Year,Tobacco,625,933
 Tamil Nadu,DHARMAPURI,2002,Whole Year,Tomato,5294,101955
 Tamil Nadu,DHARMAPURI,2002,Whole Year,Turmeric,1921,4240
-Tamil Nadu,DHARMAPURI,2002,Whole Year,Water Melon,18,0
-Tamil Nadu,DHARMAPURI,2002,Whole Year,Yam,1,0
+Tamil Nadu,DHARMAPURI,2002,Whole Year,Water Melon,18,
+Tamil Nadu,DHARMAPURI,2002,Whole Year,Yam,1,
 Tamil Nadu,DHARMAPURI,2003,Kharif,Arhar/Tur,3742,1381
 Tamil Nadu,DHARMAPURI,2003,Kharif,Bajra,965,1116
 Tamil Nadu,DHARMAPURI,2003,Kharif,Castor seed,577,198
@@ -1360,42 +1360,42 @@ Tamil Nadu,DHARMAPURI,2003,Kharif,Urad,2976,1216
 Tamil Nadu,DHARMAPURI,2003,Rabi,Gram,566,78
 Tamil Nadu,DHARMAPURI,2003,Rabi,Rapeseed &Mustard,285,70
 Tamil Nadu,DHARMAPURI,2003,Whole Year,Arecanut,308,
-Tamil Nadu,DHARMAPURI,2003,Whole Year,Ash Gourd,6,0
+Tamil Nadu,DHARMAPURI,2003,Whole Year,Ash Gourd,6,
 Tamil Nadu,DHARMAPURI,2003,Whole Year,Banana,385,13619
-Tamil Nadu,DHARMAPURI,2003,Whole Year,Beans & Mutter(Vegetable),32,0
-Tamil Nadu,DHARMAPURI,2003,Whole Year,Beet Root,1,0
+Tamil Nadu,DHARMAPURI,2003,Whole Year,Beans & Mutter(Vegetable),32,
+Tamil Nadu,DHARMAPURI,2003,Whole Year,Beet Root,1,
 Tamil Nadu,DHARMAPURI,2003,Whole Year,Bhindi,113,791
-Tamil Nadu,DHARMAPURI,2003,Whole Year,Bitter Gourd,5,0
-Tamil Nadu,DHARMAPURI,2003,Whole Year,Bottle Gourd,1,0
+Tamil Nadu,DHARMAPURI,2003,Whole Year,Bitter Gourd,5,
+Tamil Nadu,DHARMAPURI,2003,Whole Year,Bottle Gourd,1,
 Tamil Nadu,DHARMAPURI,2003,Whole Year,Brinjal,162,2460
 Tamil Nadu,DHARMAPURI,2003,Whole Year,Cabbage,1,49
 Tamil Nadu,DHARMAPURI,2003,Whole Year,Cashewnut,2,1
 Tamil Nadu,DHARMAPURI,2003,Whole Year,Citrus Fruit,22,23
 Tamil Nadu,DHARMAPURI,2003,Whole Year,Coconut,21461,109900
 Tamil Nadu,DHARMAPURI,2003,Whole Year,Coriander,365,106
-Tamil Nadu,DHARMAPURI,2003,Whole Year,Cucumber,14,0
-Tamil Nadu,DHARMAPURI,2003,Whole Year,Drum Stick,12,0
+Tamil Nadu,DHARMAPURI,2003,Whole Year,Cucumber,14,
+Tamil Nadu,DHARMAPURI,2003,Whole Year,Drum Stick,12,
 Tamil Nadu,DHARMAPURI,2003,Whole Year,Dry chillies,271,777
 Tamil Nadu,DHARMAPURI,2003,Whole Year,Grapes,2,33
 Tamil Nadu,DHARMAPURI,2003,Whole Year,Jack Fruit,36,348
-Tamil Nadu,DHARMAPURI,2003,Whole Year,Lab-Lab,24,0
+Tamil Nadu,DHARMAPURI,2003,Whole Year,Lab-Lab,24,
 Tamil Nadu,DHARMAPURI,2003,Whole Year,Mango,5177,37742
 Tamil Nadu,DHARMAPURI,2003,Whole Year,Onion,298,2684
-Tamil Nadu,DHARMAPURI,2003,Whole Year,Other Citrus Fruit,20,0
-Tamil Nadu,DHARMAPURI,2003,Whole Year,Other Fresh Fruits,182,0
-Tamil Nadu,DHARMAPURI,2003,Whole Year,Other Vegetables,60,0
+Tamil Nadu,DHARMAPURI,2003,Whole Year,Other Citrus Fruit,20,
+Tamil Nadu,DHARMAPURI,2003,Whole Year,Other Fresh Fruits,182,
+Tamil Nadu,DHARMAPURI,2003,Whole Year,Other Vegetables,60,
 Tamil Nadu,DHARMAPURI,2003,Whole Year,Pome Fruit,171,1201
-Tamil Nadu,DHARMAPURI,2003,Whole Year,Pome Granet,19,0
-Tamil Nadu,DHARMAPURI,2003,Whole Year,Pump Kin,5,0
-Tamil Nadu,DHARMAPURI,2003,Whole Year,Redish,20,0
-Tamil Nadu,DHARMAPURI,2003,Whole Year,Ribed Guard,1,0
-Tamil Nadu,DHARMAPURI,2003,Whole Year,Snak Guard,3,0
+Tamil Nadu,DHARMAPURI,2003,Whole Year,Pome Granet,19,
+Tamil Nadu,DHARMAPURI,2003,Whole Year,Pump Kin,5,
+Tamil Nadu,DHARMAPURI,2003,Whole Year,Redish,20,
+Tamil Nadu,DHARMAPURI,2003,Whole Year,Ribed Guard,1,
+Tamil Nadu,DHARMAPURI,2003,Whole Year,Snak Guard,3,
 Tamil Nadu,DHARMAPURI,2003,Whole Year,Sugarcane,5560,342368
 Tamil Nadu,DHARMAPURI,2003,Whole Year,Sweet potato,1,14
 Tamil Nadu,DHARMAPURI,2003,Whole Year,Tapioca,16274,330953
 Tamil Nadu,DHARMAPURI,2003,Whole Year,Tomato,2640,34843
 Tamil Nadu,DHARMAPURI,2003,Whole Year,Turmeric,1659,4114
-Tamil Nadu,DHARMAPURI,2003,Whole Year,Water Melon,8,0
+Tamil Nadu,DHARMAPURI,2003,Whole Year,Water Melon,8,
 Tamil Nadu,DHARMAPURI,2004,Kharif,Arhar/Tur,2488,1714
 Tamil Nadu,DHARMAPURI,2004,Kharif,Bajra,1807,2046
 Tamil Nadu,DHARMAPURI,2004,Kharif,Castor seed,149,51
@@ -1845,56 +1845,56 @@ Tamil Nadu,DINDIGUL,2002,Kharif,Sunflower,270,348
 Tamil Nadu,DINDIGUL,2002,Kharif,Urad,6043,2715
 Tamil Nadu,DINDIGUL,2002,Kharif,Varagu,141,157
 Tamil Nadu,DINDIGUL,2002,Rabi,Gram,402,203
-Tamil Nadu,DINDIGUL,2002,Rabi,Wheat,1,0
-Tamil Nadu,DINDIGUL,2002,Whole Year,Apple,3,0
+Tamil Nadu,DINDIGUL,2002,Rabi,Wheat,1,
+Tamil Nadu,DINDIGUL,2002,Whole Year,Apple,3,
 Tamil Nadu,DINDIGUL,2002,Whole Year,Arecanut,32,
 Tamil Nadu,DINDIGUL,2002,Whole Year,Banana,3325,85802
-Tamil Nadu,DINDIGUL,2002,Whole Year,Beans & Mutter(Vegetable),674,0
-Tamil Nadu,DINDIGUL,2002,Whole Year,Beet Root,30,0
+Tamil Nadu,DINDIGUL,2002,Whole Year,Beans & Mutter(Vegetable),674,
+Tamil Nadu,DINDIGUL,2002,Whole Year,Beet Root,30,
 Tamil Nadu,DINDIGUL,2002,Whole Year,Bhindi,287,1070
-Tamil Nadu,DINDIGUL,2002,Whole Year,Bitter Gourd,137,0
-Tamil Nadu,DINDIGUL,2002,Whole Year,Bottle Gourd,9,0
+Tamil Nadu,DINDIGUL,2002,Whole Year,Bitter Gourd,137,
+Tamil Nadu,DINDIGUL,2002,Whole Year,Bottle Gourd,9,
 Tamil Nadu,DINDIGUL,2002,Whole Year,Brinjal,641,3285
 Tamil Nadu,DINDIGUL,2002,Whole Year,Cabbage,24,1409
-Tamil Nadu,DINDIGUL,2002,Whole Year,Carrot,678,0
+Tamil Nadu,DINDIGUL,2002,Whole Year,Carrot,678,
 Tamil Nadu,DINDIGUL,2002,Whole Year,Cashewnut,601,182
-Tamil Nadu,DINDIGUL,2002,Whole Year,Cauliflower,179,0
+Tamil Nadu,DINDIGUL,2002,Whole Year,Cauliflower,179,
 Tamil Nadu,DINDIGUL,2002,Whole Year,Citrus Fruit,2731,3028
 Tamil Nadu,DINDIGUL,2002,Whole Year,Coconut,24277,211500
 Tamil Nadu,DINDIGUL,2002,Whole Year,Coriander,175,33
-Tamil Nadu,DINDIGUL,2002,Whole Year,Cucumber,43,0
-Tamil Nadu,DINDIGUL,2002,Whole Year,Drum Stick,1309,0
+Tamil Nadu,DINDIGUL,2002,Whole Year,Cucumber,43,
+Tamil Nadu,DINDIGUL,2002,Whole Year,Drum Stick,1309,
 Tamil Nadu,DINDIGUL,2002,Whole Year,Dry chillies,1203,1100
 Tamil Nadu,DINDIGUL,2002,Whole Year,Dry ginger,2,32
 Tamil Nadu,DINDIGUL,2002,Whole Year,Garlic,439,2677
 Tamil Nadu,DINDIGUL,2002,Whole Year,Grapes,226,3298
 Tamil Nadu,DINDIGUL,2002,Whole Year,Jack Fruit,279,3158
-Tamil Nadu,DINDIGUL,2002,Whole Year,Lab-Lab,749,0
+Tamil Nadu,DINDIGUL,2002,Whole Year,Lab-Lab,749,
 Tamil Nadu,DINDIGUL,2002,Whole Year,Mango,13164,32533
 Tamil Nadu,DINDIGUL,2002,Whole Year,Onion,2367,18892
 Tamil Nadu,DINDIGUL,2002,Whole Year,Orange,1876,2911
-Tamil Nadu,DINDIGUL,2002,Whole Year,Other Citrus Fruit,136,0
-Tamil Nadu,DINDIGUL,2002,Whole Year,Other Fresh Fruits,924,0
-Tamil Nadu,DINDIGUL,2002,Whole Year,Other Vegetables,307,0
-Tamil Nadu,DINDIGUL,2002,Whole Year,Papaya,4,0
-Tamil Nadu,DINDIGUL,2002,Whole Year,Peach,17,0
-Tamil Nadu,DINDIGUL,2002,Whole Year,Pear,1275,0
+Tamil Nadu,DINDIGUL,2002,Whole Year,Other Citrus Fruit,136,
+Tamil Nadu,DINDIGUL,2002,Whole Year,Other Fresh Fruits,924,
+Tamil Nadu,DINDIGUL,2002,Whole Year,Other Vegetables,307,
+Tamil Nadu,DINDIGUL,2002,Whole Year,Papaya,4,
+Tamil Nadu,DINDIGUL,2002,Whole Year,Peach,17,
+Tamil Nadu,DINDIGUL,2002,Whole Year,Pear,1275,
 Tamil Nadu,DINDIGUL,2002,Whole Year,Pineapple,67,1937
-Tamil Nadu,DINDIGUL,2002,Whole Year,Plums,374,0
+Tamil Nadu,DINDIGUL,2002,Whole Year,Plums,374,
 Tamil Nadu,DINDIGUL,2002,Whole Year,Pome Fruit,1667,8722
-Tamil Nadu,DINDIGUL,2002,Whole Year,Pome Granet,254,0
+Tamil Nadu,DINDIGUL,2002,Whole Year,Pome Granet,254,
 Tamil Nadu,DINDIGUL,2002,Whole Year,Potato,2745,38102
-Tamil Nadu,DINDIGUL,2002,Whole Year,Pump Kin,11,0
-Tamil Nadu,DINDIGUL,2002,Whole Year,Redish,39,0
-Tamil Nadu,DINDIGUL,2002,Whole Year,Snak Guard,71,0
+Tamil Nadu,DINDIGUL,2002,Whole Year,Pump Kin,11,
+Tamil Nadu,DINDIGUL,2002,Whole Year,Redish,39,
+Tamil Nadu,DINDIGUL,2002,Whole Year,Snak Guard,71,
 Tamil Nadu,DINDIGUL,2002,Whole Year,Sugarcane,5770,468450
 Tamil Nadu,DINDIGUL,2002,Whole Year,Sweet potato,64,874
 Tamil Nadu,DINDIGUL,2002,Whole Year,Tapioca,205,6476
 Tamil Nadu,DINDIGUL,2002,Whole Year,Tobacco,1853,2711
 Tamil Nadu,DINDIGUL,2002,Whole Year,Tomato,1781,7609
 Tamil Nadu,DINDIGUL,2002,Whole Year,Turmeric,38,142
-Tamil Nadu,DINDIGUL,2002,Whole Year,Turnip,1,0
-Tamil Nadu,DINDIGUL,2002,Whole Year,Water Melon,9,0
+Tamil Nadu,DINDIGUL,2002,Whole Year,Turnip,1,
+Tamil Nadu,DINDIGUL,2002,Whole Year,Water Melon,9,
 Tamil Nadu,DINDIGUL,2003,Kharif,Arhar/Tur,1210,787
 Tamil Nadu,DINDIGUL,2003,Kharif,Bajra,4614,5614
 Tamil Nadu,DINDIGUL,2003,Kharif,Castor seed,39,16
@@ -1914,56 +1914,56 @@ Tamil Nadu,DINDIGUL,2003,Kharif,Small millets,446,331
 Tamil Nadu,DINDIGUL,2003,Kharif,Sunflower,366,517
 Tamil Nadu,DINDIGUL,2003,Kharif,Urad,5817,2378
 Tamil Nadu,DINDIGUL,2003,Rabi,Gram,394,200
-Tamil Nadu,DINDIGUL,2003,Whole Year,Apple,4,0
+Tamil Nadu,DINDIGUL,2003,Whole Year,Apple,4,
 Tamil Nadu,DINDIGUL,2003,Whole Year,Arecanut,39,
-Tamil Nadu,DINDIGUL,2003,Whole Year,Ash Gourd,1,0
+Tamil Nadu,DINDIGUL,2003,Whole Year,Ash Gourd,1,
 Tamil Nadu,DINDIGUL,2003,Whole Year,Banana,3018,106762
-Tamil Nadu,DINDIGUL,2003,Whole Year,Beans & Mutter(Vegetable),871,0
-Tamil Nadu,DINDIGUL,2003,Whole Year,Beet Root,33,0
+Tamil Nadu,DINDIGUL,2003,Whole Year,Beans & Mutter(Vegetable),871,
+Tamil Nadu,DINDIGUL,2003,Whole Year,Beet Root,33,
 Tamil Nadu,DINDIGUL,2003,Whole Year,Bhindi,419,2935
-Tamil Nadu,DINDIGUL,2003,Whole Year,Bitter Gourd,151,0
+Tamil Nadu,DINDIGUL,2003,Whole Year,Bitter Gourd,151,
 Tamil Nadu,DINDIGUL,2003,Whole Year,Black pepper,791,286
-Tamil Nadu,DINDIGUL,2003,Whole Year,Bottle Gourd,7,0
+Tamil Nadu,DINDIGUL,2003,Whole Year,Bottle Gourd,7,
 Tamil Nadu,DINDIGUL,2003,Whole Year,Brinjal,444,4964
 Tamil Nadu,DINDIGUL,2003,Whole Year,Cabbage,16,1017
 Tamil Nadu,DINDIGUL,2003,Whole Year,Cardamom,260,26
-Tamil Nadu,DINDIGUL,2003,Whole Year,Carrot,639,0
+Tamil Nadu,DINDIGUL,2003,Whole Year,Carrot,639,
 Tamil Nadu,DINDIGUL,2003,Whole Year,Cashewnut,609,210
-Tamil Nadu,DINDIGUL,2003,Whole Year,Cauliflower,211,0
+Tamil Nadu,DINDIGUL,2003,Whole Year,Cauliflower,211,
 Tamil Nadu,DINDIGUL,2003,Whole Year,Citrus Fruit,2814,2937
 Tamil Nadu,DINDIGUL,2003,Whole Year,Coconut,23987,97400
 Tamil Nadu,DINDIGUL,2003,Whole Year,Coriander,197,57
-Tamil Nadu,DINDIGUL,2003,Whole Year,Cucumber,87,0
-Tamil Nadu,DINDIGUL,2003,Whole Year,Drum Stick,1535,0
+Tamil Nadu,DINDIGUL,2003,Whole Year,Cucumber,87,
+Tamil Nadu,DINDIGUL,2003,Whole Year,Drum Stick,1535,
 Tamil Nadu,DINDIGUL,2003,Whole Year,Dry chillies,1563,574
 Tamil Nadu,DINDIGUL,2003,Whole Year,Garlic,342,2085
 Tamil Nadu,DINDIGUL,2003,Whole Year,Grapes,166,4002
 Tamil Nadu,DINDIGUL,2003,Whole Year,Jack Fruit,339,3275
-Tamil Nadu,DINDIGUL,2003,Whole Year,Lab-Lab,1648,0
+Tamil Nadu,DINDIGUL,2003,Whole Year,Lab-Lab,1648,
 Tamil Nadu,DINDIGUL,2003,Whole Year,Mango,13349,46298
 Tamil Nadu,DINDIGUL,2003,Whole Year,Onion,2876,22539
 Tamil Nadu,DINDIGUL,2003,Whole Year,Orange,1890,3709
-Tamil Nadu,DINDIGUL,2003,Whole Year,Other Citrus Fruit,185,0
-Tamil Nadu,DINDIGUL,2003,Whole Year,Other Fresh Fruits,1113,0
-Tamil Nadu,DINDIGUL,2003,Whole Year,Other Vegetables,362,0
-Tamil Nadu,DINDIGUL,2003,Whole Year,Papaya,10,0
-Tamil Nadu,DINDIGUL,2003,Whole Year,Peach,21,0
-Tamil Nadu,DINDIGUL,2003,Whole Year,Pear,1275,0
+Tamil Nadu,DINDIGUL,2003,Whole Year,Other Citrus Fruit,185,
+Tamil Nadu,DINDIGUL,2003,Whole Year,Other Fresh Fruits,1113,
+Tamil Nadu,DINDIGUL,2003,Whole Year,Other Vegetables,362,
+Tamil Nadu,DINDIGUL,2003,Whole Year,Papaya,10,
+Tamil Nadu,DINDIGUL,2003,Whole Year,Peach,21,
+Tamil Nadu,DINDIGUL,2003,Whole Year,Pear,1275,
 Tamil Nadu,DINDIGUL,2003,Whole Year,Pineapple,35,1112
-Tamil Nadu,DINDIGUL,2003,Whole Year,Plums,413,0
+Tamil Nadu,DINDIGUL,2003,Whole Year,Plums,413,
 Tamil Nadu,DINDIGUL,2003,Whole Year,Pome Fruit,958,6726
-Tamil Nadu,DINDIGUL,2003,Whole Year,Pome Granet,253,0
+Tamil Nadu,DINDIGUL,2003,Whole Year,Pome Granet,253,
 Tamil Nadu,DINDIGUL,2003,Whole Year,Potato,2377,33241
-Tamil Nadu,DINDIGUL,2003,Whole Year,Pump Kin,16,0
-Tamil Nadu,DINDIGUL,2003,Whole Year,Redish,15,0
-Tamil Nadu,DINDIGUL,2003,Whole Year,Ribed Guard,3,0
-Tamil Nadu,DINDIGUL,2003,Whole Year,Snak Guard,62,0
+Tamil Nadu,DINDIGUL,2003,Whole Year,Pump Kin,16,
+Tamil Nadu,DINDIGUL,2003,Whole Year,Redish,15,
+Tamil Nadu,DINDIGUL,2003,Whole Year,Ribed Guard,3,
+Tamil Nadu,DINDIGUL,2003,Whole Year,Snak Guard,62,
 Tamil Nadu,DINDIGUL,2003,Whole Year,Sugarcane,2961,189827
 Tamil Nadu,DINDIGUL,2003,Whole Year,Sweet potato,83,1234
 Tamil Nadu,DINDIGUL,2003,Whole Year,Tapioca,175,5896
 Tamil Nadu,DINDIGUL,2003,Whole Year,Tomato,1568,15913
 Tamil Nadu,DINDIGUL,2003,Whole Year,Turmeric,11,46
-Tamil Nadu,DINDIGUL,2003,Whole Year,Water Melon,4,0
+Tamil Nadu,DINDIGUL,2003,Whole Year,Water Melon,4,
 Tamil Nadu,DINDIGUL,2004,Kharif,Arhar/Tur,563,284
 Tamil Nadu,DINDIGUL,2004,Kharif,Bajra,3997,5348
 Tamil Nadu,DINDIGUL,2004,Kharif,Castor seed,131,54
@@ -2444,47 +2444,47 @@ Tamil Nadu,ERODE,2002,Kharif,Urad,1962,586
 Tamil Nadu,ERODE,2002,Rabi,Gram,353,277
 Tamil Nadu,ERODE,2002,Rabi,Rapeseed &Mustard,96,22
 Tamil Nadu,ERODE,2002,Whole Year,Arecanut,121,
-Tamil Nadu,ERODE,2002,Whole Year,Ash Gourd,11,0
+Tamil Nadu,ERODE,2002,Whole Year,Ash Gourd,11,
 Tamil Nadu,ERODE,2002,Whole Year,Banana,4450,139630
-Tamil Nadu,ERODE,2002,Whole Year,Beans & Mutter(Vegetable),93,0
-Tamil Nadu,ERODE,2002,Whole Year,Beet Root,17,0
+Tamil Nadu,ERODE,2002,Whole Year,Beans & Mutter(Vegetable),93,
+Tamil Nadu,ERODE,2002,Whole Year,Beet Root,17,
 Tamil Nadu,ERODE,2002,Whole Year,Bhindi,161,1199
-Tamil Nadu,ERODE,2002,Whole Year,Bitter Gourd,3,0
-Tamil Nadu,ERODE,2002,Whole Year,Bottle Gourd,3,0
+Tamil Nadu,ERODE,2002,Whole Year,Bitter Gourd,3,
+Tamil Nadu,ERODE,2002,Whole Year,Bottle Gourd,3,
 Tamil Nadu,ERODE,2002,Whole Year,Brinjal,293,2234
 Tamil Nadu,ERODE,2002,Whole Year,Cabbage,22,1291
 Tamil Nadu,ERODE,2002,Whole Year,Cashewnut,34,10
-Tamil Nadu,ERODE,2002,Whole Year,Cauliflower,10,0
+Tamil Nadu,ERODE,2002,Whole Year,Cauliflower,10,
 Tamil Nadu,ERODE,2002,Whole Year,Citrus Fruit,87,96
 Tamil Nadu,ERODE,2002,Whole Year,Coconut,17377,161700
-Tamil Nadu,ERODE,2002,Whole Year,Cucumber,8,0
-Tamil Nadu,ERODE,2002,Whole Year,Drum Stick,552,0
+Tamil Nadu,ERODE,2002,Whole Year,Cucumber,8,
+Tamil Nadu,ERODE,2002,Whole Year,Drum Stick,552,
 Tamil Nadu,ERODE,2002,Whole Year,Dry chillies,665,519
 Tamil Nadu,ERODE,2002,Whole Year,Garlic,43,242
 Tamil Nadu,ERODE,2002,Whole Year,Grapes,3,44
 Tamil Nadu,ERODE,2002,Whole Year,Jack Fruit,14,158
-Tamil Nadu,ERODE,2002,Whole Year,Lab-Lab,146,0
+Tamil Nadu,ERODE,2002,Whole Year,Lab-Lab,146,
 Tamil Nadu,ERODE,2002,Whole Year,Mango,1012,6064
 Tamil Nadu,ERODE,2002,Whole Year,Onion,1785,22534
 Tamil Nadu,ERODE,2002,Whole Year,Orange,43,66
-Tamil Nadu,ERODE,2002,Whole Year,Other Citrus Fruit,131,0
-Tamil Nadu,ERODE,2002,Whole Year,Other Fresh Fruits,121,0
-Tamil Nadu,ERODE,2002,Whole Year,Other Vegetables,219,0
-Tamil Nadu,ERODE,2002,Whole Year,Papaya,18,0
+Tamil Nadu,ERODE,2002,Whole Year,Other Citrus Fruit,131,
+Tamil Nadu,ERODE,2002,Whole Year,Other Fresh Fruits,121,
+Tamil Nadu,ERODE,2002,Whole Year,Other Vegetables,219,
+Tamil Nadu,ERODE,2002,Whole Year,Papaya,18,
 Tamil Nadu,ERODE,2002,Whole Year,Pome Fruit,182,952
-Tamil Nadu,ERODE,2002,Whole Year,Pome Granet,10,0
+Tamil Nadu,ERODE,2002,Whole Year,Pome Granet,10,
 Tamil Nadu,ERODE,2002,Whole Year,Potato,58,1103
-Tamil Nadu,ERODE,2002,Whole Year,Pump Kin,121,0
-Tamil Nadu,ERODE,2002,Whole Year,Ribed Guard,13,0
-Tamil Nadu,ERODE,2002,Whole Year,Snak Guard,18,0
+Tamil Nadu,ERODE,2002,Whole Year,Pump Kin,121,
+Tamil Nadu,ERODE,2002,Whole Year,Ribed Guard,13,
+Tamil Nadu,ERODE,2002,Whole Year,Snak Guard,18,
 Tamil Nadu,ERODE,2002,Whole Year,Sugarcane,27376,3337780
 Tamil Nadu,ERODE,2002,Whole Year,Sweet potato,3,41
 Tamil Nadu,ERODE,2002,Whole Year,Tapioca,3745,76725
 Tamil Nadu,ERODE,2002,Whole Year,Tobacco,6,8
 Tamil Nadu,ERODE,2002,Whole Year,Tomato,682,8930
 Tamil Nadu,ERODE,2002,Whole Year,Turmeric,6135,28781
-Tamil Nadu,ERODE,2002,Whole Year,Water Melon,12,0
-Tamil Nadu,ERODE,2002,Whole Year,Yam,375,0
+Tamil Nadu,ERODE,2002,Whole Year,Water Melon,12,
+Tamil Nadu,ERODE,2002,Whole Year,Yam,375,
 Tamil Nadu,ERODE,2003,Kharif,Arhar/Tur,953,445
 Tamil Nadu,ERODE,2003,Kharif,Bajra,1566,1703
 Tamil Nadu,ERODE,2003,Kharif,Castor seed,1123,311
@@ -2504,50 +2504,50 @@ Tamil Nadu,ERODE,2003,Kharif,Urad,2195,548
 Tamil Nadu,ERODE,2003,Rabi,Gram,300,236
 Tamil Nadu,ERODE,2003,Rabi,Rapeseed &Mustard,72,17
 Tamil Nadu,ERODE,2003,Whole Year,Arecanut,134,
-Tamil Nadu,ERODE,2003,Whole Year,Ash Gourd,46,0
+Tamil Nadu,ERODE,2003,Whole Year,Ash Gourd,46,
 Tamil Nadu,ERODE,2003,Whole Year,Banana,4090,111558
-Tamil Nadu,ERODE,2003,Whole Year,Beans & Mutter(Vegetable),75,0
-Tamil Nadu,ERODE,2003,Whole Year,Beet Root,9,0
+Tamil Nadu,ERODE,2003,Whole Year,Beans & Mutter(Vegetable),75,
+Tamil Nadu,ERODE,2003,Whole Year,Beet Root,9,
 Tamil Nadu,ERODE,2003,Whole Year,Bhindi,138,966
-Tamil Nadu,ERODE,2003,Whole Year,Bitter Gourd,8,0
+Tamil Nadu,ERODE,2003,Whole Year,Bitter Gourd,8,
 Tamil Nadu,ERODE,2003,Whole Year,Black pepper,1,
-Tamil Nadu,ERODE,2003,Whole Year,Bottle Gourd,1,0
+Tamil Nadu,ERODE,2003,Whole Year,Bottle Gourd,1,
 Tamil Nadu,ERODE,2003,Whole Year,Brinjal,355,3969
 Tamil Nadu,ERODE,2003,Whole Year,Cabbage,17,1080
-Tamil Nadu,ERODE,2003,Whole Year,Carrot,2,0
+Tamil Nadu,ERODE,2003,Whole Year,Carrot,2,
 Tamil Nadu,ERODE,2003,Whole Year,Cashewnut,63,22
-Tamil Nadu,ERODE,2003,Whole Year,Cauliflower,3,0
+Tamil Nadu,ERODE,2003,Whole Year,Cauliflower,3,
 Tamil Nadu,ERODE,2003,Whole Year,Citrus Fruit,90,94
 Tamil Nadu,ERODE,2003,Whole Year,Coconut,17486,101900
 Tamil Nadu,ERODE,2003,Whole Year,Coriander,4,1
-Tamil Nadu,ERODE,2003,Whole Year,Cucumber,1,0
+Tamil Nadu,ERODE,2003,Whole Year,Cucumber,1,
 Tamil Nadu,ERODE,2003,Whole Year,Drum Stick,550,8
 Tamil Nadu,ERODE,2003,Whole Year,Dry chillies,767,601
 Tamil Nadu,ERODE,2003,Whole Year,Garlic,18,101
 Tamil Nadu,ERODE,2003,Whole Year,Grapes,7,169
 Tamil Nadu,ERODE,2003,Whole Year,Jack Fruit,12,116
-Tamil Nadu,ERODE,2003,Whole Year,Lab-Lab,204,0
+Tamil Nadu,ERODE,2003,Whole Year,Lab-Lab,204,
 Tamil Nadu,ERODE,2003,Whole Year,Mango,989,4109
 Tamil Nadu,ERODE,2003,Whole Year,Onion,1320,9485
 Tamil Nadu,ERODE,2003,Whole Year,Orange,98,192
-Tamil Nadu,ERODE,2003,Whole Year,Other Citrus Fruit,165,0
-Tamil Nadu,ERODE,2003,Whole Year,Other Fresh Fruits,156,0
-Tamil Nadu,ERODE,2003,Whole Year,Other Vegetables,132,0
-Tamil Nadu,ERODE,2003,Whole Year,Papaya,53,0
-Tamil Nadu,ERODE,2003,Whole Year,Plums,13,0
+Tamil Nadu,ERODE,2003,Whole Year,Other Citrus Fruit,165,
+Tamil Nadu,ERODE,2003,Whole Year,Other Fresh Fruits,156,
+Tamil Nadu,ERODE,2003,Whole Year,Other Vegetables,132,
+Tamil Nadu,ERODE,2003,Whole Year,Papaya,53,
+Tamil Nadu,ERODE,2003,Whole Year,Plums,13,
 Tamil Nadu,ERODE,2003,Whole Year,Pome Fruit,172,1208
-Tamil Nadu,ERODE,2003,Whole Year,Pome Granet,14,0
+Tamil Nadu,ERODE,2003,Whole Year,Pome Granet,14,
 Tamil Nadu,ERODE,2003,Whole Year,Potato,128,1995
-Tamil Nadu,ERODE,2003,Whole Year,Pump Kin,40,0
-Tamil Nadu,ERODE,2003,Whole Year,Ribed Guard,12,0
-Tamil Nadu,ERODE,2003,Whole Year,Snak Guard,6,0
+Tamil Nadu,ERODE,2003,Whole Year,Pump Kin,40,
+Tamil Nadu,ERODE,2003,Whole Year,Ribed Guard,12,
+Tamil Nadu,ERODE,2003,Whole Year,Snak Guard,6,
 Tamil Nadu,ERODE,2003,Whole Year,Sugarcane,13371,1366904
 Tamil Nadu,ERODE,2003,Whole Year,Sweet potato,7,101
 Tamil Nadu,ERODE,2003,Whole Year,Tapioca,3834,136176
 Tamil Nadu,ERODE,2003,Whole Year,Tomato,573,7050
 Tamil Nadu,ERODE,2003,Whole Year,Turmeric,5862,32566
-Tamil Nadu,ERODE,2003,Whole Year,Water Melon,3,0
-Tamil Nadu,ERODE,2003,Whole Year,Yam,330,0
+Tamil Nadu,ERODE,2003,Whole Year,Water Melon,3,
+Tamil Nadu,ERODE,2003,Whole Year,Yam,330,
 Tamil Nadu,ERODE,2004,Kharif,Arhar/Tur,1428,953
 Tamil Nadu,ERODE,2004,Kharif,Bajra,1333,1673
 Tamil Nadu,ERODE,2004,Kharif,Castor seed,1347,373
@@ -2935,7 +2935,7 @@ Tamil Nadu,KANCHIPURAM,2000,Whole Year,Sugarcane,6159,743195
 Tamil Nadu,KANCHIPURAM,2000,Whole Year,Sweet potato,7,53
 Tamil Nadu,KANCHIPURAM,2000,Whole Year,Tapioca,13,461
 Tamil Nadu,KANCHIPURAM,2000,Whole Year,Turmeric,4,20
-Tamil Nadu,KANCHIPURAM,2001,Kharif,Arhar/Tur,6,0.1
+Tamil Nadu,KANCHIPURAM,2001,Kharif,Arhar/Tur,6,.1
 Tamil Nadu,KANCHIPURAM,2001,Kharif,Bajra,47,110
 Tamil Nadu,KANCHIPURAM,2001,Kharif,Cotton(lint),171,350
 Tamil Nadu,KANCHIPURAM,2001,Kharif,Groundnut,27151,84670
@@ -2958,36 +2958,36 @@ Tamil Nadu,KANCHIPURAM,2002,Kharif,Ragi,929,1754
 Tamil Nadu,KANCHIPURAM,2002,Kharif,Rice,97420,278087
 Tamil Nadu,KANCHIPURAM,2002,Kharif,Sesamum,1308,788
 Tamil Nadu,KANCHIPURAM,2002,Kharif,Urad,2203,879
-Tamil Nadu,KANCHIPURAM,2002,Whole Year,Ash Gourd,3,0
+Tamil Nadu,KANCHIPURAM,2002,Whole Year,Ash Gourd,3,
 Tamil Nadu,KANCHIPURAM,2002,Whole Year,Banana,231,8536
 Tamil Nadu,KANCHIPURAM,2002,Whole Year,Bhindi,177,1851
-Tamil Nadu,KANCHIPURAM,2002,Whole Year,Bitter Gourd,22,0
-Tamil Nadu,KANCHIPURAM,2002,Whole Year,Bottle Gourd,6,0
+Tamil Nadu,KANCHIPURAM,2002,Whole Year,Bitter Gourd,22,
+Tamil Nadu,KANCHIPURAM,2002,Whole Year,Bottle Gourd,6,
 Tamil Nadu,KANCHIPURAM,2002,Whole Year,Brinjal,237,2388
 Tamil Nadu,KANCHIPURAM,2002,Whole Year,Cashewnut,401,121
 Tamil Nadu,KANCHIPURAM,2002,Whole Year,Citrus Fruit,42,47
 Tamil Nadu,KANCHIPURAM,2002,Whole Year,Coconut,4564,14400
-Tamil Nadu,KANCHIPURAM,2002,Whole Year,Cucumber,77,0
-Tamil Nadu,KANCHIPURAM,2002,Whole Year,Drum Stick,6,0
+Tamil Nadu,KANCHIPURAM,2002,Whole Year,Cucumber,77,
+Tamil Nadu,KANCHIPURAM,2002,Whole Year,Drum Stick,6,
 Tamil Nadu,KANCHIPURAM,2002,Whole Year,Dry chillies,228,135
 Tamil Nadu,KANCHIPURAM,2002,Whole Year,Jack Fruit,14,159
-Tamil Nadu,KANCHIPURAM,2002,Whole Year,Lab-Lab,10,0
+Tamil Nadu,KANCHIPURAM,2002,Whole Year,Lab-Lab,10,
 Tamil Nadu,KANCHIPURAM,2002,Whole Year,Mango,2562,4625
-Tamil Nadu,KANCHIPURAM,2002,Whole Year,Other Citrus Fruit,20,0
-Tamil Nadu,KANCHIPURAM,2002,Whole Year,Other Fresh Fruits,25,0
-Tamil Nadu,KANCHIPURAM,2002,Whole Year,Other Vegetables,93,0
-Tamil Nadu,KANCHIPURAM,2002,Whole Year,Papaya,3,0
+Tamil Nadu,KANCHIPURAM,2002,Whole Year,Other Citrus Fruit,20,
+Tamil Nadu,KANCHIPURAM,2002,Whole Year,Other Fresh Fruits,25,
+Tamil Nadu,KANCHIPURAM,2002,Whole Year,Other Vegetables,93,
+Tamil Nadu,KANCHIPURAM,2002,Whole Year,Papaya,3,
 Tamil Nadu,KANCHIPURAM,2002,Whole Year,Pome Fruit,231,1209
-Tamil Nadu,KANCHIPURAM,2002,Whole Year,Pump Kin,80,0
-Tamil Nadu,KANCHIPURAM,2002,Whole Year,Ribed Guard,14,0
-Tamil Nadu,KANCHIPURAM,2002,Whole Year,Snak Guard,62,0
+Tamil Nadu,KANCHIPURAM,2002,Whole Year,Pump Kin,80,
+Tamil Nadu,KANCHIPURAM,2002,Whole Year,Ribed Guard,14,
+Tamil Nadu,KANCHIPURAM,2002,Whole Year,Snak Guard,62,
 Tamil Nadu,KANCHIPURAM,2002,Whole Year,Sugarcane,5371,422030
 Tamil Nadu,KANCHIPURAM,2002,Whole Year,Sweet potato,47,642
 Tamil Nadu,KANCHIPURAM,2002,Whole Year,Tapioca,7,221
 Tamil Nadu,KANCHIPURAM,2002,Whole Year,Tomato,24,296
 Tamil Nadu,KANCHIPURAM,2002,Whole Year,Turmeric,5,19
-Tamil Nadu,KANCHIPURAM,2002,Whole Year,Water Melon,931,0
-Tamil Nadu,KANCHIPURAM,2002,Whole Year,Yam,6,0
+Tamil Nadu,KANCHIPURAM,2002,Whole Year,Water Melon,931,
+Tamil Nadu,KANCHIPURAM,2002,Whole Year,Yam,6,
 Tamil Nadu,KANCHIPURAM,2003,Kharif,Arhar/Tur,50,31
 Tamil Nadu,KANCHIPURAM,2003,Kharif,Bajra,222,294
 Tamil Nadu,KANCHIPURAM,2003,Kharif,Castor seed,2,1
@@ -3002,38 +3002,38 @@ Tamil Nadu,KANCHIPURAM,2003,Kharif,Rice,97117,295638
 Tamil Nadu,KANCHIPURAM,2003,Kharif,Sesamum,4156,1608
 Tamil Nadu,KANCHIPURAM,2003,Kharif,Sunflower,6,8
 Tamil Nadu,KANCHIPURAM,2003,Kharif,Urad,4632,1893
-Tamil Nadu,KANCHIPURAM,2003,Whole Year,Ash Gourd,62,0
+Tamil Nadu,KANCHIPURAM,2003,Whole Year,Ash Gourd,62,
 Tamil Nadu,KANCHIPURAM,2003,Whole Year,Banana,153,5412
 Tamil Nadu,KANCHIPURAM,2003,Whole Year,Bhindi,592,5175
-Tamil Nadu,KANCHIPURAM,2003,Whole Year,Bitter Gourd,61,0
-Tamil Nadu,KANCHIPURAM,2003,Whole Year,Bottle Gourd,4,0
+Tamil Nadu,KANCHIPURAM,2003,Whole Year,Bitter Gourd,61,
+Tamil Nadu,KANCHIPURAM,2003,Whole Year,Bottle Gourd,4,
 Tamil Nadu,KANCHIPURAM,2003,Whole Year,Brinjal,657,9185
 Tamil Nadu,KANCHIPURAM,2003,Whole Year,Cashewnut,358,124
 Tamil Nadu,KANCHIPURAM,2003,Whole Year,Citrus Fruit,35,37
 Tamil Nadu,KANCHIPURAM,2003,Whole Year,Coconut,4115,27600
 Tamil Nadu,KANCHIPURAM,2003,Whole Year,Coriander,11,3
-Tamil Nadu,KANCHIPURAM,2003,Whole Year,Cucumber,45,0
-Tamil Nadu,KANCHIPURAM,2003,Whole Year,Drum Stick,4,0
+Tamil Nadu,KANCHIPURAM,2003,Whole Year,Cucumber,45,
+Tamil Nadu,KANCHIPURAM,2003,Whole Year,Drum Stick,4,
 Tamil Nadu,KANCHIPURAM,2003,Whole Year,Dry chillies,297,158
 Tamil Nadu,KANCHIPURAM,2003,Whole Year,Jack Fruit,14,135
-Tamil Nadu,KANCHIPURAM,2003,Whole Year,Lab-Lab,6,0
+Tamil Nadu,KANCHIPURAM,2003,Whole Year,Lab-Lab,6,
 Tamil Nadu,KANCHIPURAM,2003,Whole Year,Mango,2015,5902
 Tamil Nadu,KANCHIPURAM,2003,Whole Year,Onion,5,45
-Tamil Nadu,KANCHIPURAM,2003,Whole Year,Other Citrus Fruit,45,0
-Tamil Nadu,KANCHIPURAM,2003,Whole Year,Other Fresh Fruits,25,0
-Tamil Nadu,KANCHIPURAM,2003,Whole Year,Other Vegetables,140,0
+Tamil Nadu,KANCHIPURAM,2003,Whole Year,Other Citrus Fruit,45,
+Tamil Nadu,KANCHIPURAM,2003,Whole Year,Other Fresh Fruits,25,
+Tamil Nadu,KANCHIPURAM,2003,Whole Year,Other Vegetables,140,
 Tamil Nadu,KANCHIPURAM,2003,Whole Year,Pome Fruit,205,1439
-Tamil Nadu,KANCHIPURAM,2003,Whole Year,Pump Kin,21,0
-Tamil Nadu,KANCHIPURAM,2003,Whole Year,Redish,8,0
-Tamil Nadu,KANCHIPURAM,2003,Whole Year,Ribed Guard,11,0
-Tamil Nadu,KANCHIPURAM,2003,Whole Year,Snak Guard,38,0
+Tamil Nadu,KANCHIPURAM,2003,Whole Year,Pump Kin,21,
+Tamil Nadu,KANCHIPURAM,2003,Whole Year,Redish,8,
+Tamil Nadu,KANCHIPURAM,2003,Whole Year,Ribed Guard,11,
+Tamil Nadu,KANCHIPURAM,2003,Whole Year,Snak Guard,38,
 Tamil Nadu,KANCHIPURAM,2003,Whole Year,Sugarcane,4819,464050
 Tamil Nadu,KANCHIPURAM,2003,Whole Year,Sweet potato,31,449
 Tamil Nadu,KANCHIPURAM,2003,Whole Year,Tapioca,4,135
 Tamil Nadu,KANCHIPURAM,2003,Whole Year,Tomato,59,599
 Tamil Nadu,KANCHIPURAM,2003,Whole Year,Turmeric,13,54
-Tamil Nadu,KANCHIPURAM,2003,Whole Year,Water Melon,1586,0
-Tamil Nadu,KANCHIPURAM,2003,Whole Year,Yam,2,0
+Tamil Nadu,KANCHIPURAM,2003,Whole Year,Water Melon,1586,
+Tamil Nadu,KANCHIPURAM,2003,Whole Year,Yam,2,
 Tamil Nadu,KANCHIPURAM,2004,Kharif,Arhar/Tur,33,22
 Tamil Nadu,KANCHIPURAM,2004,Kharif,Bajra,26,44
 Tamil Nadu,KANCHIPURAM,2004,Kharif,Castor seed,4,1
@@ -3306,7 +3306,7 @@ Tamil Nadu,KANNIYAKUMARI,2000,Whole Year,Cashewnut,1948,899
 Tamil Nadu,KANNIYAKUMARI,2000,Whole Year,Tapioca,8179,210694
 Tamil Nadu,KANNIYAKUMARI,2001,Kharif,Cotton(lint),4,1
 Tamil Nadu,KANNIYAKUMARI,2001,Kharif,Groundnut,56,90
-Tamil Nadu,KANNIYAKUMARI,2001,Kharif,Moong(Green Gram),7,0.1
+Tamil Nadu,KANNIYAKUMARI,2001,Kharif,Moong(Green Gram),7,.1
 Tamil Nadu,KANNIYAKUMARI,2001,Kharif,Rice,28229,121390
 Tamil Nadu,KANNIYAKUMARI,2001,Kharif,Sesamum,9,1
 Tamil Nadu,KANNIYAKUMARI,2001,Kharif,Urad,3599,1410
@@ -3320,29 +3320,29 @@ Tamil Nadu,KANNIYAKUMARI,2002,Kharif,Urad,2640,1053
 Tamil Nadu,KANNIYAKUMARI,2002,Whole Year,Arecanut,760,
 Tamil Nadu,KANNIYAKUMARI,2002,Whole Year,Banana,4974,126152
 Tamil Nadu,KANNIYAKUMARI,2002,Whole Year,Bhindi,26,194
-Tamil Nadu,KANNIYAKUMARI,2002,Whole Year,Bitter Gourd,13,0
+Tamil Nadu,KANNIYAKUMARI,2002,Whole Year,Bitter Gourd,13,
 Tamil Nadu,KANNIYAKUMARI,2002,Whole Year,Brinjal,44,335
 Tamil Nadu,KANNIYAKUMARI,2002,Whole Year,Cashewnut,1938,568
 Tamil Nadu,KANNIYAKUMARI,2002,Whole Year,Citrus Fruit,51,57
 Tamil Nadu,KANNIYAKUMARI,2002,Whole Year,Coconut,22667,338200
-Tamil Nadu,KANNIYAKUMARI,2002,Whole Year,Cucumber,55,0
-Tamil Nadu,KANNIYAKUMARI,2002,Whole Year,Drum Stick,7,0
+Tamil Nadu,KANNIYAKUMARI,2002,Whole Year,Cucumber,55,
+Tamil Nadu,KANNIYAKUMARI,2002,Whole Year,Drum Stick,7,
 Tamil Nadu,KANNIYAKUMARI,2002,Whole Year,Dry ginger,17,273
 Tamil Nadu,KANNIYAKUMARI,2002,Whole Year,Jack Fruit,779,8819
 Tamil Nadu,KANNIYAKUMARI,2002,Whole Year,Mango,1735,2955
 Tamil Nadu,KANNIYAKUMARI,2002,Whole Year,Orange,1,2
-Tamil Nadu,KANNIYAKUMARI,2002,Whole Year,Other Citrus Fruit,7,0
-Tamil Nadu,KANNIYAKUMARI,2002,Whole Year,Other Fresh Fruits,4,0
-Tamil Nadu,KANNIYAKUMARI,2002,Whole Year,Other Vegetables,88,0
-Tamil Nadu,KANNIYAKUMARI,2002,Whole Year,Papaya,2,0
+Tamil Nadu,KANNIYAKUMARI,2002,Whole Year,Other Citrus Fruit,7,
+Tamil Nadu,KANNIYAKUMARI,2002,Whole Year,Other Fresh Fruits,4,
+Tamil Nadu,KANNIYAKUMARI,2002,Whole Year,Other Vegetables,88,
+Tamil Nadu,KANNIYAKUMARI,2002,Whole Year,Papaya,2,
 Tamil Nadu,KANNIYAKUMARI,2002,Whole Year,Pineapple,51,1578
 Tamil Nadu,KANNIYAKUMARI,2002,Whole Year,Pome Fruit,67,351
-Tamil Nadu,KANNIYAKUMARI,2002,Whole Year,Pome Granet,5,0
-Tamil Nadu,KANNIYAKUMARI,2002,Whole Year,Pump Kin,9,0
-Tamil Nadu,KANNIYAKUMARI,2002,Whole Year,Snak Guard,19,0
+Tamil Nadu,KANNIYAKUMARI,2002,Whole Year,Pome Granet,5,
+Tamil Nadu,KANNIYAKUMARI,2002,Whole Year,Pump Kin,9,
+Tamil Nadu,KANNIYAKUMARI,2002,Whole Year,Snak Guard,19,
 Tamil Nadu,KANNIYAKUMARI,2002,Whole Year,Tapioca,7405,211442
 Tamil Nadu,KANNIYAKUMARI,2002,Whole Year,Tomato,6,74
-Tamil Nadu,KANNIYAKUMARI,2002,Whole Year,Yam,12,0
+Tamil Nadu,KANNIYAKUMARI,2002,Whole Year,Yam,12,
 Tamil Nadu,KANNIYAKUMARI,2003,Kharif,Dry ginger,13,184
 Tamil Nadu,KANNIYAKUMARI,2003,Kharif,Groundnut,87,106
 Tamil Nadu,KANNIYAKUMARI,2003,Kharif,Horse-gram,5,1
@@ -3352,32 +3352,32 @@ Tamil Nadu,KANNIYAKUMARI,2003,Kharif,Rice,17320,52897
 Tamil Nadu,KANNIYAKUMARI,2003,Kharif,Sesamum,4,1
 Tamil Nadu,KANNIYAKUMARI,2003,Kharif,Urad,1661,679
 Tamil Nadu,KANNIYAKUMARI,2003,Whole Year,Arecanut,761,
-Tamil Nadu,KANNIYAKUMARI,2003,Whole Year,Ash Gourd,6,0
+Tamil Nadu,KANNIYAKUMARI,2003,Whole Year,Ash Gourd,6,
 Tamil Nadu,KANNIYAKUMARI,2003,Whole Year,Banana,5633,134686
 Tamil Nadu,KANNIYAKUMARI,2003,Whole Year,Bhindi,32,224
-Tamil Nadu,KANNIYAKUMARI,2003,Whole Year,Bitter Gourd,12,0
+Tamil Nadu,KANNIYAKUMARI,2003,Whole Year,Bitter Gourd,12,
 Tamil Nadu,KANNIYAKUMARI,2003,Whole Year,Black pepper,115,17
 Tamil Nadu,KANNIYAKUMARI,2003,Whole Year,Brinjal,102,1141
 Tamil Nadu,KANNIYAKUMARI,2003,Whole Year,Cardamom,124,11
 Tamil Nadu,KANNIYAKUMARI,2003,Whole Year,Cashewnut,1938,1373
 Tamil Nadu,KANNIYAKUMARI,2003,Whole Year,Citrus Fruit,43,45
 Tamil Nadu,KANNIYAKUMARI,2003,Whole Year,Coconut,23664,186000
-Tamil Nadu,KANNIYAKUMARI,2003,Whole Year,Cucumber,56,0
-Tamil Nadu,KANNIYAKUMARI,2003,Whole Year,Drum Stick,7,0
+Tamil Nadu,KANNIYAKUMARI,2003,Whole Year,Cucumber,56,
+Tamil Nadu,KANNIYAKUMARI,2003,Whole Year,Drum Stick,7,
 Tamil Nadu,KANNIYAKUMARI,2003,Whole Year,Jack Fruit,773,7469
 Tamil Nadu,KANNIYAKUMARI,2003,Whole Year,Mango,1735,1333
 Tamil Nadu,KANNIYAKUMARI,2003,Whole Year,Orange,4,8
-Tamil Nadu,KANNIYAKUMARI,2003,Whole Year,Other Citrus Fruit,37,0
-Tamil Nadu,KANNIYAKUMARI,2003,Whole Year,Other Fresh Fruits,3,0
-Tamil Nadu,KANNIYAKUMARI,2003,Whole Year,Other Vegetables,89,0
+Tamil Nadu,KANNIYAKUMARI,2003,Whole Year,Other Citrus Fruit,37,
+Tamil Nadu,KANNIYAKUMARI,2003,Whole Year,Other Fresh Fruits,3,
+Tamil Nadu,KANNIYAKUMARI,2003,Whole Year,Other Vegetables,89,
 Tamil Nadu,KANNIYAKUMARI,2003,Whole Year,Pineapple,33,543
 Tamil Nadu,KANNIYAKUMARI,2003,Whole Year,Pome Fruit,68,478
-Tamil Nadu,KANNIYAKUMARI,2003,Whole Year,Pome Granet,4,0
-Tamil Nadu,KANNIYAKUMARI,2003,Whole Year,Pump Kin,6,0
-Tamil Nadu,KANNIYAKUMARI,2003,Whole Year,Snak Guard,19,0
+Tamil Nadu,KANNIYAKUMARI,2003,Whole Year,Pome Granet,4,
+Tamil Nadu,KANNIYAKUMARI,2003,Whole Year,Pump Kin,6,
+Tamil Nadu,KANNIYAKUMARI,2003,Whole Year,Snak Guard,19,
 Tamil Nadu,KANNIYAKUMARI,2003,Whole Year,Tapioca,8681,191188
 Tamil Nadu,KANNIYAKUMARI,2003,Whole Year,Tomato,4,40
-Tamil Nadu,KANNIYAKUMARI,2003,Whole Year,Yam,12,0
+Tamil Nadu,KANNIYAKUMARI,2003,Whole Year,Yam,12,
 Tamil Nadu,KANNIYAKUMARI,2004,Kharif,Dry ginger,5,97
 Tamil Nadu,KANNIYAKUMARI,2004,Kharif,Groundnut,42,51
 Tamil Nadu,KANNIYAKUMARI,2004,Kharif,Horse-gram,9,3
@@ -3638,37 +3638,37 @@ Tamil Nadu,KARUR,2002,Kharif,Sesamum,4562,1212
 Tamil Nadu,KARUR,2002,Kharif,Sunflower,273,315
 Tamil Nadu,KARUR,2002,Kharif,Urad,227,91
 Tamil Nadu,KARUR,2002,Kharif,Varagu,1,1
-Tamil Nadu,KARUR,2002,Whole Year,Ash Gourd,14,0
+Tamil Nadu,KARUR,2002,Whole Year,Ash Gourd,14,
 Tamil Nadu,KARUR,2002,Whole Year,Banana,5151,104486
 Tamil Nadu,KARUR,2002,Whole Year,Bhindi,38,283
-Tamil Nadu,KARUR,2002,Whole Year,Bitter Gourd,9,0
+Tamil Nadu,KARUR,2002,Whole Year,Bitter Gourd,9,
 Tamil Nadu,KARUR,2002,Whole Year,Brinjal,93,709
 Tamil Nadu,KARUR,2002,Whole Year,Cashewnut,39,12
 Tamil Nadu,KARUR,2002,Whole Year,Citrus Fruit,44,49
 Tamil Nadu,KARUR,2002,Whole Year,Coconut,4331,51400
 Tamil Nadu,KARUR,2002,Whole Year,Coriander,7,1
-Tamil Nadu,KARUR,2002,Whole Year,Cucumber,3,0
-Tamil Nadu,KARUR,2002,Whole Year,Drum Stick,824,0
+Tamil Nadu,KARUR,2002,Whole Year,Cucumber,3,
+Tamil Nadu,KARUR,2002,Whole Year,Drum Stick,824,
 Tamil Nadu,KARUR,2002,Whole Year,Dry chillies,567,369
 Tamil Nadu,KARUR,2002,Whole Year,Jack Fruit,2,23
-Tamil Nadu,KARUR,2002,Whole Year,Lab-Lab,2,0
+Tamil Nadu,KARUR,2002,Whole Year,Lab-Lab,2,
 Tamil Nadu,KARUR,2002,Whole Year,Mango,514,3080
 Tamil Nadu,KARUR,2002,Whole Year,Onion,74,626
 Tamil Nadu,KARUR,2002,Whole Year,Orange,1,2
-Tamil Nadu,KARUR,2002,Whole Year,Other Citrus Fruit,26,0
-Tamil Nadu,KARUR,2002,Whole Year,Other Fresh Fruits,104,0
-Tamil Nadu,KARUR,2002,Whole Year,Other Vegetables,5,0
+Tamil Nadu,KARUR,2002,Whole Year,Other Citrus Fruit,26,
+Tamil Nadu,KARUR,2002,Whole Year,Other Fresh Fruits,104,
+Tamil Nadu,KARUR,2002,Whole Year,Other Vegetables,5,
 Tamil Nadu,KARUR,2002,Whole Year,Pome Fruit,57,298
-Tamil Nadu,KARUR,2002,Whole Year,Pome Granet,1,0
-Tamil Nadu,KARUR,2002,Whole Year,Pump Kin,1,0
-Tamil Nadu,KARUR,2002,Whole Year,Redish,1,0
-Tamil Nadu,KARUR,2002,Whole Year,Snak Guard,2,0
+Tamil Nadu,KARUR,2002,Whole Year,Pome Granet,1,
+Tamil Nadu,KARUR,2002,Whole Year,Pump Kin,1,
+Tamil Nadu,KARUR,2002,Whole Year,Redish,1,
+Tamil Nadu,KARUR,2002,Whole Year,Snak Guard,2,
 Tamil Nadu,KARUR,2002,Whole Year,Sugarcane,6682,488160
 Tamil Nadu,KARUR,2002,Whole Year,Sweet potato,146,2095
 Tamil Nadu,KARUR,2002,Whole Year,Tapioca,680,21480
 Tamil Nadu,KARUR,2002,Whole Year,Tomato,151,1149
 Tamil Nadu,KARUR,2002,Whole Year,Turmeric,262,684
-Tamil Nadu,KARUR,2002,Whole Year,Yam,2,0
+Tamil Nadu,KARUR,2002,Whole Year,Yam,2,
 Tamil Nadu,KARUR,2003,Kharif,Arhar/Tur,3719,773
 Tamil Nadu,KARUR,2003,Kharif,Bajra,5264,1563
 Tamil Nadu,KARUR,2003,Kharif,Castor seed,11,5
@@ -3686,38 +3686,38 @@ Tamil Nadu,KARUR,2003,Kharif,Small millets,1,1
 Tamil Nadu,KARUR,2003,Kharif,Sunflower,1123,1482
 Tamil Nadu,KARUR,2003,Kharif,Urad,412,168
 Tamil Nadu,KARUR,2003,Whole Year,Arecanut,1,
-Tamil Nadu,KARUR,2003,Whole Year,Ash Gourd,22,0
+Tamil Nadu,KARUR,2003,Whole Year,Ash Gourd,22,
 Tamil Nadu,KARUR,2003,Whole Year,Banana,3580,75805
 Tamil Nadu,KARUR,2003,Whole Year,Bhindi,51,357
-Tamil Nadu,KARUR,2003,Whole Year,Bitter Gourd,1,0
+Tamil Nadu,KARUR,2003,Whole Year,Bitter Gourd,1,
 Tamil Nadu,KARUR,2003,Whole Year,Brinjal,91,1017
 Tamil Nadu,KARUR,2003,Whole Year,Cashewnut,39,13
 Tamil Nadu,KARUR,2003,Whole Year,Citrus Fruit,50,52
 Tamil Nadu,KARUR,2003,Whole Year,Coconut,4487,27800
 Tamil Nadu,KARUR,2003,Whole Year,Coriander,11,3
-Tamil Nadu,KARUR,2003,Whole Year,Cucumber,10,0
-Tamil Nadu,KARUR,2003,Whole Year,Drum Stick,842,0
+Tamil Nadu,KARUR,2003,Whole Year,Cucumber,10,
+Tamil Nadu,KARUR,2003,Whole Year,Drum Stick,842,
 Tamil Nadu,KARUR,2003,Whole Year,Dry chillies,575,322
 Tamil Nadu,KARUR,2003,Whole Year,Grapes,7,169
 Tamil Nadu,KARUR,2003,Whole Year,Jack Fruit,2,19
-Tamil Nadu,KARUR,2003,Whole Year,Lab-Lab,3,0
+Tamil Nadu,KARUR,2003,Whole Year,Lab-Lab,3,
 Tamil Nadu,KARUR,2003,Whole Year,Mango,537,2231
 Tamil Nadu,KARUR,2003,Whole Year,Onion,172,1549
 Tamil Nadu,KARUR,2003,Whole Year,Orange,1,2
-Tamil Nadu,KARUR,2003,Whole Year,Other Citrus Fruit,25,0
-Tamil Nadu,KARUR,2003,Whole Year,Other Fresh Fruits,117,0
-Tamil Nadu,KARUR,2003,Whole Year,Other Vegetables,9,0
+Tamil Nadu,KARUR,2003,Whole Year,Other Citrus Fruit,25,
+Tamil Nadu,KARUR,2003,Whole Year,Other Fresh Fruits,117,
+Tamil Nadu,KARUR,2003,Whole Year,Other Vegetables,9,
 Tamil Nadu,KARUR,2003,Whole Year,Pome Fruit,53,372
-Tamil Nadu,KARUR,2003,Whole Year,Pome Granet,1,0
-Tamil Nadu,KARUR,2003,Whole Year,Redish,4,0
-Tamil Nadu,KARUR,2003,Whole Year,Ribed Guard,4,0
-Tamil Nadu,KARUR,2003,Whole Year,Snak Guard,2,0
+Tamil Nadu,KARUR,2003,Whole Year,Pome Granet,1,
+Tamil Nadu,KARUR,2003,Whole Year,Redish,4,
+Tamil Nadu,KARUR,2003,Whole Year,Ribed Guard,4,
+Tamil Nadu,KARUR,2003,Whole Year,Snak Guard,2,
 Tamil Nadu,KARUR,2003,Whole Year,Sugarcane,2341,150035
 Tamil Nadu,KARUR,2003,Whole Year,Sweet potato,305,4751
 Tamil Nadu,KARUR,2003,Whole Year,Tapioca,1384,46629
 Tamil Nadu,KARUR,2003,Whole Year,Tomato,144,1461
 Tamil Nadu,KARUR,2003,Whole Year,Turmeric,181,244
-Tamil Nadu,KARUR,2003,Whole Year,Yam,1,0
+Tamil Nadu,KARUR,2003,Whole Year,Yam,1,
 Tamil Nadu,KARUR,2004,Kharif,Arhar/Tur,4702,2276
 Tamil Nadu,KARUR,2004,Kharif,Bajra,5192,1463
 Tamil Nadu,KARUR,2004,Kharif,Castor seed,83,36
@@ -3975,49 +3975,49 @@ Tamil Nadu,KRISHNAGIRI,2002,Whole Year,Dry ginger,2,32
 Tamil Nadu,KRISHNAGIRI,2002,Whole Year,Tobacco,5066,8028
 Tamil Nadu,KRISHNAGIRI,2003,Kharif,Small millets,8932,9668
 Tamil Nadu,KRISHNAGIRI,2003,Whole Year,Arecanut,43,
-Tamil Nadu,KRISHNAGIRI,2003,Whole Year,Ash Gourd,23,0
+Tamil Nadu,KRISHNAGIRI,2003,Whole Year,Ash Gourd,23,
 Tamil Nadu,KRISHNAGIRI,2003,Whole Year,Banana,1024,36224
-Tamil Nadu,KRISHNAGIRI,2003,Whole Year,Beans & Mutter(Vegetable),325,0
-Tamil Nadu,KRISHNAGIRI,2003,Whole Year,Beet Root,57,0
+Tamil Nadu,KRISHNAGIRI,2003,Whole Year,Beans & Mutter(Vegetable),325,
+Tamil Nadu,KRISHNAGIRI,2003,Whole Year,Beet Root,57,
 Tamil Nadu,KRISHNAGIRI,2003,Whole Year,Bhindi,152,1064
-Tamil Nadu,KRISHNAGIRI,2003,Whole Year,Bitter Gourd,14,0
+Tamil Nadu,KRISHNAGIRI,2003,Whole Year,Bitter Gourd,14,
 Tamil Nadu,KRISHNAGIRI,2003,Whole Year,Black pepper,2,
-Tamil Nadu,KRISHNAGIRI,2003,Whole Year,Bottle Gourd,4,0
+Tamil Nadu,KRISHNAGIRI,2003,Whole Year,Bottle Gourd,4,
 Tamil Nadu,KRISHNAGIRI,2003,Whole Year,Brinjal,335,5088
 Tamil Nadu,KRISHNAGIRI,2003,Whole Year,Cabbage,203,9967
-Tamil Nadu,KRISHNAGIRI,2003,Whole Year,Carrot,85,0
+Tamil Nadu,KRISHNAGIRI,2003,Whole Year,Carrot,85,
 Tamil Nadu,KRISHNAGIRI,2003,Whole Year,Cashewnut,2,1
-Tamil Nadu,KRISHNAGIRI,2003,Whole Year,Cauliflower,17,0
+Tamil Nadu,KRISHNAGIRI,2003,Whole Year,Cauliflower,17,
 Tamil Nadu,KRISHNAGIRI,2003,Whole Year,Citrus Fruit,24,25
 Tamil Nadu,KRISHNAGIRI,2003,Whole Year,Coriander,197,57
-Tamil Nadu,KRISHNAGIRI,2003,Whole Year,Cucumber,17,0
-Tamil Nadu,KRISHNAGIRI,2003,Whole Year,Drum Stick,17,0
+Tamil Nadu,KRISHNAGIRI,2003,Whole Year,Cucumber,17,
+Tamil Nadu,KRISHNAGIRI,2003,Whole Year,Drum Stick,17,
 Tamil Nadu,KRISHNAGIRI,2003,Whole Year,Dry chillies,497,
 Tamil Nadu,KRISHNAGIRI,2003,Whole Year,Garlic,1,6
 Tamil Nadu,KRISHNAGIRI,2003,Whole Year,Grapes,108,1766
 Tamil Nadu,KRISHNAGIRI,2003,Whole Year,Jack Fruit,11,106
-Tamil Nadu,KRISHNAGIRI,2003,Whole Year,Lab-Lab,809,0
-Tamil Nadu,KRISHNAGIRI,2003,Whole Year,Litchi,4,0
+Tamil Nadu,KRISHNAGIRI,2003,Whole Year,Lab-Lab,809,
+Tamil Nadu,KRISHNAGIRI,2003,Whole Year,Litchi,4,
 Tamil Nadu,KRISHNAGIRI,2003,Whole Year,Mango,34626,252436
 Tamil Nadu,KRISHNAGIRI,2003,Whole Year,Onion,58,522
 Tamil Nadu,KRISHNAGIRI,2003,Whole Year,Orange,1,2
-Tamil Nadu,KRISHNAGIRI,2003,Whole Year,Other Citrus Fruit,13,0
-Tamil Nadu,KRISHNAGIRI,2003,Whole Year,Other Fresh Fruits,224,0
-Tamil Nadu,KRISHNAGIRI,2003,Whole Year,Other Vegetables,123,0
-Tamil Nadu,KRISHNAGIRI,2003,Whole Year,Papaya,9,0
+Tamil Nadu,KRISHNAGIRI,2003,Whole Year,Other Citrus Fruit,13,
+Tamil Nadu,KRISHNAGIRI,2003,Whole Year,Other Fresh Fruits,224,
+Tamil Nadu,KRISHNAGIRI,2003,Whole Year,Other Vegetables,123,
+Tamil Nadu,KRISHNAGIRI,2003,Whole Year,Papaya,9,
 Tamil Nadu,KRISHNAGIRI,2003,Whole Year,Pineapple,4,126
 Tamil Nadu,KRISHNAGIRI,2003,Whole Year,Pome Fruit,107,751
-Tamil Nadu,KRISHNAGIRI,2003,Whole Year,Pome Granet,6,0
+Tamil Nadu,KRISHNAGIRI,2003,Whole Year,Pome Granet,6,
 Tamil Nadu,KRISHNAGIRI,2003,Whole Year,Potato,113,1749
-Tamil Nadu,KRISHNAGIRI,2003,Whole Year,Pump Kin,34,0
-Tamil Nadu,KRISHNAGIRI,2003,Whole Year,Redish,45,0
-Tamil Nadu,KRISHNAGIRI,2003,Whole Year,Ribed Guard,12,0
-Tamil Nadu,KRISHNAGIRI,2003,Whole Year,Snak Guard,81,0
+Tamil Nadu,KRISHNAGIRI,2003,Whole Year,Pump Kin,34,
+Tamil Nadu,KRISHNAGIRI,2003,Whole Year,Redish,45,
+Tamil Nadu,KRISHNAGIRI,2003,Whole Year,Ribed Guard,12,
+Tamil Nadu,KRISHNAGIRI,2003,Whole Year,Snak Guard,81,
 Tamil Nadu,KRISHNAGIRI,2003,Whole Year,Sweet potato,13,188
 Tamil Nadu,KRISHNAGIRI,2003,Whole Year,Tapioca,434,8826
 Tamil Nadu,KRISHNAGIRI,2003,Whole Year,Tomato,2081,27465
 Tamil Nadu,KRISHNAGIRI,2003,Whole Year,Turmeric,448,1111
-Tamil Nadu,KRISHNAGIRI,2003,Whole Year,Water Melon,19,0
+Tamil Nadu,KRISHNAGIRI,2003,Whole Year,Water Melon,19,
 Tamil Nadu,KRISHNAGIRI,2004,Kharif,Arhar/Tur,2656,1446
 Tamil Nadu,KRISHNAGIRI,2004,Kharif,Bajra,186,260
 Tamil Nadu,KRISHNAGIRI,2004,Kharif,Castor seed,653,224
@@ -4451,42 +4451,42 @@ Tamil Nadu,MADURAI,2002,Kharif,Sunflower,222,140
 Tamil Nadu,MADURAI,2002,Kharif,Urad,1798,1469
 Tamil Nadu,MADURAI,2002,Kharif,Varagu,169,129
 Tamil Nadu,MADURAI,2002,Rabi,Gram,148,86
-Tamil Nadu,MADURAI,2002,Whole Year,Ash Gourd,2,0
+Tamil Nadu,MADURAI,2002,Whole Year,Ash Gourd,2,
 Tamil Nadu,MADURAI,2002,Whole Year,Banana,2136,76779
-Tamil Nadu,MADURAI,2002,Whole Year,Beet Root,1,0
+Tamil Nadu,MADURAI,2002,Whole Year,Beet Root,1,
 Tamil Nadu,MADURAI,2002,Whole Year,Bhindi,170,1267
-Tamil Nadu,MADURAI,2002,Whole Year,Bitter Gourd,17,0
-Tamil Nadu,MADURAI,2002,Whole Year,Bottle Gourd,1,0
+Tamil Nadu,MADURAI,2002,Whole Year,Bitter Gourd,17,
+Tamil Nadu,MADURAI,2002,Whole Year,Bottle Gourd,1,
 Tamil Nadu,MADURAI,2002,Whole Year,Brinjal,360,2147
 Tamil Nadu,MADURAI,2002,Whole Year,Cashewnut,251,76
 Tamil Nadu,MADURAI,2002,Whole Year,Citrus Fruit,68,75
 Tamil Nadu,MADURAI,2002,Whole Year,Coconut,10545,98100
 Tamil Nadu,MADURAI,2002,Whole Year,Coriander,338,63
-Tamil Nadu,MADURAI,2002,Whole Year,Cucumber,35,0
-Tamil Nadu,MADURAI,2002,Whole Year,Drum Stick,285,0
+Tamil Nadu,MADURAI,2002,Whole Year,Cucumber,35,
+Tamil Nadu,MADURAI,2002,Whole Year,Drum Stick,285,
 Tamil Nadu,MADURAI,2002,Whole Year,Dry chillies,400,237
 Tamil Nadu,MADURAI,2002,Whole Year,Grapes,3,44
 Tamil Nadu,MADURAI,2002,Whole Year,Jack Fruit,13,147
-Tamil Nadu,MADURAI,2002,Whole Year,Lab-Lab,14,0
+Tamil Nadu,MADURAI,2002,Whole Year,Lab-Lab,14,
 Tamil Nadu,MADURAI,2002,Whole Year,Mango,5647,14344
 Tamil Nadu,MADURAI,2002,Whole Year,Onion,908,5429
 Tamil Nadu,MADURAI,2002,Whole Year,Orange,1,2
-Tamil Nadu,MADURAI,2002,Whole Year,Other Citrus Fruit,24,0
-Tamil Nadu,MADURAI,2002,Whole Year,Other Fresh Fruits,193,0
-Tamil Nadu,MADURAI,2002,Whole Year,Other Vegetables,118,0
-Tamil Nadu,MADURAI,2002,Whole Year,Pear,1,0
+Tamil Nadu,MADURAI,2002,Whole Year,Other Citrus Fruit,24,
+Tamil Nadu,MADURAI,2002,Whole Year,Other Fresh Fruits,193,
+Tamil Nadu,MADURAI,2002,Whole Year,Other Vegetables,118,
+Tamil Nadu,MADURAI,2002,Whole Year,Pear,1,
 Tamil Nadu,MADURAI,2002,Whole Year,Pome Fruit,1075,5624
-Tamil Nadu,MADURAI,2002,Whole Year,Pome Granet,6,0
-Tamil Nadu,MADURAI,2002,Whole Year,Pump Kin,15,0
-Tamil Nadu,MADURAI,2002,Whole Year,Ribed Guard,4,0
-Tamil Nadu,MADURAI,2002,Whole Year,Snak Guard,6,0
+Tamil Nadu,MADURAI,2002,Whole Year,Pome Granet,6,
+Tamil Nadu,MADURAI,2002,Whole Year,Pump Kin,15,
+Tamil Nadu,MADURAI,2002,Whole Year,Ribed Guard,4,
+Tamil Nadu,MADURAI,2002,Whole Year,Snak Guard,6,
 Tamil Nadu,MADURAI,2002,Whole Year,Sugarcane,5639,601070
 Tamil Nadu,MADURAI,2002,Whole Year,Sweet potato,63,861
 Tamil Nadu,MADURAI,2002,Whole Year,Tapioca,98,3096
 Tamil Nadu,MADURAI,2002,Whole Year,Tomato,376,4632
 Tamil Nadu,MADURAI,2002,Whole Year,Turmeric,29,108
-Tamil Nadu,MADURAI,2002,Whole Year,Water Melon,2,0
-Tamil Nadu,MADURAI,2002,Whole Year,Yam,17,0
+Tamil Nadu,MADURAI,2002,Whole Year,Water Melon,2,
+Tamil Nadu,MADURAI,2002,Whole Year,Yam,17,
 Tamil Nadu,MADURAI,2003,Kharif,Arhar/Tur,1420,869
 Tamil Nadu,MADURAI,2003,Kharif,Bajra,3338,3757
 Tamil Nadu,MADURAI,2003,Kharif,Castor seed,36,12
@@ -4505,44 +4505,44 @@ Tamil Nadu,MADURAI,2003,Kharif,Small millets,3846,256
 Tamil Nadu,MADURAI,2003,Kharif,Sunflower,328,306
 Tamil Nadu,MADURAI,2003,Kharif,Urad,1391,569
 Tamil Nadu,MADURAI,2003,Rabi,Gram,82,48
-Tamil Nadu,MADURAI,2003,Whole Year,Ash Gourd,10,0
+Tamil Nadu,MADURAI,2003,Whole Year,Ash Gourd,10,
 Tamil Nadu,MADURAI,2003,Whole Year,Banana,2436,86173
 Tamil Nadu,MADURAI,2003,Whole Year,Bhindi,221,1548
-Tamil Nadu,MADURAI,2003,Whole Year,Bitter Gourd,13,0
-Tamil Nadu,MADURAI,2003,Whole Year,Bottle Gourd,4,0
+Tamil Nadu,MADURAI,2003,Whole Year,Bitter Gourd,13,
+Tamil Nadu,MADURAI,2003,Whole Year,Bottle Gourd,4,
 Tamil Nadu,MADURAI,2003,Whole Year,Brinjal,270,1612
 Tamil Nadu,MADURAI,2003,Whole Year,Cabbage,1,64
 Tamil Nadu,MADURAI,2003,Whole Year,Cashewnut,255,88
-Tamil Nadu,MADURAI,2003,Whole Year,Cauliflower,19,0
+Tamil Nadu,MADURAI,2003,Whole Year,Cauliflower,19,
 Tamil Nadu,MADURAI,2003,Whole Year,Citrus Fruit,81,85
 Tamil Nadu,MADURAI,2003,Whole Year,Coconut,10611,74000
 Tamil Nadu,MADURAI,2003,Whole Year,Coriander,500,145
-Tamil Nadu,MADURAI,2003,Whole Year,Cucumber,48,0
-Tamil Nadu,MADURAI,2003,Whole Year,Drum Stick,276,0
+Tamil Nadu,MADURAI,2003,Whole Year,Cucumber,48,
+Tamil Nadu,MADURAI,2003,Whole Year,Drum Stick,276,
 Tamil Nadu,MADURAI,2003,Whole Year,Dry chillies,616,328
 Tamil Nadu,MADURAI,2003,Whole Year,Grapes,1,24
 Tamil Nadu,MADURAI,2003,Whole Year,Jack Fruit,14,135
-Tamil Nadu,MADURAI,2003,Whole Year,Lab-Lab,6,0
-Tamil Nadu,MADURAI,2003,Whole Year,Litchi,14,0
+Tamil Nadu,MADURAI,2003,Whole Year,Lab-Lab,6,
+Tamil Nadu,MADURAI,2003,Whole Year,Litchi,14,
 Tamil Nadu,MADURAI,2003,Whole Year,Mango,5558,10232
 Tamil Nadu,MADURAI,2003,Whole Year,Onion,794,5148
 Tamil Nadu,MADURAI,2003,Whole Year,Orange,3,6
-Tamil Nadu,MADURAI,2003,Whole Year,Other Citrus Fruit,37,0
-Tamil Nadu,MADURAI,2003,Whole Year,Other Fresh Fruits,208,0
-Tamil Nadu,MADURAI,2003,Whole Year,Other Vegetables,72,0
-Tamil Nadu,MADURAI,2003,Whole Year,Papaya,2,0
+Tamil Nadu,MADURAI,2003,Whole Year,Other Citrus Fruit,37,
+Tamil Nadu,MADURAI,2003,Whole Year,Other Fresh Fruits,208,
+Tamil Nadu,MADURAI,2003,Whole Year,Other Vegetables,72,
+Tamil Nadu,MADURAI,2003,Whole Year,Papaya,2,
 Tamil Nadu,MADURAI,2003,Whole Year,Pome Fruit,1002,7035
-Tamil Nadu,MADURAI,2003,Whole Year,Pome Granet,10,0
-Tamil Nadu,MADURAI,2003,Whole Year,Pump Kin,3,0
-Tamil Nadu,MADURAI,2003,Whole Year,Redish,15,0
-Tamil Nadu,MADURAI,2003,Whole Year,Ribed Guard,1,0
-Tamil Nadu,MADURAI,2003,Whole Year,Snak Guard,14,0
+Tamil Nadu,MADURAI,2003,Whole Year,Pome Granet,10,
+Tamil Nadu,MADURAI,2003,Whole Year,Pump Kin,3,
+Tamil Nadu,MADURAI,2003,Whole Year,Redish,15,
+Tamil Nadu,MADURAI,2003,Whole Year,Ribed Guard,1,
+Tamil Nadu,MADURAI,2003,Whole Year,Snak Guard,14,
 Tamil Nadu,MADURAI,2003,Whole Year,Sugarcane,4276,326840
 Tamil Nadu,MADURAI,2003,Whole Year,Sweet potato,88,1276
 Tamil Nadu,MADURAI,2003,Whole Year,Tapioca,123,4144
 Tamil Nadu,MADURAI,2003,Whole Year,Tomato,308,2636
 Tamil Nadu,MADURAI,2003,Whole Year,Turmeric,21,87
-Tamil Nadu,MADURAI,2003,Whole Year,Yam,24,0
+Tamil Nadu,MADURAI,2003,Whole Year,Yam,24,
 Tamil Nadu,MADURAI,2004,Kharif,Arhar/Tur,1025,684
 Tamil Nadu,MADURAI,2004,Kharif,Bajra,5201,6376
 Tamil Nadu,MADURAI,2004,Kharif,Castor seed,28,9
@@ -4892,38 +4892,38 @@ Tamil Nadu,NAGAPATTINAM,2002,Kharif,Cotton(lint),1185,2313
 Tamil Nadu,NAGAPATTINAM,2002,Kharif,Groundnut,2314,3602
 Tamil Nadu,NAGAPATTINAM,2002,Kharif,Maize,2,5
 Tamil Nadu,NAGAPATTINAM,2002,Kharif,Moong(Green Gram),8582,3150
-Tamil Nadu,NAGAPATTINAM,2002,Kharif,Other Kharif pulses,10,0
+Tamil Nadu,NAGAPATTINAM,2002,Kharif,Other Kharif pulses,10,
 Tamil Nadu,NAGAPATTINAM,2002,Kharif,Rice,137724,159449
 Tamil Nadu,NAGAPATTINAM,2002,Kharif,Sesamum,928,288
 Tamil Nadu,NAGAPATTINAM,2002,Kharif,Sunflower,2,2
 Tamil Nadu,NAGAPATTINAM,2002,Kharif,Urad,21504,4523
 Tamil Nadu,NAGAPATTINAM,2002,Whole Year,Arecanut,3,
-Tamil Nadu,NAGAPATTINAM,2002,Whole Year,Ash Gourd,8,0
+Tamil Nadu,NAGAPATTINAM,2002,Whole Year,Ash Gourd,8,
 Tamil Nadu,NAGAPATTINAM,2002,Whole Year,Banana,750,27715
-Tamil Nadu,NAGAPATTINAM,2002,Whole Year,Ber,3,0
+Tamil Nadu,NAGAPATTINAM,2002,Whole Year,Ber,3,
 Tamil Nadu,NAGAPATTINAM,2002,Whole Year,Bhindi,21,156
-Tamil Nadu,NAGAPATTINAM,2002,Whole Year,Bitter Gourd,3,0
-Tamil Nadu,NAGAPATTINAM,2002,Whole Year,Bottle Gourd,5,0
+Tamil Nadu,NAGAPATTINAM,2002,Whole Year,Bitter Gourd,3,
+Tamil Nadu,NAGAPATTINAM,2002,Whole Year,Bottle Gourd,5,
 Tamil Nadu,NAGAPATTINAM,2002,Whole Year,Brinjal,24,183
 Tamil Nadu,NAGAPATTINAM,2002,Whole Year,Cashewnut,503,152
 Tamil Nadu,NAGAPATTINAM,2002,Whole Year,Citrus Fruit,71,79
 Tamil Nadu,NAGAPATTINAM,2002,Whole Year,Coconut,3660,25900
-Tamil Nadu,NAGAPATTINAM,2002,Whole Year,Cucumber,3,0
-Tamil Nadu,NAGAPATTINAM,2002,Whole Year,Drum Stick,13,0
+Tamil Nadu,NAGAPATTINAM,2002,Whole Year,Cucumber,3,
+Tamil Nadu,NAGAPATTINAM,2002,Whole Year,Drum Stick,13,
 Tamil Nadu,NAGAPATTINAM,2002,Whole Year,Dry chillies,24,14
 Tamil Nadu,NAGAPATTINAM,2002,Whole Year,Jack Fruit,10,113
-Tamil Nadu,NAGAPATTINAM,2002,Whole Year,Lab-Lab,16,0
+Tamil Nadu,NAGAPATTINAM,2002,Whole Year,Lab-Lab,16,
 Tamil Nadu,NAGAPATTINAM,2002,Whole Year,Mango,1057,6333
 Tamil Nadu,NAGAPATTINAM,2002,Whole Year,Onion,30,254
-Tamil Nadu,NAGAPATTINAM,2002,Whole Year,Other Citrus Fruit,28,0
-Tamil Nadu,NAGAPATTINAM,2002,Whole Year,Other Fresh Fruits,3,0
-Tamil Nadu,NAGAPATTINAM,2002,Whole Year,Other Vegetables,31,0
+Tamil Nadu,NAGAPATTINAM,2002,Whole Year,Other Citrus Fruit,28,
+Tamil Nadu,NAGAPATTINAM,2002,Whole Year,Other Fresh Fruits,3,
+Tamil Nadu,NAGAPATTINAM,2002,Whole Year,Other Vegetables,31,
 Tamil Nadu,NAGAPATTINAM,2002,Whole Year,Pome Fruit,13,68
-Tamil Nadu,NAGAPATTINAM,2002,Whole Year,Pome Granet,1,0
-Tamil Nadu,NAGAPATTINAM,2002,Whole Year,Pump Kin,3,0
-Tamil Nadu,NAGAPATTINAM,2002,Whole Year,Redish,4,0
-Tamil Nadu,NAGAPATTINAM,2002,Whole Year,Ribed Guard,2,0
-Tamil Nadu,NAGAPATTINAM,2002,Whole Year,Snak Guard,7,0
+Tamil Nadu,NAGAPATTINAM,2002,Whole Year,Pome Granet,1,
+Tamil Nadu,NAGAPATTINAM,2002,Whole Year,Pump Kin,3,
+Tamil Nadu,NAGAPATTINAM,2002,Whole Year,Redish,4,
+Tamil Nadu,NAGAPATTINAM,2002,Whole Year,Ribed Guard,2,
+Tamil Nadu,NAGAPATTINAM,2002,Whole Year,Snak Guard,7,
 Tamil Nadu,NAGAPATTINAM,2002,Whole Year,Sugarcane,3288,301970
 Tamil Nadu,NAGAPATTINAM,2002,Whole Year,Sweet potato,15,205
 Tamil Nadu,NAGAPATTINAM,2002,Whole Year,Tapioca,160,5055
@@ -4941,32 +4941,32 @@ Tamil Nadu,NAGAPATTINAM,2003,Kharif,Sesamum,1735,554
 Tamil Nadu,NAGAPATTINAM,2003,Kharif,Sunflower,44,57
 Tamil Nadu,NAGAPATTINAM,2003,Kharif,Urad,28404,7095
 Tamil Nadu,NAGAPATTINAM,2003,Whole Year,Arecanut,2,
-Tamil Nadu,NAGAPATTINAM,2003,Whole Year,Ash Gourd,3,0
+Tamil Nadu,NAGAPATTINAM,2003,Whole Year,Ash Gourd,3,
 Tamil Nadu,NAGAPATTINAM,2003,Whole Year,Banana,537,18996
-Tamil Nadu,NAGAPATTINAM,2003,Whole Year,Ber,3,0
+Tamil Nadu,NAGAPATTINAM,2003,Whole Year,Ber,3,
 Tamil Nadu,NAGAPATTINAM,2003,Whole Year,Bhindi,16,112
-Tamil Nadu,NAGAPATTINAM,2003,Whole Year,Bitter Gourd,6,0
-Tamil Nadu,NAGAPATTINAM,2003,Whole Year,Bottle Gourd,3,0
+Tamil Nadu,NAGAPATTINAM,2003,Whole Year,Bitter Gourd,6,
+Tamil Nadu,NAGAPATTINAM,2003,Whole Year,Bottle Gourd,3,
 Tamil Nadu,NAGAPATTINAM,2003,Whole Year,Brinjal,69,771
 Tamil Nadu,NAGAPATTINAM,2003,Whole Year,Cashewnut,557,192
 Tamil Nadu,NAGAPATTINAM,2003,Whole Year,Citrus Fruit,66,69
 Tamil Nadu,NAGAPATTINAM,2003,Whole Year,Coconut,3808,38900
-Tamil Nadu,NAGAPATTINAM,2003,Whole Year,Cucumber,6,0
-Tamil Nadu,NAGAPATTINAM,2003,Whole Year,Drum Stick,15,0
+Tamil Nadu,NAGAPATTINAM,2003,Whole Year,Cucumber,6,
+Tamil Nadu,NAGAPATTINAM,2003,Whole Year,Drum Stick,15,
 Tamil Nadu,NAGAPATTINAM,2003,Whole Year,Dry chillies,21,11
 Tamil Nadu,NAGAPATTINAM,2003,Whole Year,Jack Fruit,10,97
-Tamil Nadu,NAGAPATTINAM,2003,Whole Year,Lab-Lab,12,0
+Tamil Nadu,NAGAPATTINAM,2003,Whole Year,Lab-Lab,12,
 Tamil Nadu,NAGAPATTINAM,2003,Whole Year,Mango,1239,5148
 Tamil Nadu,NAGAPATTINAM,2003,Whole Year,Onion,26,234
-Tamil Nadu,NAGAPATTINAM,2003,Whole Year,Other Citrus Fruit,28,0
-Tamil Nadu,NAGAPATTINAM,2003,Whole Year,Other Fresh Fruits,3,0
-Tamil Nadu,NAGAPATTINAM,2003,Whole Year,Other Vegetables,25,0
+Tamil Nadu,NAGAPATTINAM,2003,Whole Year,Other Citrus Fruit,28,
+Tamil Nadu,NAGAPATTINAM,2003,Whole Year,Other Fresh Fruits,3,
+Tamil Nadu,NAGAPATTINAM,2003,Whole Year,Other Vegetables,25,
 Tamil Nadu,NAGAPATTINAM,2003,Whole Year,Pome Fruit,15,105
-Tamil Nadu,NAGAPATTINAM,2003,Whole Year,Pome Granet,1,0
-Tamil Nadu,NAGAPATTINAM,2003,Whole Year,Pump Kin,7,0
-Tamil Nadu,NAGAPATTINAM,2003,Whole Year,Redish,3,0
-Tamil Nadu,NAGAPATTINAM,2003,Whole Year,Ribed Guard,3,0
-Tamil Nadu,NAGAPATTINAM,2003,Whole Year,Snak Guard,4,0
+Tamil Nadu,NAGAPATTINAM,2003,Whole Year,Pome Granet,1,
+Tamil Nadu,NAGAPATTINAM,2003,Whole Year,Pump Kin,7,
+Tamil Nadu,NAGAPATTINAM,2003,Whole Year,Redish,3,
+Tamil Nadu,NAGAPATTINAM,2003,Whole Year,Ribed Guard,3,
+Tamil Nadu,NAGAPATTINAM,2003,Whole Year,Snak Guard,4,
 Tamil Nadu,NAGAPATTINAM,2003,Whole Year,Sugarcane,2213,225014
 Tamil Nadu,NAGAPATTINAM,2003,Whole Year,Tapioca,159,5357
 Tamil Nadu,NAGAPATTINAM,2003,Whole Year,Tomato,1,10
@@ -5280,18 +5280,18 @@ Tamil Nadu,NAMAKKAL,2002,Kharif,Urad,6508,4462
 Tamil Nadu,NAMAKKAL,2002,Kharif,Varagu,142,158
 Tamil Nadu,NAMAKKAL,2002,Rabi,Gram,14,7
 Tamil Nadu,NAMAKKAL,2002,Whole Year,Arecanut,184,
-Tamil Nadu,NAMAKKAL,2002,Whole Year,Ash Gourd,10,0
+Tamil Nadu,NAMAKKAL,2002,Whole Year,Ash Gourd,10,
 Tamil Nadu,NAMAKKAL,2002,Whole Year,Banana,898,33184
-Tamil Nadu,NAMAKKAL,2002,Whole Year,Beet Root,10,0
+Tamil Nadu,NAMAKKAL,2002,Whole Year,Beet Root,10,
 Tamil Nadu,NAMAKKAL,2002,Whole Year,Bhindi,387,3014
-Tamil Nadu,NAMAKKAL,2002,Whole Year,Bitter Gourd,15,0
+Tamil Nadu,NAMAKKAL,2002,Whole Year,Bitter Gourd,15,
 Tamil Nadu,NAMAKKAL,2002,Whole Year,Brinjal,490,5247
 Tamil Nadu,NAMAKKAL,2002,Whole Year,Cabbage,4,235
 Tamil Nadu,NAMAKKAL,2002,Whole Year,Cashewnut,2,1
 Tamil Nadu,NAMAKKAL,2002,Whole Year,Citrus Fruit,68,75
 Tamil Nadu,NAMAKKAL,2002,Whole Year,Coconut,2174,21000
 Tamil Nadu,NAMAKKAL,2002,Whole Year,Coriander,102,19
-Tamil Nadu,NAMAKKAL,2002,Whole Year,Drum Stick,4,0
+Tamil Nadu,NAMAKKAL,2002,Whole Year,Drum Stick,4,
 Tamil Nadu,NAMAKKAL,2002,Whole Year,Dry chillies,490,291
 Tamil Nadu,NAMAKKAL,2002,Whole Year,Dry ginger,10,160
 Tamil Nadu,NAMAKKAL,2002,Whole Year,Grapes,1,15
@@ -5299,16 +5299,16 @@ Tamil Nadu,NAMAKKAL,2002,Whole Year,Jack Fruit,198,2241
 Tamil Nadu,NAMAKKAL,2002,Whole Year,Mango,1026,6148
 Tamil Nadu,NAMAKKAL,2002,Whole Year,Onion,2048,17317
 Tamil Nadu,NAMAKKAL,2002,Whole Year,Orange,51,79
-Tamil Nadu,NAMAKKAL,2002,Whole Year,Other Citrus Fruit,17,0
-Tamil Nadu,NAMAKKAL,2002,Whole Year,Other Fresh Fruits,422,0
+Tamil Nadu,NAMAKKAL,2002,Whole Year,Other Citrus Fruit,17,
+Tamil Nadu,NAMAKKAL,2002,Whole Year,Other Fresh Fruits,422,
 Tamil Nadu,NAMAKKAL,2002,Whole Year,Other Vegetables,220,5
-Tamil Nadu,NAMAKKAL,2002,Whole Year,Papaya,1,0
+Tamil Nadu,NAMAKKAL,2002,Whole Year,Papaya,1,
 Tamil Nadu,NAMAKKAL,2002,Whole Year,Pineapple,1107,34394
 Tamil Nadu,NAMAKKAL,2002,Whole Year,Pome Fruit,347,1815
-Tamil Nadu,NAMAKKAL,2002,Whole Year,Pome Granet,65,0
-Tamil Nadu,NAMAKKAL,2002,Whole Year,Pump Kin,24,0
-Tamil Nadu,NAMAKKAL,2002,Whole Year,Redish,10,0
-Tamil Nadu,NAMAKKAL,2002,Whole Year,Ribed Guard,70,0
+Tamil Nadu,NAMAKKAL,2002,Whole Year,Pome Granet,65,
+Tamil Nadu,NAMAKKAL,2002,Whole Year,Pump Kin,24,
+Tamil Nadu,NAMAKKAL,2002,Whole Year,Redish,10,
+Tamil Nadu,NAMAKKAL,2002,Whole Year,Ribed Guard,70,
 Tamil Nadu,NAMAKKAL,2002,Whole Year,Sugarcane,10661,1446560
 Tamil Nadu,NAMAKKAL,2002,Whole Year,Sweet potato,10,137
 Tamil Nadu,NAMAKKAL,2002,Whole Year,Tapioca,6827,312351
@@ -5335,40 +5335,40 @@ Tamil Nadu,NAMAKKAL,2003,Kharif,Sunflower,435,312
 Tamil Nadu,NAMAKKAL,2003,Kharif,Urad,2483,1122
 Tamil Nadu,NAMAKKAL,2003,Rabi,Gram,80,37
 Tamil Nadu,NAMAKKAL,2003,Whole Year,Arecanut,188,
-Tamil Nadu,NAMAKKAL,2003,Whole Year,Ash Gourd,6,0
+Tamil Nadu,NAMAKKAL,2003,Whole Year,Ash Gourd,6,
 Tamil Nadu,NAMAKKAL,2003,Whole Year,Banana,1523,53876
 Tamil Nadu,NAMAKKAL,2003,Whole Year,Bhindi,476,3639
 Tamil Nadu,NAMAKKAL,2003,Whole Year,Black pepper,581,107
-Tamil Nadu,NAMAKKAL,2003,Whole Year,Bottle Gourd,5,0
+Tamil Nadu,NAMAKKAL,2003,Whole Year,Bottle Gourd,5,
 Tamil Nadu,NAMAKKAL,2003,Whole Year,Brinjal,430,4389
 Tamil Nadu,NAMAKKAL,2003,Whole Year,Cardamom,28,2
 Tamil Nadu,NAMAKKAL,2003,Whole Year,Citrus Fruit,58,61
 Tamil Nadu,NAMAKKAL,2003,Whole Year,Coconut,3715,36400
 Tamil Nadu,NAMAKKAL,2003,Whole Year,Coriander,81,24
-Tamil Nadu,NAMAKKAL,2003,Whole Year,Cucumber,4,0
-Tamil Nadu,NAMAKKAL,2003,Whole Year,Drum Stick,9,0
+Tamil Nadu,NAMAKKAL,2003,Whole Year,Cucumber,4,
+Tamil Nadu,NAMAKKAL,2003,Whole Year,Drum Stick,9,
 Tamil Nadu,NAMAKKAL,2003,Whole Year,Dry chillies,370,197
 Tamil Nadu,NAMAKKAL,2003,Whole Year,Garlic,59,269
 Tamil Nadu,NAMAKKAL,2003,Whole Year,Grapes,3,72
 Tamil Nadu,NAMAKKAL,2003,Whole Year,Jack Fruit,265,2560
-Tamil Nadu,NAMAKKAL,2003,Whole Year,Lab-Lab,17,0
+Tamil Nadu,NAMAKKAL,2003,Whole Year,Lab-Lab,17,
 Tamil Nadu,NAMAKKAL,2003,Whole Year,Mango,965,4009
 Tamil Nadu,NAMAKKAL,2003,Whole Year,Onion,2553,28593
 Tamil Nadu,NAMAKKAL,2003,Whole Year,Orange,107,210
-Tamil Nadu,NAMAKKAL,2003,Whole Year,Other Citrus Fruit,115,0
-Tamil Nadu,NAMAKKAL,2003,Whole Year,Other Fresh Fruits,510,0
-Tamil Nadu,NAMAKKAL,2003,Whole Year,Other Vegetables,124,0
+Tamil Nadu,NAMAKKAL,2003,Whole Year,Other Citrus Fruit,115,
+Tamil Nadu,NAMAKKAL,2003,Whole Year,Other Fresh Fruits,510,
+Tamil Nadu,NAMAKKAL,2003,Whole Year,Other Vegetables,124,
 Tamil Nadu,NAMAKKAL,2003,Whole Year,Pineapple,657,21089
 Tamil Nadu,NAMAKKAL,2003,Whole Year,Pome Fruit,305,2141
-Tamil Nadu,NAMAKKAL,2003,Whole Year,Pome Granet,13,0
-Tamil Nadu,NAMAKKAL,2003,Whole Year,Redish,65,0
-Tamil Nadu,NAMAKKAL,2003,Whole Year,Ribed Guard,69,0
-Tamil Nadu,NAMAKKAL,2003,Whole Year,Snak Guard,76,0
+Tamil Nadu,NAMAKKAL,2003,Whole Year,Pome Granet,13,
+Tamil Nadu,NAMAKKAL,2003,Whole Year,Redish,65,
+Tamil Nadu,NAMAKKAL,2003,Whole Year,Ribed Guard,69,
+Tamil Nadu,NAMAKKAL,2003,Whole Year,Snak Guard,76,
 Tamil Nadu,NAMAKKAL,2003,Whole Year,Sugarcane,10628,1337109
 Tamil Nadu,NAMAKKAL,2003,Whole Year,Tapioca,17511,798839
 Tamil Nadu,NAMAKKAL,2003,Whole Year,Tomato,774,6901
 Tamil Nadu,NAMAKKAL,2003,Whole Year,Turmeric,1161,5105
-Tamil Nadu,NAMAKKAL,2003,Whole Year,Yam,2,0
+Tamil Nadu,NAMAKKAL,2003,Whole Year,Yam,2,
 Tamil Nadu,NAMAKKAL,2004,Kharif,Arhar/Tur,1307,1066
 Tamil Nadu,NAMAKKAL,2004,Kharif,Bajra,345,412
 Tamil Nadu,NAMAKKAL,2004,Kharif,Castor seed,2910,875
@@ -5793,32 +5793,32 @@ Tamil Nadu,PERAMBALUR,2002,Kharif,Varagu,4531,2799
 Tamil Nadu,PERAMBALUR,2002,Rabi,Gram,179,231
 Tamil Nadu,PERAMBALUR,2002,Rabi,Rapeseed &Mustard,4,1
 Tamil Nadu,PERAMBALUR,2002,Whole Year,Arecanut,17,
-Tamil Nadu,PERAMBALUR,2002,Whole Year,Ash Gourd,489,0
+Tamil Nadu,PERAMBALUR,2002,Whole Year,Ash Gourd,489,
 Tamil Nadu,PERAMBALUR,2002,Whole Year,Banana,277,10236
 Tamil Nadu,PERAMBALUR,2002,Whole Year,Bhindi,19,142
-Tamil Nadu,PERAMBALUR,2002,Whole Year,Bitter Gourd,28,0
+Tamil Nadu,PERAMBALUR,2002,Whole Year,Bitter Gourd,28,
 Tamil Nadu,PERAMBALUR,2002,Whole Year,Brinjal,118,900
 Tamil Nadu,PERAMBALUR,2002,Whole Year,Cashewnut,29298,7543
 Tamil Nadu,PERAMBALUR,2002,Whole Year,Citrus Fruit,561,622
 Tamil Nadu,PERAMBALUR,2002,Whole Year,Coconut,882,5500
 Tamil Nadu,PERAMBALUR,2002,Whole Year,Coriander,6021,1535
-Tamil Nadu,PERAMBALUR,2002,Whole Year,Drum Stick,97,0
+Tamil Nadu,PERAMBALUR,2002,Whole Year,Drum Stick,97,
 Tamil Nadu,PERAMBALUR,2002,Whole Year,Dry chillies,3540,2389
 Tamil Nadu,PERAMBALUR,2002,Whole Year,Grapes,1,15
 Tamil Nadu,PERAMBALUR,2002,Whole Year,Jack Fruit,108,1223
-Tamil Nadu,PERAMBALUR,2002,Whole Year,Lab-Lab,48,0
+Tamil Nadu,PERAMBALUR,2002,Whole Year,Lab-Lab,48,
 Tamil Nadu,PERAMBALUR,2002,Whole Year,Mango,693,4152
 Tamil Nadu,PERAMBALUR,2002,Whole Year,Onion,5063,29107
 Tamil Nadu,PERAMBALUR,2002,Whole Year,Orange,2,3
-Tamil Nadu,PERAMBALUR,2002,Whole Year,Other Citrus Fruit,15,0
-Tamil Nadu,PERAMBALUR,2002,Whole Year,Other Fresh Fruits,3,0
-Tamil Nadu,PERAMBALUR,2002,Whole Year,Other Vegetables,166,0
-Tamil Nadu,PERAMBALUR,2002,Whole Year,Papaya,1,0
+Tamil Nadu,PERAMBALUR,2002,Whole Year,Other Citrus Fruit,15,
+Tamil Nadu,PERAMBALUR,2002,Whole Year,Other Fresh Fruits,3,
+Tamil Nadu,PERAMBALUR,2002,Whole Year,Other Vegetables,166,
+Tamil Nadu,PERAMBALUR,2002,Whole Year,Papaya,1,
 Tamil Nadu,PERAMBALUR,2002,Whole Year,Pome Fruit,69,361
-Tamil Nadu,PERAMBALUR,2002,Whole Year,Pome Granet,2,0
-Tamil Nadu,PERAMBALUR,2002,Whole Year,Pump Kin,158,0
-Tamil Nadu,PERAMBALUR,2002,Whole Year,Redish,6,0
-Tamil Nadu,PERAMBALUR,2002,Whole Year,Snak Guard,4,0
+Tamil Nadu,PERAMBALUR,2002,Whole Year,Pome Granet,2,
+Tamil Nadu,PERAMBALUR,2002,Whole Year,Pump Kin,158,
+Tamil Nadu,PERAMBALUR,2002,Whole Year,Redish,6,
+Tamil Nadu,PERAMBALUR,2002,Whole Year,Snak Guard,4,
 Tamil Nadu,PERAMBALUR,2002,Whole Year,Sugarcane,11435,888310
 Tamil Nadu,PERAMBALUR,2002,Whole Year,Sweet potato,24,328
 Tamil Nadu,PERAMBALUR,2002,Whole Year,Tapioca,2578,120981
@@ -5843,31 +5843,31 @@ Tamil Nadu,PERAMBALUR,2003,Kharif,Urad,2105,860
 Tamil Nadu,PERAMBALUR,2003,Rabi,Gram,107,80
 Tamil Nadu,PERAMBALUR,2003,Rabi,Rapeseed &Mustard,3,1
 Tamil Nadu,PERAMBALUR,2003,Whole Year,Arecanut,20,
-Tamil Nadu,PERAMBALUR,2003,Whole Year,Ash Gourd,244,0
+Tamil Nadu,PERAMBALUR,2003,Whole Year,Ash Gourd,244,
 Tamil Nadu,PERAMBALUR,2003,Whole Year,Banana,304,10754
 Tamil Nadu,PERAMBALUR,2003,Whole Year,Bhindi,44,308
-Tamil Nadu,PERAMBALUR,2003,Whole Year,Bitter Gourd,22,0
+Tamil Nadu,PERAMBALUR,2003,Whole Year,Bitter Gourd,22,
 Tamil Nadu,PERAMBALUR,2003,Whole Year,Brinjal,169,1889
 Tamil Nadu,PERAMBALUR,2003,Whole Year,Cashewnut,35146,6072
 Tamil Nadu,PERAMBALUR,2003,Whole Year,Citrus Fruit,562,587
 Tamil Nadu,PERAMBALUR,2003,Whole Year,Coconut,872,9200
 Tamil Nadu,PERAMBALUR,2003,Whole Year,Coriander,4453,1279
-Tamil Nadu,PERAMBALUR,2003,Whole Year,Cucumber,3,0
-Tamil Nadu,PERAMBALUR,2003,Whole Year,Drum Stick,146,0
+Tamil Nadu,PERAMBALUR,2003,Whole Year,Cucumber,3,
+Tamil Nadu,PERAMBALUR,2003,Whole Year,Drum Stick,146,
 Tamil Nadu,PERAMBALUR,2003,Whole Year,Dry chillies,3535,1350
 Tamil Nadu,PERAMBALUR,2003,Whole Year,Jack Fruit,108,1044
-Tamil Nadu,PERAMBALUR,2003,Whole Year,Lab-Lab,58,0
+Tamil Nadu,PERAMBALUR,2003,Whole Year,Lab-Lab,58,
 Tamil Nadu,PERAMBALUR,2003,Whole Year,Mango,714,2966
 Tamil Nadu,PERAMBALUR,2003,Whole Year,Onion,6027,53208
 Tamil Nadu,PERAMBALUR,2003,Whole Year,Orange,1,2
-Tamil Nadu,PERAMBALUR,2003,Whole Year,Other Citrus Fruit,35,0
-Tamil Nadu,PERAMBALUR,2003,Whole Year,Other Fresh Fruits,4,0
-Tamil Nadu,PERAMBALUR,2003,Whole Year,Other Vegetables,155,0
+Tamil Nadu,PERAMBALUR,2003,Whole Year,Other Citrus Fruit,35,
+Tamil Nadu,PERAMBALUR,2003,Whole Year,Other Fresh Fruits,4,
+Tamil Nadu,PERAMBALUR,2003,Whole Year,Other Vegetables,155,
 Tamil Nadu,PERAMBALUR,2003,Whole Year,Pome Fruit,74,520
-Tamil Nadu,PERAMBALUR,2003,Whole Year,Pome Granet,2,0
-Tamil Nadu,PERAMBALUR,2003,Whole Year,Pump Kin,112,0
-Tamil Nadu,PERAMBALUR,2003,Whole Year,Redish,3,0
-Tamil Nadu,PERAMBALUR,2003,Whole Year,Snak Guard,9,0
+Tamil Nadu,PERAMBALUR,2003,Whole Year,Pome Granet,2,
+Tamil Nadu,PERAMBALUR,2003,Whole Year,Pump Kin,112,
+Tamil Nadu,PERAMBALUR,2003,Whole Year,Redish,3,
+Tamil Nadu,PERAMBALUR,2003,Whole Year,Snak Guard,9,
 Tamil Nadu,PERAMBALUR,2003,Whole Year,Sugarcane,8654,826474
 Tamil Nadu,PERAMBALUR,2003,Whole Year,Sweet potato,23,333
 Tamil Nadu,PERAMBALUR,2003,Whole Year,Tapioca,3048,102691
@@ -6269,25 +6269,25 @@ Tamil Nadu,PUDUKKOTTAI,2002,Kharif,Urad,880,351
 Tamil Nadu,PUDUKKOTTAI,2002,Kharif,Varagu,323,107
 Tamil Nadu,PUDUKKOTTAI,2002,Whole Year,Banana,3443,170257
 Tamil Nadu,PUDUKKOTTAI,2002,Whole Year,Bhindi,58,432
-Tamil Nadu,PUDUKKOTTAI,2002,Whole Year,Bitter Gourd,2,0
+Tamil Nadu,PUDUKKOTTAI,2002,Whole Year,Bitter Gourd,2,
 Tamil Nadu,PUDUKKOTTAI,2002,Whole Year,Brinjal,141,1075
 Tamil Nadu,PUDUKKOTTAI,2002,Whole Year,Cashewnut,10865,1132
 Tamil Nadu,PUDUKKOTTAI,2002,Whole Year,Citrus Fruit,78,86
 Tamil Nadu,PUDUKKOTTAI,2002,Whole Year,Coconut,5105,25600
 Tamil Nadu,PUDUKKOTTAI,2002,Whole Year,Coriander,15,3
-Tamil Nadu,PUDUKKOTTAI,2002,Whole Year,Cucumber,12,0
-Tamil Nadu,PUDUKKOTTAI,2002,Whole Year,Drum Stick,11,0
+Tamil Nadu,PUDUKKOTTAI,2002,Whole Year,Cucumber,12,
+Tamil Nadu,PUDUKKOTTAI,2002,Whole Year,Drum Stick,11,
 Tamil Nadu,PUDUKKOTTAI,2002,Whole Year,Dry chillies,100,59
 Tamil Nadu,PUDUKKOTTAI,2002,Whole Year,Jack Fruit,123,1392
 Tamil Nadu,PUDUKKOTTAI,2002,Whole Year,Mango,594,3559
 Tamil Nadu,PUDUKKOTTAI,2002,Whole Year,Onion,9,76
-Tamil Nadu,PUDUKKOTTAI,2002,Whole Year,Other Citrus Fruit,6,0
-Tamil Nadu,PUDUKKOTTAI,2002,Whole Year,Other Fresh Fruits,11,0
-Tamil Nadu,PUDUKKOTTAI,2002,Whole Year,Other Vegetables,14,0
+Tamil Nadu,PUDUKKOTTAI,2002,Whole Year,Other Citrus Fruit,6,
+Tamil Nadu,PUDUKKOTTAI,2002,Whole Year,Other Fresh Fruits,11,
+Tamil Nadu,PUDUKKOTTAI,2002,Whole Year,Other Vegetables,14,
 Tamil Nadu,PUDUKKOTTAI,2002,Whole Year,Pome Fruit,91,476
-Tamil Nadu,PUDUKKOTTAI,2002,Whole Year,Pump Kin,9,0
-Tamil Nadu,PUDUKKOTTAI,2002,Whole Year,Redish,10,0
-Tamil Nadu,PUDUKKOTTAI,2002,Whole Year,Snak Guard,3,0
+Tamil Nadu,PUDUKKOTTAI,2002,Whole Year,Pump Kin,9,
+Tamil Nadu,PUDUKKOTTAI,2002,Whole Year,Redish,10,
+Tamil Nadu,PUDUKKOTTAI,2002,Whole Year,Snak Guard,3,
 Tamil Nadu,PUDUKKOTTAI,2002,Whole Year,Sugarcane,6349,583080
 Tamil Nadu,PUDUKKOTTAI,2002,Whole Year,Sweet potato,3,41
 Tamil Nadu,PUDUKKOTTAI,2002,Whole Year,Tapioca,16,505
@@ -6308,36 +6308,36 @@ Tamil Nadu,PUDUKKOTTAI,2003,Kharif,Sesamum,553,206
 Tamil Nadu,PUDUKKOTTAI,2003,Kharif,Small millets,311,395
 Tamil Nadu,PUDUKKOTTAI,2003,Kharif,Sunflower,11,14
 Tamil Nadu,PUDUKKOTTAI,2003,Kharif,Urad,690,282
-Tamil Nadu,PUDUKKOTTAI,2003,Whole Year,Ash Gourd,5,0
+Tamil Nadu,PUDUKKOTTAI,2003,Whole Year,Ash Gourd,5,
 Tamil Nadu,PUDUKKOTTAI,2003,Whole Year,Banana,3519,177570
 Tamil Nadu,PUDUKKOTTAI,2003,Whole Year,Bhindi,25,175
-Tamil Nadu,PUDUKKOTTAI,2003,Whole Year,Bitter Gourd,3,0
+Tamil Nadu,PUDUKKOTTAI,2003,Whole Year,Bitter Gourd,3,
 Tamil Nadu,PUDUKKOTTAI,2003,Whole Year,Black pepper,1,
 Tamil Nadu,PUDUKKOTTAI,2003,Whole Year,Brinjal,83,928
 Tamil Nadu,PUDUKKOTTAI,2003,Whole Year,Cashewnut,10865,2285
 Tamil Nadu,PUDUKKOTTAI,2003,Whole Year,Citrus Fruit,99,103
 Tamil Nadu,PUDUKKOTTAI,2003,Whole Year,Coconut,5199,42100
 Tamil Nadu,PUDUKKOTTAI,2003,Whole Year,Coriander,6,2
-Tamil Nadu,PUDUKKOTTAI,2003,Whole Year,Cucumber,3,0
-Tamil Nadu,PUDUKKOTTAI,2003,Whole Year,Drum Stick,12,0
+Tamil Nadu,PUDUKKOTTAI,2003,Whole Year,Cucumber,3,
+Tamil Nadu,PUDUKKOTTAI,2003,Whole Year,Drum Stick,12,
 Tamil Nadu,PUDUKKOTTAI,2003,Whole Year,Dry chillies,80,43
 Tamil Nadu,PUDUKKOTTAI,2003,Whole Year,Jack Fruit,124,1198
-Tamil Nadu,PUDUKKOTTAI,2003,Whole Year,Lab-Lab,1,0
+Tamil Nadu,PUDUKKOTTAI,2003,Whole Year,Lab-Lab,1,
 Tamil Nadu,PUDUKKOTTAI,2003,Whole Year,Mango,625,2597
 Tamil Nadu,PUDUKKOTTAI,2003,Whole Year,Onion,6,54
-Tamil Nadu,PUDUKKOTTAI,2003,Whole Year,Other Citrus Fruit,13,0
-Tamil Nadu,PUDUKKOTTAI,2003,Whole Year,Other Fresh Fruits,27,0
-Tamil Nadu,PUDUKKOTTAI,2003,Whole Year,Other Vegetables,9,0
-Tamil Nadu,PUDUKKOTTAI,2003,Whole Year,Papaya,3,0
+Tamil Nadu,PUDUKKOTTAI,2003,Whole Year,Other Citrus Fruit,13,
+Tamil Nadu,PUDUKKOTTAI,2003,Whole Year,Other Fresh Fruits,27,
+Tamil Nadu,PUDUKKOTTAI,2003,Whole Year,Other Vegetables,9,
+Tamil Nadu,PUDUKKOTTAI,2003,Whole Year,Papaya,3,
 Tamil Nadu,PUDUKKOTTAI,2003,Whole Year,Pome Fruit,104,730
-Tamil Nadu,PUDUKKOTTAI,2003,Whole Year,Pump Kin,1,0
-Tamil Nadu,PUDUKKOTTAI,2003,Whole Year,Redish,2,0
+Tamil Nadu,PUDUKKOTTAI,2003,Whole Year,Pump Kin,1,
+Tamil Nadu,PUDUKKOTTAI,2003,Whole Year,Redish,2,
 Tamil Nadu,PUDUKKOTTAI,2003,Whole Year,Sugarcane,6091,619323
 Tamil Nadu,PUDUKKOTTAI,2003,Whole Year,Sweet potato,1,14
 Tamil Nadu,PUDUKKOTTAI,2003,Whole Year,Tapioca,17,573
 Tamil Nadu,PUDUKKOTTAI,2003,Whole Year,Tomato,11,112
 Tamil Nadu,PUDUKKOTTAI,2003,Whole Year,Turmeric,4,17
-Tamil Nadu,PUDUKKOTTAI,2003,Whole Year,Water Melon,3,0
+Tamil Nadu,PUDUKKOTTAI,2003,Whole Year,Water Melon,3,
 Tamil Nadu,PUDUKKOTTAI,2004,Kharif,Arhar/Tur,1607,1142
 Tamil Nadu,PUDUKKOTTAI,2004,Kharif,Bajra,35,41
 Tamil Nadu,PUDUKKOTTAI,2004,Kharif,Cotton(lint),246,314
@@ -6682,17 +6682,17 @@ Tamil Nadu,RAMANATHAPURAM,2002,Whole Year,Cashewnut,124,37
 Tamil Nadu,RAMANATHAPURAM,2002,Whole Year,Citrus Fruit,11,12
 Tamil Nadu,RAMANATHAPURAM,2002,Whole Year,Coconut,9120,48100
 Tamil Nadu,RAMANATHAPURAM,2002,Whole Year,Coriander,1130,77
-Tamil Nadu,RAMANATHAPURAM,2002,Whole Year,Cucumber,1,0
-Tamil Nadu,RAMANATHAPURAM,2002,Whole Year,Drum Stick,17,0
+Tamil Nadu,RAMANATHAPURAM,2002,Whole Year,Cucumber,1,
+Tamil Nadu,RAMANATHAPURAM,2002,Whole Year,Drum Stick,17,
 Tamil Nadu,RAMANATHAPURAM,2002,Whole Year,Dry chillies,18115,15292
 Tamil Nadu,RAMANATHAPURAM,2002,Whole Year,Mango,121,725
 Tamil Nadu,RAMANATHAPURAM,2002,Whole Year,Onion,44,372
-Tamil Nadu,RAMANATHAPURAM,2002,Whole Year,Other Citrus Fruit,2,0
-Tamil Nadu,RAMANATHAPURAM,2002,Whole Year,Other Fresh Fruits,54,0
-Tamil Nadu,RAMANATHAPURAM,2002,Whole Year,Other Vegetables,8,0
+Tamil Nadu,RAMANATHAPURAM,2002,Whole Year,Other Citrus Fruit,2,
+Tamil Nadu,RAMANATHAPURAM,2002,Whole Year,Other Fresh Fruits,54,
+Tamil Nadu,RAMANATHAPURAM,2002,Whole Year,Other Vegetables,8,
 Tamil Nadu,RAMANATHAPURAM,2002,Whole Year,Pome Fruit,54,283
-Tamil Nadu,RAMANATHAPURAM,2002,Whole Year,Pump Kin,2,0
-Tamil Nadu,RAMANATHAPURAM,2002,Whole Year,Snak Guard,1,0
+Tamil Nadu,RAMANATHAPURAM,2002,Whole Year,Pump Kin,2,
+Tamil Nadu,RAMANATHAPURAM,2002,Whole Year,Snak Guard,1,
 Tamil Nadu,RAMANATHAPURAM,2002,Whole Year,Sugarcane,685,62910
 Tamil Nadu,RAMANATHAPURAM,2002,Whole Year,Tomato,14,172
 Tamil Nadu,RAMANATHAPURAM,2002,Whole Year,Turmeric,1,4
@@ -6717,16 +6717,16 @@ Tamil Nadu,RAMANATHAPURAM,2003,Whole Year,Brinjal,32,358
 Tamil Nadu,RAMANATHAPURAM,2003,Whole Year,Cashewnut,230,79
 Tamil Nadu,RAMANATHAPURAM,2003,Whole Year,Coconut,8343,45700
 Tamil Nadu,RAMANATHAPURAM,2003,Whole Year,Coriander,1921,191
-Tamil Nadu,RAMANATHAPURAM,2003,Whole Year,Drum Stick,18,0
+Tamil Nadu,RAMANATHAPURAM,2003,Whole Year,Drum Stick,18,
 Tamil Nadu,RAMANATHAPURAM,2003,Whole Year,Dry chillies,22742,17648
 Tamil Nadu,RAMANATHAPURAM,2003,Whole Year,Mango,128,532
 Tamil Nadu,RAMANATHAPURAM,2003,Whole Year,Onion,55,495
 Tamil Nadu,RAMANATHAPURAM,2003,Whole Year,Orange,14,27
-Tamil Nadu,RAMANATHAPURAM,2003,Whole Year,Other Citrus Fruit,92,0
-Tamil Nadu,RAMANATHAPURAM,2003,Whole Year,Other Fresh Fruits,50,0
-Tamil Nadu,RAMANATHAPURAM,2003,Whole Year,Other Vegetables,7,0
+Tamil Nadu,RAMANATHAPURAM,2003,Whole Year,Other Citrus Fruit,92,
+Tamil Nadu,RAMANATHAPURAM,2003,Whole Year,Other Fresh Fruits,50,
+Tamil Nadu,RAMANATHAPURAM,2003,Whole Year,Other Vegetables,7,
 Tamil Nadu,RAMANATHAPURAM,2003,Whole Year,Pome Fruit,69,484
-Tamil Nadu,RAMANATHAPURAM,2003,Whole Year,Snak Guard,5,0
+Tamil Nadu,RAMANATHAPURAM,2003,Whole Year,Snak Guard,5,
 Tamil Nadu,RAMANATHAPURAM,2003,Whole Year,Sugarcane,451,45857
 Tamil Nadu,RAMANATHAPURAM,2003,Whole Year,Tomato,15,152
 Tamil Nadu,RAMANATHAPURAM,2003,Whole Year,Turmeric,2,8
@@ -7109,46 +7109,46 @@ Tamil Nadu,SALEM,2002,Kharif,Urad,12865,8482
 Tamil Nadu,SALEM,2002,Kharif,Varagu,933,1156
 Tamil Nadu,SALEM,2002,Rabi,Gram,291,135
 Tamil Nadu,SALEM,2002,Rabi,Rapeseed &Mustard,10,2
-Tamil Nadu,SALEM,2002,Rabi,Wheat,10,0
+Tamil Nadu,SALEM,2002,Rabi,Wheat,10,
 Tamil Nadu,SALEM,2002,Whole Year,Arecanut,1717,
-Tamil Nadu,SALEM,2002,Whole Year,Ash Gourd,16,0
+Tamil Nadu,SALEM,2002,Whole Year,Ash Gourd,16,
 Tamil Nadu,SALEM,2002,Whole Year,Banana,613,22652
-Tamil Nadu,SALEM,2002,Whole Year,Beans & Mutter(Vegetable),2,0
-Tamil Nadu,SALEM,2002,Whole Year,Ber,70,0
+Tamil Nadu,SALEM,2002,Whole Year,Beans & Mutter(Vegetable),2,
+Tamil Nadu,SALEM,2002,Whole Year,Ber,70,
 Tamil Nadu,SALEM,2002,Whole Year,Bhindi,944,6157
-Tamil Nadu,SALEM,2002,Whole Year,Bitter Gourd,77,0
-Tamil Nadu,SALEM,2002,Whole Year,Bottle Gourd,37,0
+Tamil Nadu,SALEM,2002,Whole Year,Bitter Gourd,77,
+Tamil Nadu,SALEM,2002,Whole Year,Bottle Gourd,37,
 Tamil Nadu,SALEM,2002,Whole Year,Brinjal,732,5728
 Tamil Nadu,SALEM,2002,Whole Year,Cabbage,2,117
 Tamil Nadu,SALEM,2002,Whole Year,Citrus Fruit,60,67
 Tamil Nadu,SALEM,2002,Whole Year,Coconut,11720,80800
 Tamil Nadu,SALEM,2002,Whole Year,Coriander,91,17
-Tamil Nadu,SALEM,2002,Whole Year,Cucumber,24,0
-Tamil Nadu,SALEM,2002,Whole Year,Drum Stick,116,0
+Tamil Nadu,SALEM,2002,Whole Year,Cucumber,24,
+Tamil Nadu,SALEM,2002,Whole Year,Drum Stick,116,
 Tamil Nadu,SALEM,2002,Whole Year,Dry chillies,778,389
 Tamil Nadu,SALEM,2002,Whole Year,Dry ginger,1,16
 Tamil Nadu,SALEM,2002,Whole Year,Jack Fruit,164,1857
-Tamil Nadu,SALEM,2002,Whole Year,Lab-Lab,33,0
+Tamil Nadu,SALEM,2002,Whole Year,Lab-Lab,33,
 Tamil Nadu,SALEM,2002,Whole Year,Mango,2937,7139
 Tamil Nadu,SALEM,2002,Whole Year,Onion,1081,8534
 Tamil Nadu,SALEM,2002,Whole Year,Orange,415,644
-Tamil Nadu,SALEM,2002,Whole Year,Other Citrus Fruit,4,0
-Tamil Nadu,SALEM,2002,Whole Year,Other Fresh Fruits,359,0
-Tamil Nadu,SALEM,2002,Whole Year,Other Vegetables,440,0
+Tamil Nadu,SALEM,2002,Whole Year,Other Citrus Fruit,4,
+Tamil Nadu,SALEM,2002,Whole Year,Other Fresh Fruits,359,
+Tamil Nadu,SALEM,2002,Whole Year,Other Vegetables,440,
 Tamil Nadu,SALEM,2002,Whole Year,Pineapple,11,341
 Tamil Nadu,SALEM,2002,Whole Year,Pome Fruit,487,2548
-Tamil Nadu,SALEM,2002,Whole Year,Pome Granet,72,0
-Tamil Nadu,SALEM,2002,Whole Year,Pump Kin,46,0
-Tamil Nadu,SALEM,2002,Whole Year,Redish,18,0
-Tamil Nadu,SALEM,2002,Whole Year,Ribed Guard,111,0
-Tamil Nadu,SALEM,2002,Whole Year,Snak Guard,86,0
+Tamil Nadu,SALEM,2002,Whole Year,Pome Granet,72,
+Tamil Nadu,SALEM,2002,Whole Year,Pump Kin,46,
+Tamil Nadu,SALEM,2002,Whole Year,Redish,18,
+Tamil Nadu,SALEM,2002,Whole Year,Ribed Guard,111,
+Tamil Nadu,SALEM,2002,Whole Year,Snak Guard,86,
 Tamil Nadu,SALEM,2002,Whole Year,Sugarcane,4986,320390
 Tamil Nadu,SALEM,2002,Whole Year,Sweet potato,1,14
 Tamil Nadu,SALEM,2002,Whole Year,Tapioca,11828,326310
 Tamil Nadu,SALEM,2002,Whole Year,Tomato,3861,26864
 Tamil Nadu,SALEM,2002,Whole Year,Turmeric,2949,8205
-Tamil Nadu,SALEM,2002,Whole Year,Water Melon,4,0
-Tamil Nadu,SALEM,2002,Whole Year,Yam,3,0
+Tamil Nadu,SALEM,2002,Whole Year,Water Melon,4,
+Tamil Nadu,SALEM,2002,Whole Year,Yam,3,
 Tamil Nadu,SALEM,2003,Kharif,Arhar/Tur,752,801
 Tamil Nadu,SALEM,2003,Kharif,Bajra,4425,5058
 Tamil Nadu,SALEM,2003,Kharif,Castor seed,639,192
@@ -7170,51 +7170,51 @@ Tamil Nadu,SALEM,2003,Kharif,Varagu,746,1060
 Tamil Nadu,SALEM,2003,Rabi,Gram,40,18
 Tamil Nadu,SALEM,2003,Rabi,Rapeseed &Mustard,6,1
 Tamil Nadu,SALEM,2003,Whole Year,Arecanut,1773,
-Tamil Nadu,SALEM,2003,Whole Year,Ash Gourd,4,0
+Tamil Nadu,SALEM,2003,Whole Year,Ash Gourd,4,
 Tamil Nadu,SALEM,2003,Whole Year,Banana,1249,44183
-Tamil Nadu,SALEM,2003,Whole Year,Beans & Mutter(Vegetable),3,0
-Tamil Nadu,SALEM,2003,Whole Year,Beet Root,1,0
+Tamil Nadu,SALEM,2003,Whole Year,Beans & Mutter(Vegetable),3,
+Tamil Nadu,SALEM,2003,Whole Year,Beet Root,1,
 Tamil Nadu,SALEM,2003,Whole Year,Bhindi,328,2293
-Tamil Nadu,SALEM,2003,Whole Year,Bitter Gourd,27,0
+Tamil Nadu,SALEM,2003,Whole Year,Bitter Gourd,27,
 Tamil Nadu,SALEM,2003,Whole Year,Black pepper,19,3
-Tamil Nadu,SALEM,2003,Whole Year,Bottle Gourd,9,0
+Tamil Nadu,SALEM,2003,Whole Year,Bottle Gourd,9,
 Tamil Nadu,SALEM,2003,Whole Year,Brinjal,536,4466
 Tamil Nadu,SALEM,2003,Whole Year,Cabbage,3,191
 Tamil Nadu,SALEM,2003,Whole Year,Cardamom,42,3
-Tamil Nadu,SALEM,2003,Whole Year,Carrot,4,0
+Tamil Nadu,SALEM,2003,Whole Year,Carrot,4,
 Tamil Nadu,SALEM,2003,Whole Year,Cashewnut,93,32
-Tamil Nadu,SALEM,2003,Whole Year,Cauliflower,2,0
+Tamil Nadu,SALEM,2003,Whole Year,Cauliflower,2,
 Tamil Nadu,SALEM,2003,Whole Year,Citrus Fruit,62,65
 Tamil Nadu,SALEM,2003,Whole Year,Coconut,11523,76000
 Tamil Nadu,SALEM,2003,Whole Year,Coriander,39,11
-Tamil Nadu,SALEM,2003,Whole Year,Cucumber,7,0
-Tamil Nadu,SALEM,2003,Whole Year,Drum Stick,18,0
+Tamil Nadu,SALEM,2003,Whole Year,Cucumber,7,
+Tamil Nadu,SALEM,2003,Whole Year,Drum Stick,18,
 Tamil Nadu,SALEM,2003,Whole Year,Dry chillies,1156,509
 Tamil Nadu,SALEM,2003,Whole Year,Grapes,1,24
 Tamil Nadu,SALEM,2003,Whole Year,Jack Fruit,27,261
-Tamil Nadu,SALEM,2003,Whole Year,Lab-Lab,45,0
+Tamil Nadu,SALEM,2003,Whole Year,Lab-Lab,45,
 Tamil Nadu,SALEM,2003,Whole Year,Mango,2256,3939
 Tamil Nadu,SALEM,2003,Whole Year,Onion,292,1992
 Tamil Nadu,SALEM,2003,Whole Year,Orange,423,830
-Tamil Nadu,SALEM,2003,Whole Year,Other Citrus Fruit,43,0
-Tamil Nadu,SALEM,2003,Whole Year,Other Fresh Fruits,255,0
-Tamil Nadu,SALEM,2003,Whole Year,Other Vegetables,211,0
-Tamil Nadu,SALEM,2003,Whole Year,Papaya,32,0
-Tamil Nadu,SALEM,2003,Whole Year,Pear,86,0
+Tamil Nadu,SALEM,2003,Whole Year,Other Citrus Fruit,43,
+Tamil Nadu,SALEM,2003,Whole Year,Other Fresh Fruits,255,
+Tamil Nadu,SALEM,2003,Whole Year,Other Vegetables,211,
+Tamil Nadu,SALEM,2003,Whole Year,Papaya,32,
+Tamil Nadu,SALEM,2003,Whole Year,Pear,86,
 Tamil Nadu,SALEM,2003,Whole Year,Pineapple,4,125
 Tamil Nadu,SALEM,2003,Whole Year,Pome Fruit,311,2184
-Tamil Nadu,SALEM,2003,Whole Year,Pome Granet,18,0
-Tamil Nadu,SALEM,2003,Whole Year,Pump Kin,18,0
-Tamil Nadu,SALEM,2003,Whole Year,Redish,12,0
-Tamil Nadu,SALEM,2003,Whole Year,Ribed Guard,28,0
-Tamil Nadu,SALEM,2003,Whole Year,Snak Guard,25,0
+Tamil Nadu,SALEM,2003,Whole Year,Pome Granet,18,
+Tamil Nadu,SALEM,2003,Whole Year,Pump Kin,18,
+Tamil Nadu,SALEM,2003,Whole Year,Redish,12,
+Tamil Nadu,SALEM,2003,Whole Year,Ribed Guard,28,
+Tamil Nadu,SALEM,2003,Whole Year,Snak Guard,25,
 Tamil Nadu,SALEM,2003,Whole Year,Sugarcane,4756,450155
 Tamil Nadu,SALEM,2003,Whole Year,Sweet potato,14,203
 Tamil Nadu,SALEM,2003,Whole Year,Tapioca,23852,804827
 Tamil Nadu,SALEM,2003,Whole Year,Tomato,3747,21103
 Tamil Nadu,SALEM,2003,Whole Year,Turmeric,2768,7243
-Tamil Nadu,SALEM,2003,Whole Year,Water Melon,3,0
-Tamil Nadu,SALEM,2003,Whole Year,Yam,7,0
+Tamil Nadu,SALEM,2003,Whole Year,Water Melon,3,
+Tamil Nadu,SALEM,2003,Whole Year,Yam,7,
 Tamil Nadu,SALEM,2004,Kharif,Arhar/Tur,1224,1101
 Tamil Nadu,SALEM,2004,Kharif,Bajra,3768,5604
 Tamil Nadu,SALEM,2004,Kharif,Castor seed,973,293
@@ -7630,35 +7630,35 @@ Tamil Nadu,SIVAGANGA,2002,Kharif,Small millets,34,21
 Tamil Nadu,SIVAGANGA,2002,Kharif,Urad,277,111
 Tamil Nadu,SIVAGANGA,2002,Kharif,Varagu,2,2
 Tamil Nadu,SIVAGANGA,2002,Whole Year,Banana,690,25498
-Tamil Nadu,SIVAGANGA,2002,Whole Year,Ber,6,0
+Tamil Nadu,SIVAGANGA,2002,Whole Year,Ber,6,
 Tamil Nadu,SIVAGANGA,2002,Whole Year,Bhindi,8,60
-Tamil Nadu,SIVAGANGA,2002,Whole Year,Bitter Gourd,1,0
+Tamil Nadu,SIVAGANGA,2002,Whole Year,Bitter Gourd,1,
 Tamil Nadu,SIVAGANGA,2002,Whole Year,Brinjal,68,519
 Tamil Nadu,SIVAGANGA,2002,Whole Year,Cashewnut,4973,939
 Tamil Nadu,SIVAGANGA,2002,Whole Year,Citrus Fruit,19,21
 Tamil Nadu,SIVAGANGA,2002,Whole Year,Coconut,5861,36100
 Tamil Nadu,SIVAGANGA,2002,Whole Year,Coriander,3,1
-Tamil Nadu,SIVAGANGA,2002,Whole Year,Cucumber,10,0
-Tamil Nadu,SIVAGANGA,2002,Whole Year,Drum Stick,1,0
+Tamil Nadu,SIVAGANGA,2002,Whole Year,Cucumber,10,
+Tamil Nadu,SIVAGANGA,2002,Whole Year,Drum Stick,1,
 Tamil Nadu,SIVAGANGA,2002,Whole Year,Dry chillies,3750,546
 Tamil Nadu,SIVAGANGA,2002,Whole Year,Jack Fruit,44,498
-Tamil Nadu,SIVAGANGA,2002,Whole Year,Lab-Lab,1,0
+Tamil Nadu,SIVAGANGA,2002,Whole Year,Lab-Lab,1,
 Tamil Nadu,SIVAGANGA,2002,Whole Year,Mango,1334,7993
 Tamil Nadu,SIVAGANGA,2002,Whole Year,Onion,14,118
 Tamil Nadu,SIVAGANGA,2002,Whole Year,Orange,1,2
-Tamil Nadu,SIVAGANGA,2002,Whole Year,Other Citrus Fruit,162,0
-Tamil Nadu,SIVAGANGA,2002,Whole Year,Other Fresh Fruits,106,0
-Tamil Nadu,SIVAGANGA,2002,Whole Year,Other Vegetables,19,0
+Tamil Nadu,SIVAGANGA,2002,Whole Year,Other Citrus Fruit,162,
+Tamil Nadu,SIVAGANGA,2002,Whole Year,Other Fresh Fruits,106,
+Tamil Nadu,SIVAGANGA,2002,Whole Year,Other Vegetables,19,
 Tamil Nadu,SIVAGANGA,2002,Whole Year,Pome Fruit,239,1250
-Tamil Nadu,SIVAGANGA,2002,Whole Year,Pome Granet,5,0
-Tamil Nadu,SIVAGANGA,2002,Whole Year,Pump Kin,1,0
-Tamil Nadu,SIVAGANGA,2002,Whole Year,Redish,1,0
-Tamil Nadu,SIVAGANGA,2002,Whole Year,Snak Guard,1,0
+Tamil Nadu,SIVAGANGA,2002,Whole Year,Pome Granet,5,
+Tamil Nadu,SIVAGANGA,2002,Whole Year,Pump Kin,1,
+Tamil Nadu,SIVAGANGA,2002,Whole Year,Redish,1,
+Tamil Nadu,SIVAGANGA,2002,Whole Year,Snak Guard,1,
 Tamil Nadu,SIVAGANGA,2002,Whole Year,Sugarcane,5039,462780
 Tamil Nadu,SIVAGANGA,2002,Whole Year,Sweet potato,5,68
 Tamil Nadu,SIVAGANGA,2002,Whole Year,Tomato,13,160
 Tamil Nadu,SIVAGANGA,2002,Whole Year,Turmeric,1,4
-Tamil Nadu,SIVAGANGA,2002,Whole Year,Water Melon,3,0
+Tamil Nadu,SIVAGANGA,2002,Whole Year,Water Melon,3,
 Tamil Nadu,SIVAGANGA,2003,Kharif,Arhar/Tur,267,163
 Tamil Nadu,SIVAGANGA,2003,Kharif,Bajra,34,44
 Tamil Nadu,SIVAGANGA,2003,Kharif,Cotton(lint),1169,690
@@ -7674,32 +7674,32 @@ Tamil Nadu,SIVAGANGA,2003,Kharif,Rice,71955,49833
 Tamil Nadu,SIVAGANGA,2003,Kharif,Sesamum,182,58
 Tamil Nadu,SIVAGANGA,2003,Kharif,Small millets,56,796
 Tamil Nadu,SIVAGANGA,2003,Kharif,Urad,396,162
-Tamil Nadu,SIVAGANGA,2003,Whole Year,Ash Gourd,1,0
+Tamil Nadu,SIVAGANGA,2003,Whole Year,Ash Gourd,1,
 Tamil Nadu,SIVAGANGA,2003,Whole Year,Banana,678,23984
-Tamil Nadu,SIVAGANGA,2003,Whole Year,Beans & Mutter(Vegetable),1,0
-Tamil Nadu,SIVAGANGA,2003,Whole Year,Ber,8,0
+Tamil Nadu,SIVAGANGA,2003,Whole Year,Beans & Mutter(Vegetable),1,
+Tamil Nadu,SIVAGANGA,2003,Whole Year,Ber,8,
 Tamil Nadu,SIVAGANGA,2003,Whole Year,Bhindi,37,259
-Tamil Nadu,SIVAGANGA,2003,Whole Year,Bitter Gourd,2,0
+Tamil Nadu,SIVAGANGA,2003,Whole Year,Bitter Gourd,2,
 Tamil Nadu,SIVAGANGA,2003,Whole Year,Brinjal,64,715
 Tamil Nadu,SIVAGANGA,2003,Whole Year,Cashewnut,5568,1416
 Tamil Nadu,SIVAGANGA,2003,Whole Year,Citrus Fruit,29,30
 Tamil Nadu,SIVAGANGA,2003,Whole Year,Coconut,6065,70100
 Tamil Nadu,SIVAGANGA,2003,Whole Year,Coriander,12,3
-Tamil Nadu,SIVAGANGA,2003,Whole Year,Cucumber,10,0
-Tamil Nadu,SIVAGANGA,2003,Whole Year,Drum Stick,2,0
+Tamil Nadu,SIVAGANGA,2003,Whole Year,Cucumber,10,
+Tamil Nadu,SIVAGANGA,2003,Whole Year,Drum Stick,2,
 Tamil Nadu,SIVAGANGA,2003,Whole Year,Dry chillies,5178,168
 Tamil Nadu,SIVAGANGA,2003,Whole Year,Garlic,1,6
 Tamil Nadu,SIVAGANGA,2003,Whole Year,Jack Fruit,37,357
-Tamil Nadu,SIVAGANGA,2003,Whole Year,Lab-Lab,2,0
+Tamil Nadu,SIVAGANGA,2003,Whole Year,Lab-Lab,2,
 Tamil Nadu,SIVAGANGA,2003,Whole Year,Mango,1325,5505
 Tamil Nadu,SIVAGANGA,2003,Whole Year,Onion,27,243
 Tamil Nadu,SIVAGANGA,2003,Whole Year,Orange,1,2
-Tamil Nadu,SIVAGANGA,2003,Whole Year,Other Citrus Fruit,216,0
-Tamil Nadu,SIVAGANGA,2003,Whole Year,Other Fresh Fruits,101,0
-Tamil Nadu,SIVAGANGA,2003,Whole Year,Other Vegetables,7,0
+Tamil Nadu,SIVAGANGA,2003,Whole Year,Other Citrus Fruit,216,
+Tamil Nadu,SIVAGANGA,2003,Whole Year,Other Fresh Fruits,101,
+Tamil Nadu,SIVAGANGA,2003,Whole Year,Other Vegetables,7,
 Tamil Nadu,SIVAGANGA,2003,Whole Year,Pome Fruit,247,1734
-Tamil Nadu,SIVAGANGA,2003,Whole Year,Pome Granet,7,0
-Tamil Nadu,SIVAGANGA,2003,Whole Year,Snak Guard,2,0
+Tamil Nadu,SIVAGANGA,2003,Whole Year,Pome Granet,7,
+Tamil Nadu,SIVAGANGA,2003,Whole Year,Snak Guard,2,
 Tamil Nadu,SIVAGANGA,2003,Whole Year,Sugarcane,3357,341335
 Tamil Nadu,SIVAGANGA,2003,Whole Year,Sweet potato,9,130
 Tamil Nadu,SIVAGANGA,2003,Whole Year,Tapioca,14,472
@@ -8045,39 +8045,39 @@ Tamil Nadu,THANJAVUR,2002,Kharif,Sunflower,18,21
 Tamil Nadu,THANJAVUR,2002,Kharif,Urad,7476,3954
 Tamil Nadu,THANJAVUR,2002,Kharif,Varagu,3,3
 Tamil Nadu,THANJAVUR,2002,Whole Year,Arecanut,8,
-Tamil Nadu,THANJAVUR,2002,Whole Year,Ash Gourd,1,0
+Tamil Nadu,THANJAVUR,2002,Whole Year,Ash Gourd,1,
 Tamil Nadu,THANJAVUR,2002,Whole Year,Banana,3726,102024
-Tamil Nadu,THANJAVUR,2002,Whole Year,Ber,5,0
+Tamil Nadu,THANJAVUR,2002,Whole Year,Ber,5,
 Tamil Nadu,THANJAVUR,2002,Whole Year,Bhindi,52,387
-Tamil Nadu,THANJAVUR,2002,Whole Year,Bitter Gourd,13,0
+Tamil Nadu,THANJAVUR,2002,Whole Year,Bitter Gourd,13,
 Tamil Nadu,THANJAVUR,2002,Whole Year,Brinjal,237,1807
 Tamil Nadu,THANJAVUR,2002,Whole Year,Cashewnut,2854,417
 Tamil Nadu,THANJAVUR,2002,Whole Year,Citrus Fruit,45,50
 Tamil Nadu,THANJAVUR,2002,Whole Year,Coconut,23934,224100
-Tamil Nadu,THANJAVUR,2002,Whole Year,Coriander,1,0.1
-Tamil Nadu,THANJAVUR,2002,Whole Year,Cucumber,26,0
-Tamil Nadu,THANJAVUR,2002,Whole Year,Drum Stick,8,0
+Tamil Nadu,THANJAVUR,2002,Whole Year,Coriander,1,.1
+Tamil Nadu,THANJAVUR,2002,Whole Year,Cucumber,26,
+Tamil Nadu,THANJAVUR,2002,Whole Year,Drum Stick,8,
 Tamil Nadu,THANJAVUR,2002,Whole Year,Dry chillies,55,33
 Tamil Nadu,THANJAVUR,2002,Whole Year,Dry ginger,2,32
 Tamil Nadu,THANJAVUR,2002,Whole Year,Jack Fruit,61,691
-Tamil Nadu,THANJAVUR,2002,Whole Year,Lab-Lab,8,0
+Tamil Nadu,THANJAVUR,2002,Whole Year,Lab-Lab,8,
 Tamil Nadu,THANJAVUR,2002,Whole Year,Mango,760,4554
 Tamil Nadu,THANJAVUR,2002,Whole Year,Onion,20,169
 Tamil Nadu,THANJAVUR,2002,Whole Year,Orange,1,2
-Tamil Nadu,THANJAVUR,2002,Whole Year,Other Citrus Fruit,15,0
-Tamil Nadu,THANJAVUR,2002,Whole Year,Other Fresh Fruits,10,0
-Tamil Nadu,THANJAVUR,2002,Whole Year,Other Vegetables,85,0
+Tamil Nadu,THANJAVUR,2002,Whole Year,Other Citrus Fruit,15,
+Tamil Nadu,THANJAVUR,2002,Whole Year,Other Fresh Fruits,10,
+Tamil Nadu,THANJAVUR,2002,Whole Year,Other Vegetables,85,
 Tamil Nadu,THANJAVUR,2002,Whole Year,Pome Fruit,214,1120
-Tamil Nadu,THANJAVUR,2002,Whole Year,Pome Granet,8,0
-Tamil Nadu,THANJAVUR,2002,Whole Year,Pump Kin,48,0
-Tamil Nadu,THANJAVUR,2002,Whole Year,Redish,33,0
-Tamil Nadu,THANJAVUR,2002,Whole Year,Ribed Guard,1,0
-Tamil Nadu,THANJAVUR,2002,Whole Year,Snak Guard,25,0
+Tamil Nadu,THANJAVUR,2002,Whole Year,Pome Granet,8,
+Tamil Nadu,THANJAVUR,2002,Whole Year,Pump Kin,48,
+Tamil Nadu,THANJAVUR,2002,Whole Year,Redish,33,
+Tamil Nadu,THANJAVUR,2002,Whole Year,Ribed Guard,1,
+Tamil Nadu,THANJAVUR,2002,Whole Year,Snak Guard,25,
 Tamil Nadu,THANJAVUR,2002,Whole Year,Sugarcane,10966,1121900
 Tamil Nadu,THANJAVUR,2002,Whole Year,Sweet potato,2,27
 Tamil Nadu,THANJAVUR,2002,Whole Year,Tapioca,40,1264
 Tamil Nadu,THANJAVUR,2002,Whole Year,Turmeric,5,19
-Tamil Nadu,THANJAVUR,2002,Whole Year,Yam,25,0
+Tamil Nadu,THANJAVUR,2002,Whole Year,Yam,25,
 Tamil Nadu,THANJAVUR,2003,Kharif,Arhar/Tur,124,76
 Tamil Nadu,THANJAVUR,2003,Kharif,Bajra,79,104
 Tamil Nadu,THANJAVUR,2003,Kharif,Castor seed,20,8
@@ -8095,37 +8095,37 @@ Tamil Nadu,THANJAVUR,2003,Kharif,Small millets,111,141
 Tamil Nadu,THANJAVUR,2003,Kharif,Sunflower,116,150
 Tamil Nadu,THANJAVUR,2003,Kharif,Urad,6354,3918
 Tamil Nadu,THANJAVUR,2003,Whole Year,Arecanut,7,
-Tamil Nadu,THANJAVUR,2003,Whole Year,Ash Gourd,27,0
+Tamil Nadu,THANJAVUR,2003,Whole Year,Ash Gourd,27,
 Tamil Nadu,THANJAVUR,2003,Whole Year,Banana,4158,160440
 Tamil Nadu,THANJAVUR,2003,Whole Year,Bhindi,54,378
-Tamil Nadu,THANJAVUR,2003,Whole Year,Bitter Gourd,6,0
+Tamil Nadu,THANJAVUR,2003,Whole Year,Bitter Gourd,6,
 Tamil Nadu,THANJAVUR,2003,Whole Year,Black pepper,2,
 Tamil Nadu,THANJAVUR,2003,Whole Year,Brinjal,262,2929
 Tamil Nadu,THANJAVUR,2003,Whole Year,Cashewnut,2864,582
 Tamil Nadu,THANJAVUR,2003,Whole Year,Citrus Fruit,27,28
 Tamil Nadu,THANJAVUR,2003,Whole Year,Coconut,24240,258500
 Tamil Nadu,THANJAVUR,2003,Whole Year,Coriander,5,2
-Tamil Nadu,THANJAVUR,2003,Whole Year,Cucumber,24,0
-Tamil Nadu,THANJAVUR,2003,Whole Year,Drum Stick,25,0
+Tamil Nadu,THANJAVUR,2003,Whole Year,Cucumber,24,
+Tamil Nadu,THANJAVUR,2003,Whole Year,Drum Stick,25,
 Tamil Nadu,THANJAVUR,2003,Whole Year,Dry chillies,68,36
 Tamil Nadu,THANJAVUR,2003,Whole Year,Jack Fruit,52,502
-Tamil Nadu,THANJAVUR,2003,Whole Year,Lab-Lab,1,0
+Tamil Nadu,THANJAVUR,2003,Whole Year,Lab-Lab,1,
 Tamil Nadu,THANJAVUR,2003,Whole Year,Mango,777,3228
 Tamil Nadu,THANJAVUR,2003,Whole Year,Onion,52,468
-Tamil Nadu,THANJAVUR,2003,Whole Year,Other Citrus Fruit,21,0
-Tamil Nadu,THANJAVUR,2003,Whole Year,Other Fresh Fruits,13,0
-Tamil Nadu,THANJAVUR,2003,Whole Year,Other Vegetables,183,0
+Tamil Nadu,THANJAVUR,2003,Whole Year,Other Citrus Fruit,21,
+Tamil Nadu,THANJAVUR,2003,Whole Year,Other Fresh Fruits,13,
+Tamil Nadu,THANJAVUR,2003,Whole Year,Other Vegetables,183,
 Tamil Nadu,THANJAVUR,2003,Whole Year,Pome Fruit,206,1446
-Tamil Nadu,THANJAVUR,2003,Whole Year,Pome Granet,4,0
-Tamil Nadu,THANJAVUR,2003,Whole Year,Pump Kin,69,0
-Tamil Nadu,THANJAVUR,2003,Whole Year,Redish,61,0
-Tamil Nadu,THANJAVUR,2003,Whole Year,Snak Guard,16,0
+Tamil Nadu,THANJAVUR,2003,Whole Year,Pome Granet,4,
+Tamil Nadu,THANJAVUR,2003,Whole Year,Pump Kin,69,
+Tamil Nadu,THANJAVUR,2003,Whole Year,Redish,61,
+Tamil Nadu,THANJAVUR,2003,Whole Year,Snak Guard,16,
 Tamil Nadu,THANJAVUR,2003,Whole Year,Sugarcane,9711,1206038
 Tamil Nadu,THANJAVUR,2003,Whole Year,Sweet potato,1,14
 Tamil Nadu,THANJAVUR,2003,Whole Year,Tapioca,53,1785
 Tamil Nadu,THANJAVUR,2003,Whole Year,Tomato,2,20
 Tamil Nadu,THANJAVUR,2003,Whole Year,Turmeric,7,29
-Tamil Nadu,THANJAVUR,2003,Whole Year,Yam,24,0
+Tamil Nadu,THANJAVUR,2003,Whole Year,Yam,24,
 Tamil Nadu,THANJAVUR,2004,Kharif,Arhar/Tur,50,33
 Tamil Nadu,THANJAVUR,2004,Kharif,Bajra,6,14
 Tamil Nadu,THANJAVUR,2004,Kharif,Castor seed,4,2
@@ -8445,44 +8445,44 @@ Tamil Nadu,THE NILGIRIS,2002,Kharif,Ragi,31,35
 Tamil Nadu,THE NILGIRIS,2002,Kharif,Rice,1848,6229
 Tamil Nadu,THE NILGIRIS,2002,Kharif,Samai,18,13
 Tamil Nadu,THE NILGIRIS,2002,Kharif,Sesamum,2,1
-Tamil Nadu,THE NILGIRIS,2002,Whole Year,Apple,1,0
+Tamil Nadu,THE NILGIRIS,2002,Whole Year,Apple,1,
 Tamil Nadu,THE NILGIRIS,2002,Whole Year,Arecanut,174,
 Tamil Nadu,THE NILGIRIS,2002,Whole Year,Banana,519,7447
-Tamil Nadu,THE NILGIRIS,2002,Whole Year,Beans & Mutter(Vegetable),498,0
-Tamil Nadu,THE NILGIRIS,2002,Whole Year,Beet Root,185,0
-Tamil Nadu,THE NILGIRIS,2002,Whole Year,Bitter Gourd,36,0
+Tamil Nadu,THE NILGIRIS,2002,Whole Year,Beans & Mutter(Vegetable),498,
+Tamil Nadu,THE NILGIRIS,2002,Whole Year,Beet Root,185,
+Tamil Nadu,THE NILGIRIS,2002,Whole Year,Bitter Gourd,36,
 Tamil Nadu,THE NILGIRIS,2002,Whole Year,Brinjal,1,8
 Tamil Nadu,THE NILGIRIS,2002,Whole Year,Cabbage,905,59879
-Tamil Nadu,THE NILGIRIS,2002,Whole Year,Carrot,1541,0
-Tamil Nadu,THE NILGIRIS,2002,Whole Year,Cauliflower,12,0
+Tamil Nadu,THE NILGIRIS,2002,Whole Year,Carrot,1541,
+Tamil Nadu,THE NILGIRIS,2002,Whole Year,Cauliflower,12,
 Tamil Nadu,THE NILGIRIS,2002,Whole Year,Citrus Fruit,8,9
-Tamil Nadu,THE NILGIRIS,2002,Whole Year,Cucumber,3,0
+Tamil Nadu,THE NILGIRIS,2002,Whole Year,Cucumber,3,
 Tamil Nadu,THE NILGIRIS,2002,Whole Year,Dry chillies,75,44
 Tamil Nadu,THE NILGIRIS,2002,Whole Year,Dry ginger,372,5960
 Tamil Nadu,THE NILGIRIS,2002,Whole Year,Garlic,81,448
 Tamil Nadu,THE NILGIRIS,2002,Whole Year,Jack Fruit,80,906
-Tamil Nadu,THE NILGIRIS,2002,Whole Year,Lab-Lab,1,0
+Tamil Nadu,THE NILGIRIS,2002,Whole Year,Lab-Lab,1,
 Tamil Nadu,THE NILGIRIS,2002,Whole Year,Mango,28,169
 Tamil Nadu,THE NILGIRIS,2002,Whole Year,Orange,75,116
-Tamil Nadu,THE NILGIRIS,2002,Whole Year,Other Fresh Fruits,4,0
-Tamil Nadu,THE NILGIRIS,2002,Whole Year,Other Vegetables,104,0
-Tamil Nadu,THE NILGIRIS,2002,Whole Year,Papaya,1,0
-Tamil Nadu,THE NILGIRIS,2002,Whole Year,Peach,2,0
-Tamil Nadu,THE NILGIRIS,2002,Whole Year,Pear,20,0
+Tamil Nadu,THE NILGIRIS,2002,Whole Year,Other Fresh Fruits,4,
+Tamil Nadu,THE NILGIRIS,2002,Whole Year,Other Vegetables,104,
+Tamil Nadu,THE NILGIRIS,2002,Whole Year,Papaya,1,
+Tamil Nadu,THE NILGIRIS,2002,Whole Year,Peach,2,
+Tamil Nadu,THE NILGIRIS,2002,Whole Year,Pear,20,
 Tamil Nadu,THE NILGIRIS,2002,Whole Year,Pineapple,2,62
-Tamil Nadu,THE NILGIRIS,2002,Whole Year,Plums,4,0
+Tamil Nadu,THE NILGIRIS,2002,Whole Year,Plums,4,
 Tamil Nadu,THE NILGIRIS,2002,Whole Year,Pome Fruit,31,162
 Tamil Nadu,THE NILGIRIS,2002,Whole Year,Potato,1457,28325
-Tamil Nadu,THE NILGIRIS,2002,Whole Year,Pump Kin,4,0
-Tamil Nadu,THE NILGIRIS,2002,Whole Year,Redish,116,0
-Tamil Nadu,THE NILGIRIS,2002,Whole Year,Snak Guard,4,0
+Tamil Nadu,THE NILGIRIS,2002,Whole Year,Pump Kin,4,
+Tamil Nadu,THE NILGIRIS,2002,Whole Year,Redish,116,
+Tamil Nadu,THE NILGIRIS,2002,Whole Year,Snak Guard,4,
 Tamil Nadu,THE NILGIRIS,2002,Whole Year,Sugarcane,14,1290
 Tamil Nadu,THE NILGIRIS,2002,Whole Year,Sweet potato,3,41
 Tamil Nadu,THE NILGIRIS,2002,Whole Year,Tapioca,102,3222
 Tamil Nadu,THE NILGIRIS,2002,Whole Year,Tomato,5,62
 Tamil Nadu,THE NILGIRIS,2002,Whole Year,Turmeric,7,26
-Tamil Nadu,THE NILGIRIS,2002,Whole Year,Turnip,61,0
-Tamil Nadu,THE NILGIRIS,2002,Whole Year,Yam,20,0
+Tamil Nadu,THE NILGIRIS,2002,Whole Year,Turnip,61,
+Tamil Nadu,THE NILGIRIS,2002,Whole Year,Yam,20,
 Tamil Nadu,THE NILGIRIS,2003,Kharif,Bajra,2,2
 Tamil Nadu,THE NILGIRIS,2003,Kharif,Dry ginger,364,5160
 Tamil Nadu,THE NILGIRIS,2003,Kharif,Groundnut,3,4
@@ -8493,40 +8493,40 @@ Tamil Nadu,THE NILGIRIS,2003,Kharif,Ragi,1,1
 Tamil Nadu,THE NILGIRIS,2003,Kharif,Rice,1635,5414
 Tamil Nadu,THE NILGIRIS,2003,Kharif,Sesamum,7,2
 Tamil Nadu,THE NILGIRIS,2003,Kharif,Small millets,12,260
-Tamil Nadu,THE NILGIRIS,2003,Whole Year,Apple,1,0
+Tamil Nadu,THE NILGIRIS,2003,Whole Year,Apple,1,
 Tamil Nadu,THE NILGIRIS,2003,Whole Year,Arecanut,198,
 Tamil Nadu,THE NILGIRIS,2003,Whole Year,Banana,314,11108
-Tamil Nadu,THE NILGIRIS,2003,Whole Year,Beans & Mutter(Vegetable),424,0
-Tamil Nadu,THE NILGIRIS,2003,Whole Year,Beet Root,53,0
-Tamil Nadu,THE NILGIRIS,2003,Whole Year,Bitter Gourd,14,0
+Tamil Nadu,THE NILGIRIS,2003,Whole Year,Beans & Mutter(Vegetable),424,
+Tamil Nadu,THE NILGIRIS,2003,Whole Year,Beet Root,53,
+Tamil Nadu,THE NILGIRIS,2003,Whole Year,Bitter Gourd,14,
 Tamil Nadu,THE NILGIRIS,2003,Whole Year,Black pepper,2434,470
 Tamil Nadu,THE NILGIRIS,2003,Whole Year,Cabbage,810,54442
 Tamil Nadu,THE NILGIRIS,2003,Whole Year,Cardamom,1014,94
-Tamil Nadu,THE NILGIRIS,2003,Whole Year,Carrot,1240,0
-Tamil Nadu,THE NILGIRIS,2003,Whole Year,Cauliflower,52,0
+Tamil Nadu,THE NILGIRIS,2003,Whole Year,Carrot,1240,
+Tamil Nadu,THE NILGIRIS,2003,Whole Year,Cauliflower,52,
 Tamil Nadu,THE NILGIRIS,2003,Whole Year,Citrus Fruit,12,13
-Tamil Nadu,THE NILGIRIS,2003,Whole Year,Coconut,52,0
+Tamil Nadu,THE NILGIRIS,2003,Whole Year,Coconut,52,
 Tamil Nadu,THE NILGIRIS,2003,Whole Year,Coriander,10,3
-Tamil Nadu,THE NILGIRIS,2003,Whole Year,Drum Stick,4,0
+Tamil Nadu,THE NILGIRIS,2003,Whole Year,Drum Stick,4,
 Tamil Nadu,THE NILGIRIS,2003,Whole Year,Dry chillies,11,6
 Tamil Nadu,THE NILGIRIS,2003,Whole Year,Garlic,140,775
 Tamil Nadu,THE NILGIRIS,2003,Whole Year,Jack Fruit,81,783
-Tamil Nadu,THE NILGIRIS,2003,Whole Year,Lab-Lab,1,0
+Tamil Nadu,THE NILGIRIS,2003,Whole Year,Lab-Lab,1,
 Tamil Nadu,THE NILGIRIS,2003,Whole Year,Mango,18,75
 Tamil Nadu,THE NILGIRIS,2003,Whole Year,Orange,72,142
-Tamil Nadu,THE NILGIRIS,2003,Whole Year,Other Fresh Fruits,10,0
-Tamil Nadu,THE NILGIRIS,2003,Whole Year,Other Vegetables,182,0
-Tamil Nadu,THE NILGIRIS,2003,Whole Year,Papaya,1,0
-Tamil Nadu,THE NILGIRIS,2003,Whole Year,Peach,2,0
-Tamil Nadu,THE NILGIRIS,2003,Whole Year,Pear,19,0
-Tamil Nadu,THE NILGIRIS,2003,Whole Year,Plums,4,0
+Tamil Nadu,THE NILGIRIS,2003,Whole Year,Other Fresh Fruits,10,
+Tamil Nadu,THE NILGIRIS,2003,Whole Year,Other Vegetables,182,
+Tamil Nadu,THE NILGIRIS,2003,Whole Year,Papaya,1,
+Tamil Nadu,THE NILGIRIS,2003,Whole Year,Peach,2,
+Tamil Nadu,THE NILGIRIS,2003,Whole Year,Pear,19,
+Tamil Nadu,THE NILGIRIS,2003,Whole Year,Plums,4,
 Tamil Nadu,THE NILGIRIS,2003,Whole Year,Pome Fruit,31,218
 Tamil Nadu,THE NILGIRIS,2003,Whole Year,Potato,1720,33055
-Tamil Nadu,THE NILGIRIS,2003,Whole Year,Redish,81,0
+Tamil Nadu,THE NILGIRIS,2003,Whole Year,Redish,81,
 Tamil Nadu,THE NILGIRIS,2003,Whole Year,Sweet potato,10,145
 Tamil Nadu,THE NILGIRIS,2003,Whole Year,Tapioca,70,2358
 Tamil Nadu,THE NILGIRIS,2003,Whole Year,Turmeric,1,4
-Tamil Nadu,THE NILGIRIS,2003,Whole Year,Yam,13,0
+Tamil Nadu,THE NILGIRIS,2003,Whole Year,Yam,13,
 Tamil Nadu,THE NILGIRIS,2004,Kharif,Dry ginger,562,10844
 Tamil Nadu,THE NILGIRIS,2004,Kharif,Other Kharif pulses,1,
 Tamil Nadu,THE NILGIRIS,2004,Kharif,Rice,1443,4763
@@ -8815,46 +8815,46 @@ Tamil Nadu,THENI,2002,Kharif,Sunflower,152,131
 Tamil Nadu,THENI,2002,Kharif,Urad,250,100
 Tamil Nadu,THENI,2002,Kharif,Varagu,1,1
 Tamil Nadu,THENI,2002,Whole Year,Arecanut,20,
-Tamil Nadu,THENI,2002,Whole Year,Ash Gourd,17,0
+Tamil Nadu,THENI,2002,Whole Year,Ash Gourd,17,
 Tamil Nadu,THENI,2002,Whole Year,Banana,3702,136800
-Tamil Nadu,THENI,2002,Whole Year,Beans & Mutter(Vegetable),300,0
-Tamil Nadu,THENI,2002,Whole Year,Beet Root,251,0
+Tamil Nadu,THENI,2002,Whole Year,Beans & Mutter(Vegetable),300,
+Tamil Nadu,THENI,2002,Whole Year,Beet Root,251,
 Tamil Nadu,THENI,2002,Whole Year,Bhindi,132,983
-Tamil Nadu,THENI,2002,Whole Year,Bitter Gourd,16,0
-Tamil Nadu,THENI,2002,Whole Year,Bottle Gourd,1,0
+Tamil Nadu,THENI,2002,Whole Year,Bitter Gourd,16,
+Tamil Nadu,THENI,2002,Whole Year,Bottle Gourd,1,
 Tamil Nadu,THENI,2002,Whole Year,Brinjal,412,2349
 Tamil Nadu,THENI,2002,Whole Year,Cabbage,79,4637
 Tamil Nadu,THENI,2002,Whole Year,Cashewnut,4045,1223
-Tamil Nadu,THENI,2002,Whole Year,Cauliflower,24,0
+Tamil Nadu,THENI,2002,Whole Year,Cauliflower,24,
 Tamil Nadu,THENI,2002,Whole Year,Citrus Fruit,223,247
 Tamil Nadu,THENI,2002,Whole Year,Coconut,14284,141100
 Tamil Nadu,THENI,2002,Whole Year,Coriander,7,1
-Tamil Nadu,THENI,2002,Whole Year,Cucumber,24,0
-Tamil Nadu,THENI,2002,Whole Year,Drum Stick,633,0
+Tamil Nadu,THENI,2002,Whole Year,Cucumber,24,
+Tamil Nadu,THENI,2002,Whole Year,Drum Stick,633,
 Tamil Nadu,THENI,2002,Whole Year,Dry chillies,173,103
 Tamil Nadu,THENI,2002,Whole Year,Grapes,1585,21435
 Tamil Nadu,THENI,2002,Whole Year,Jack Fruit,62,702
-Tamil Nadu,THENI,2002,Whole Year,Lab-Lab,27,0
+Tamil Nadu,THENI,2002,Whole Year,Lab-Lab,27,
 Tamil Nadu,THENI,2002,Whole Year,Mango,8160,102754
 Tamil Nadu,THENI,2002,Whole Year,Onion,250,2115
 Tamil Nadu,THENI,2002,Whole Year,Orange,50,77
-Tamil Nadu,THENI,2002,Whole Year,Other Citrus Fruit,110,0
-Tamil Nadu,THENI,2002,Whole Year,Other Fresh Fruits,289,0
-Tamil Nadu,THENI,2002,Whole Year,Other Vegetables,55,0
-Tamil Nadu,THENI,2002,Whole Year,Papaya,14,0
+Tamil Nadu,THENI,2002,Whole Year,Other Citrus Fruit,110,
+Tamil Nadu,THENI,2002,Whole Year,Other Fresh Fruits,289,
+Tamil Nadu,THENI,2002,Whole Year,Other Vegetables,55,
+Tamil Nadu,THENI,2002,Whole Year,Papaya,14,
 Tamil Nadu,THENI,2002,Whole Year,Pome Fruit,319,1669
-Tamil Nadu,THENI,2002,Whole Year,Pome Granet,12,0
-Tamil Nadu,THENI,2002,Whole Year,Pump Kin,28,0
-Tamil Nadu,THENI,2002,Whole Year,Ribed Guard,6,0
-Tamil Nadu,THENI,2002,Whole Year,Snak Guard,11,0
+Tamil Nadu,THENI,2002,Whole Year,Pome Granet,12,
+Tamil Nadu,THENI,2002,Whole Year,Pump Kin,28,
+Tamil Nadu,THENI,2002,Whole Year,Ribed Guard,6,
+Tamil Nadu,THENI,2002,Whole Year,Snak Guard,11,
 Tamil Nadu,THENI,2002,Whole Year,Sugarcane,10590,878040
 Tamil Nadu,THENI,2002,Whole Year,Sweet potato,2,27
 Tamil Nadu,THENI,2002,Whole Year,Tapioca,28,885
 Tamil Nadu,THENI,2002,Whole Year,Tobacco,68,150
 Tamil Nadu,THENI,2002,Whole Year,Tomato,2744,39314
 Tamil Nadu,THENI,2002,Whole Year,Turmeric,8,30
-Tamil Nadu,THENI,2002,Whole Year,Water Melon,5,0
-Tamil Nadu,THENI,2002,Whole Year,Yam,3,0
+Tamil Nadu,THENI,2002,Whole Year,Water Melon,5,
+Tamil Nadu,THENI,2002,Whole Year,Yam,3,
 Tamil Nadu,THENI,2003,Kharif,Arhar/Tur,2146,3006
 Tamil Nadu,THENI,2003,Kharif,Bajra,6846,3028
 Tamil Nadu,THENI,2003,Kharif,Castor seed,70,13
@@ -8874,47 +8874,47 @@ Tamil Nadu,THENI,2003,Kharif,Sunflower,135,175
 Tamil Nadu,THENI,2003,Kharif,Urad,274,112
 Tamil Nadu,THENI,2003,Rabi,Gram,1,1
 Tamil Nadu,THENI,2003,Whole Year,Arecanut,29,
-Tamil Nadu,THENI,2003,Whole Year,Ash Gourd,1,0
+Tamil Nadu,THENI,2003,Whole Year,Ash Gourd,1,
 Tamil Nadu,THENI,2003,Whole Year,Banana,2592,91692
-Tamil Nadu,THENI,2003,Whole Year,Beans & Mutter(Vegetable),355,0
-Tamil Nadu,THENI,2003,Whole Year,Beet Root,203,0
+Tamil Nadu,THENI,2003,Whole Year,Beans & Mutter(Vegetable),355,
+Tamil Nadu,THENI,2003,Whole Year,Beet Root,203,
 Tamil Nadu,THENI,2003,Whole Year,Bhindi,127,890
-Tamil Nadu,THENI,2003,Whole Year,Bitter Gourd,14,0
+Tamil Nadu,THENI,2003,Whole Year,Bitter Gourd,14,
 Tamil Nadu,THENI,2003,Whole Year,Black pepper,63,16
-Tamil Nadu,THENI,2003,Whole Year,Bottle Gourd,2,0
+Tamil Nadu,THENI,2003,Whole Year,Bottle Gourd,2,
 Tamil Nadu,THENI,2003,Whole Year,Brinjal,453,7879
 Tamil Nadu,THENI,2003,Whole Year,Cabbage,112,7119
 Tamil Nadu,THENI,2003,Whole Year,Cardamom,1418,136
 Tamil Nadu,THENI,2003,Whole Year,Cashewnut,4385,1514
-Tamil Nadu,THENI,2003,Whole Year,Cauliflower,52,0
+Tamil Nadu,THENI,2003,Whole Year,Cauliflower,52,
 Tamil Nadu,THENI,2003,Whole Year,Citrus Fruit,216,226
 Tamil Nadu,THENI,2003,Whole Year,Coconut,14466,181400
 Tamil Nadu,THENI,2003,Whole Year,Coriander,10,3
-Tamil Nadu,THENI,2003,Whole Year,Cucumber,38,0
-Tamil Nadu,THENI,2003,Whole Year,Drum Stick,737,0
+Tamil Nadu,THENI,2003,Whole Year,Cucumber,38,
+Tamil Nadu,THENI,2003,Whole Year,Drum Stick,737,
 Tamil Nadu,THENI,2003,Whole Year,Dry chillies,127,68
 Tamil Nadu,THENI,2003,Whole Year,Grapes,1708,49199
 Tamil Nadu,THENI,2003,Whole Year,Jack Fruit,50,483
-Tamil Nadu,THENI,2003,Whole Year,Lab-Lab,19,0
+Tamil Nadu,THENI,2003,Whole Year,Lab-Lab,19,
 Tamil Nadu,THENI,2003,Whole Year,Mango,8266,43877
 Tamil Nadu,THENI,2003,Whole Year,Onion,360,3242
 Tamil Nadu,THENI,2003,Whole Year,Orange,43,84
-Tamil Nadu,THENI,2003,Whole Year,Other Citrus Fruit,119,0
-Tamil Nadu,THENI,2003,Whole Year,Other Fresh Fruits,359,0
-Tamil Nadu,THENI,2003,Whole Year,Other Vegetables,45,0
-Tamil Nadu,THENI,2003,Whole Year,Papaya,8,0
-Tamil Nadu,THENI,2003,Whole Year,Plums,1,0
+Tamil Nadu,THENI,2003,Whole Year,Other Citrus Fruit,119,
+Tamil Nadu,THENI,2003,Whole Year,Other Fresh Fruits,359,
+Tamil Nadu,THENI,2003,Whole Year,Other Vegetables,45,
+Tamil Nadu,THENI,2003,Whole Year,Papaya,8,
+Tamil Nadu,THENI,2003,Whole Year,Plums,1,
 Tamil Nadu,THENI,2003,Whole Year,Pome Fruit,267,1875
-Tamil Nadu,THENI,2003,Whole Year,Pome Granet,13,0
-Tamil Nadu,THENI,2003,Whole Year,Pump Kin,5,0
-Tamil Nadu,THENI,2003,Whole Year,Redish,1,0
-Tamil Nadu,THENI,2003,Whole Year,Ribed Guard,1,0
-Tamil Nadu,THENI,2003,Whole Year,Snak Guard,10,0
+Tamil Nadu,THENI,2003,Whole Year,Pome Granet,13,
+Tamil Nadu,THENI,2003,Whole Year,Pump Kin,5,
+Tamil Nadu,THENI,2003,Whole Year,Redish,1,
+Tamil Nadu,THENI,2003,Whole Year,Ribed Guard,1,
+Tamil Nadu,THENI,2003,Whole Year,Snak Guard,10,
 Tamil Nadu,THENI,2003,Whole Year,Sugarcane,6988,692993
 Tamil Nadu,THENI,2003,Whole Year,Tapioca,8,270
 Tamil Nadu,THENI,2003,Whole Year,Tomato,2366,25289
 Tamil Nadu,THENI,2003,Whole Year,Turmeric,6,25
-Tamil Nadu,THENI,2003,Whole Year,Water Melon,25,0
+Tamil Nadu,THENI,2003,Whole Year,Water Melon,25,
 Tamil Nadu,THENI,2004,Kharif,Arhar/Tur,2975,3256
 Tamil Nadu,THENI,2004,Kharif,Bajra,5338,8010
 Tamil Nadu,THENI,2004,Kharif,Castor seed,77,14
@@ -9294,39 +9294,39 @@ Tamil Nadu,THIRUVALLUR,2002,Kharif,Samai,3,2
 Tamil Nadu,THIRUVALLUR,2002,Kharif,Sesamum,2140,1061
 Tamil Nadu,THIRUVALLUR,2002,Kharif,Sunflower,5,6
 Tamil Nadu,THIRUVALLUR,2002,Kharif,Urad,2653,1059
-Tamil Nadu,THIRUVALLUR,2002,Whole Year,Ash Gourd,10,0
+Tamil Nadu,THIRUVALLUR,2002,Whole Year,Ash Gourd,10,
 Tamil Nadu,THIRUVALLUR,2002,Whole Year,Banana,917,33886
 Tamil Nadu,THIRUVALLUR,2002,Whole Year,Bhindi,188,1401
-Tamil Nadu,THIRUVALLUR,2002,Whole Year,Bitter Gourd,19,0
-Tamil Nadu,THIRUVALLUR,2002,Whole Year,Bottle Gourd,4,0
+Tamil Nadu,THIRUVALLUR,2002,Whole Year,Bitter Gourd,19,
+Tamil Nadu,THIRUVALLUR,2002,Whole Year,Bottle Gourd,4,
 Tamil Nadu,THIRUVALLUR,2002,Whole Year,Brinjal,122,930
 Tamil Nadu,THIRUVALLUR,2002,Whole Year,Cashewnut,222,67
 Tamil Nadu,THIRUVALLUR,2002,Whole Year,Citrus Fruit,17,19
 Tamil Nadu,THIRUVALLUR,2002,Whole Year,Coconut,1091,8200
 Tamil Nadu,THIRUVALLUR,2002,Whole Year,Coriander,5,1
-Tamil Nadu,THIRUVALLUR,2002,Whole Year,Cucumber,4,0
-Tamil Nadu,THIRUVALLUR,2002,Whole Year,Drum Stick,28,0
+Tamil Nadu,THIRUVALLUR,2002,Whole Year,Cucumber,4,
+Tamil Nadu,THIRUVALLUR,2002,Whole Year,Drum Stick,28,
 Tamil Nadu,THIRUVALLUR,2002,Whole Year,Dry chillies,628,452
 Tamil Nadu,THIRUVALLUR,2002,Whole Year,Jack Fruit,3,34
 Tamil Nadu,THIRUVALLUR,2002,Whole Year,Mango,7506,71255
 Tamil Nadu,THIRUVALLUR,2002,Whole Year,Onion,2,17
-Tamil Nadu,THIRUVALLUR,2002,Whole Year,Other Citrus Fruit,7,0
-Tamil Nadu,THIRUVALLUR,2002,Whole Year,Other Fresh Fruits,136,0
-Tamil Nadu,THIRUVALLUR,2002,Whole Year,Other Vegetables,130,0
+Tamil Nadu,THIRUVALLUR,2002,Whole Year,Other Citrus Fruit,7,
+Tamil Nadu,THIRUVALLUR,2002,Whole Year,Other Fresh Fruits,136,
+Tamil Nadu,THIRUVALLUR,2002,Whole Year,Other Vegetables,130,
 Tamil Nadu,THIRUVALLUR,2002,Whole Year,Pome Fruit,267,1397
-Tamil Nadu,THIRUVALLUR,2002,Whole Year,Pome Granet,5,0
-Tamil Nadu,THIRUVALLUR,2002,Whole Year,Pump Kin,7,0
-Tamil Nadu,THIRUVALLUR,2002,Whole Year,Redish,8,0
-Tamil Nadu,THIRUVALLUR,2002,Whole Year,Ribed Guard,22,0
-Tamil Nadu,THIRUVALLUR,2002,Whole Year,Snak Guard,5,0
+Tamil Nadu,THIRUVALLUR,2002,Whole Year,Pome Granet,5,
+Tamil Nadu,THIRUVALLUR,2002,Whole Year,Pump Kin,7,
+Tamil Nadu,THIRUVALLUR,2002,Whole Year,Redish,8,
+Tamil Nadu,THIRUVALLUR,2002,Whole Year,Ribed Guard,22,
+Tamil Nadu,THIRUVALLUR,2002,Whole Year,Snak Guard,5,
 Tamil Nadu,THIRUVALLUR,2002,Whole Year,Sugarcane,5993,665600
 Tamil Nadu,THIRUVALLUR,2002,Whole Year,Sweet potato,9,123
 Tamil Nadu,THIRUVALLUR,2002,Whole Year,Tapioca,128,4043
 Tamil Nadu,THIRUVALLUR,2002,Whole Year,Tobacco,18,25
 Tamil Nadu,THIRUVALLUR,2002,Whole Year,Tomato,9,111
 Tamil Nadu,THIRUVALLUR,2002,Whole Year,Turmeric,19,71
-Tamil Nadu,THIRUVALLUR,2002,Whole Year,Water Melon,222,0
-Tamil Nadu,THIRUVALLUR,2002,Whole Year,Yam,25,0
+Tamil Nadu,THIRUVALLUR,2002,Whole Year,Water Melon,222,
+Tamil Nadu,THIRUVALLUR,2002,Whole Year,Yam,25,
 Tamil Nadu,THIRUVALLUR,2003,Kharif,Arhar/Tur,1263,773
 Tamil Nadu,THIRUVALLUR,2003,Kharif,Bajra,1607,1801
 Tamil Nadu,THIRUVALLUR,2003,Kharif,Castor seed,2,1
@@ -9345,35 +9345,35 @@ Tamil Nadu,THIRUVALLUR,2003,Kharif,Sunflower,15,19
 Tamil Nadu,THIRUVALLUR,2003,Kharif,Urad,1981,810
 Tamil Nadu,THIRUVALLUR,2003,Whole Year,Banana,629,22251
 Tamil Nadu,THIRUVALLUR,2003,Whole Year,Bhindi,191,1337
-Tamil Nadu,THIRUVALLUR,2003,Whole Year,Bitter Gourd,12,0
-Tamil Nadu,THIRUVALLUR,2003,Whole Year,Bottle Gourd,8,0
+Tamil Nadu,THIRUVALLUR,2003,Whole Year,Bitter Gourd,12,
+Tamil Nadu,THIRUVALLUR,2003,Whole Year,Bottle Gourd,8,
 Tamil Nadu,THIRUVALLUR,2003,Whole Year,Brinjal,276,3086
 Tamil Nadu,THIRUVALLUR,2003,Whole Year,Cashewnut,195,67
 Tamil Nadu,THIRUVALLUR,2003,Whole Year,Citrus Fruit,21,22
 Tamil Nadu,THIRUVALLUR,2003,Whole Year,Coconut,1093,6800
 Tamil Nadu,THIRUVALLUR,2003,Whole Year,Coriander,65,19
-Tamil Nadu,THIRUVALLUR,2003,Whole Year,Cucumber,9,0
-Tamil Nadu,THIRUVALLUR,2003,Whole Year,Drum Stick,18,0
+Tamil Nadu,THIRUVALLUR,2003,Whole Year,Cucumber,9,
+Tamil Nadu,THIRUVALLUR,2003,Whole Year,Drum Stick,18,
 Tamil Nadu,THIRUVALLUR,2003,Whole Year,Dry chillies,706,639
 Tamil Nadu,THIRUVALLUR,2003,Whole Year,Jack Fruit,10,97
 Tamil Nadu,THIRUVALLUR,2003,Whole Year,Mango,7319,33114
-Tamil Nadu,THIRUVALLUR,2003,Whole Year,Other Citrus Fruit,23,0
-Tamil Nadu,THIRUVALLUR,2003,Whole Year,Other Fresh Fruits,71,0
-Tamil Nadu,THIRUVALLUR,2003,Whole Year,Other Vegetables,189,0
-Tamil Nadu,THIRUVALLUR,2003,Whole Year,Papaya,10,0
+Tamil Nadu,THIRUVALLUR,2003,Whole Year,Other Citrus Fruit,23,
+Tamil Nadu,THIRUVALLUR,2003,Whole Year,Other Fresh Fruits,71,
+Tamil Nadu,THIRUVALLUR,2003,Whole Year,Other Vegetables,189,
+Tamil Nadu,THIRUVALLUR,2003,Whole Year,Papaya,10,
 Tamil Nadu,THIRUVALLUR,2003,Whole Year,Pome Fruit,242,1699
-Tamil Nadu,THIRUVALLUR,2003,Whole Year,Pome Granet,4,0
+Tamil Nadu,THIRUVALLUR,2003,Whole Year,Pome Granet,4,
 Tamil Nadu,THIRUVALLUR,2003,Whole Year,Potato,3,63
-Tamil Nadu,THIRUVALLUR,2003,Whole Year,Pump Kin,51,0
-Tamil Nadu,THIRUVALLUR,2003,Whole Year,Redish,11,0
-Tamil Nadu,THIRUVALLUR,2003,Whole Year,Snak Guard,10,0
+Tamil Nadu,THIRUVALLUR,2003,Whole Year,Pump Kin,51,
+Tamil Nadu,THIRUVALLUR,2003,Whole Year,Redish,11,
+Tamil Nadu,THIRUVALLUR,2003,Whole Year,Snak Guard,10,
 Tamil Nadu,THIRUVALLUR,2003,Whole Year,Sugarcane,4530,458083
 Tamil Nadu,THIRUVALLUR,2003,Whole Year,Sweet potato,35,507
 Tamil Nadu,THIRUVALLUR,2003,Whole Year,Tapioca,28,943
 Tamil Nadu,THIRUVALLUR,2003,Whole Year,Tomato,8,81
 Tamil Nadu,THIRUVALLUR,2003,Whole Year,Turmeric,15,62
-Tamil Nadu,THIRUVALLUR,2003,Whole Year,Water Melon,490,0
-Tamil Nadu,THIRUVALLUR,2003,Whole Year,Yam,1,0
+Tamil Nadu,THIRUVALLUR,2003,Whole Year,Water Melon,490,
+Tamil Nadu,THIRUVALLUR,2003,Whole Year,Yam,1,
 Tamil Nadu,THIRUVALLUR,2004,Kharif,Arhar/Tur,1427,952
 Tamil Nadu,THIRUVALLUR,2004,Kharif,Bajra,1950,3678
 Tamil Nadu,THIRUVALLUR,2004,Kharif,Castor seed,36,11
@@ -9539,7 +9539,7 @@ Tamil Nadu,THIRUVALLUR,2011,Whole Year,Tapioca,85,3201
 Tamil Nadu,THIRUVALLUR,2011,Whole Year,Turmeric,22,121
 Tamil Nadu,THIRUVALLUR,2011,Whole Year,Urad,1047,649
 Tamil Nadu,THIRUVALLUR,2012,Kharif,Arhar/Tur,487,199
-Tamil Nadu,THIRUVALLUR,2012,Kharif,Castor seed,27,0.31
+Tamil Nadu,THIRUVALLUR,2012,Kharif,Castor seed,27,.31
 Tamil Nadu,THIRUVALLUR,2012,Kharif,Groundnut,10232,46900
 Tamil Nadu,THIRUVALLUR,2012,Kharif,Horse-gram,36,14
 Tamil Nadu,THIRUVALLUR,2012,Kharif,Maize,4,14
@@ -9655,35 +9655,35 @@ Tamil Nadu,THIRUVARUR,2002,Kharif,Sesamum,1924,963
 Tamil Nadu,THIRUVARUR,2002,Kharif,Urad,19549,6604
 Tamil Nadu,THIRUVARUR,2002,Whole Year,Arecanut,5,
 Tamil Nadu,THIRUVARUR,2002,Whole Year,Banana,300,11086
-Tamil Nadu,THIRUVARUR,2002,Whole Year,Ber,1,0
+Tamil Nadu,THIRUVARUR,2002,Whole Year,Ber,1,
 Tamil Nadu,THIRUVARUR,2002,Whole Year,Bhindi,10,75
-Tamil Nadu,THIRUVARUR,2002,Whole Year,Bitter Gourd,5,0
-Tamil Nadu,THIRUVARUR,2002,Whole Year,Bottle Gourd,4,0
+Tamil Nadu,THIRUVARUR,2002,Whole Year,Bitter Gourd,5,
+Tamil Nadu,THIRUVARUR,2002,Whole Year,Bottle Gourd,4,
 Tamil Nadu,THIRUVARUR,2002,Whole Year,Brinjal,12,91
 Tamil Nadu,THIRUVARUR,2002,Whole Year,Cashewnut,21,6
 Tamil Nadu,THIRUVARUR,2002,Whole Year,Citrus Fruit,29,32
 Tamil Nadu,THIRUVARUR,2002,Whole Year,Coconut,4742,72400
-Tamil Nadu,THIRUVARUR,2002,Whole Year,Cucumber,8,0
-Tamil Nadu,THIRUVARUR,2002,Whole Year,Drum Stick,7,0
+Tamil Nadu,THIRUVARUR,2002,Whole Year,Cucumber,8,
+Tamil Nadu,THIRUVARUR,2002,Whole Year,Drum Stick,7,
 Tamil Nadu,THIRUVARUR,2002,Whole Year,Dry chillies,12,7
 Tamil Nadu,THIRUVARUR,2002,Whole Year,Jack Fruit,18,204
-Tamil Nadu,THIRUVARUR,2002,Whole Year,Lab-Lab,4,0
+Tamil Nadu,THIRUVARUR,2002,Whole Year,Lab-Lab,4,
 Tamil Nadu,THIRUVARUR,2002,Whole Year,Mango,221,1324
-Tamil Nadu,THIRUVARUR,2002,Whole Year,Other Citrus Fruit,17,0
-Tamil Nadu,THIRUVARUR,2002,Whole Year,Other Vegetables,40,0
-Tamil Nadu,THIRUVARUR,2002,Whole Year,Papaya,1,0
+Tamil Nadu,THIRUVARUR,2002,Whole Year,Other Citrus Fruit,17,
+Tamil Nadu,THIRUVARUR,2002,Whole Year,Other Vegetables,40,
+Tamil Nadu,THIRUVARUR,2002,Whole Year,Papaya,1,
 Tamil Nadu,THIRUVARUR,2002,Whole Year,Pome Fruit,8,42
-Tamil Nadu,THIRUVARUR,2002,Whole Year,Pome Granet,1,0
-Tamil Nadu,THIRUVARUR,2002,Whole Year,Pump Kin,3,0
-Tamil Nadu,THIRUVARUR,2002,Whole Year,Redish,1,0
-Tamil Nadu,THIRUVARUR,2002,Whole Year,Ribed Guard,2,0
-Tamil Nadu,THIRUVARUR,2002,Whole Year,Snak Guard,5,0
+Tamil Nadu,THIRUVARUR,2002,Whole Year,Pome Granet,1,
+Tamil Nadu,THIRUVARUR,2002,Whole Year,Pump Kin,3,
+Tamil Nadu,THIRUVARUR,2002,Whole Year,Redish,1,
+Tamil Nadu,THIRUVARUR,2002,Whole Year,Ribed Guard,2,
+Tamil Nadu,THIRUVARUR,2002,Whole Year,Snak Guard,5,
 Tamil Nadu,THIRUVARUR,2002,Whole Year,Sugarcane,1632,149880
 Tamil Nadu,THIRUVARUR,2002,Whole Year,Sweet potato,2,27
 Tamil Nadu,THIRUVARUR,2002,Whole Year,Tapioca,24,758
 Tamil Nadu,THIRUVARUR,2002,Whole Year,Tomato,1,12
 Tamil Nadu,THIRUVARUR,2002,Whole Year,Turmeric,6,22
-Tamil Nadu,THIRUVARUR,2002,Whole Year,Yam,3,0
+Tamil Nadu,THIRUVARUR,2002,Whole Year,Yam,3,
 Tamil Nadu,THIRUVARUR,2003,Kharif,Arhar/Tur,26,16
 Tamil Nadu,THIRUVARUR,2003,Kharif,Castor seed,2,1
 Tamil Nadu,THIRUVARUR,2003,Kharif,Cotton(lint),1785,5152
@@ -9698,33 +9698,33 @@ Tamil Nadu,THIRUVARUR,2003,Kharif,Small millets,3846,
 Tamil Nadu,THIRUVARUR,2003,Kharif,Sunflower,26,34
 Tamil Nadu,THIRUVARUR,2003,Kharif,Urad,15975,5205
 Tamil Nadu,THIRUVARUR,2003,Whole Year,Arecanut,5,
-Tamil Nadu,THIRUVARUR,2003,Whole Year,Ash Gourd,4,0
+Tamil Nadu,THIRUVARUR,2003,Whole Year,Ash Gourd,4,
 Tamil Nadu,THIRUVARUR,2003,Whole Year,Banana,328,11603
-Tamil Nadu,THIRUVARUR,2003,Whole Year,Ber,2,0
+Tamil Nadu,THIRUVARUR,2003,Whole Year,Ber,2,
 Tamil Nadu,THIRUVARUR,2003,Whole Year,Bhindi,29,203
-Tamil Nadu,THIRUVARUR,2003,Whole Year,Bitter Gourd,6,0
-Tamil Nadu,THIRUVARUR,2003,Whole Year,Bottle Gourd,5,0
+Tamil Nadu,THIRUVARUR,2003,Whole Year,Bitter Gourd,6,
+Tamil Nadu,THIRUVARUR,2003,Whole Year,Bottle Gourd,5,
 Tamil Nadu,THIRUVARUR,2003,Whole Year,Brinjal,69,771
 Tamil Nadu,THIRUVARUR,2003,Whole Year,Cashewnut,20,7
 Tamil Nadu,THIRUVARUR,2003,Whole Year,Citrus Fruit,29,30
 Tamil Nadu,THIRUVARUR,2003,Whole Year,Coconut,4918,80800
 Tamil Nadu,THIRUVARUR,2003,Whole Year,Coriander,3,1
-Tamil Nadu,THIRUVARUR,2003,Whole Year,Cucumber,12,0
-Tamil Nadu,THIRUVARUR,2003,Whole Year,Drum Stick,9,0
+Tamil Nadu,THIRUVARUR,2003,Whole Year,Cucumber,12,
+Tamil Nadu,THIRUVARUR,2003,Whole Year,Drum Stick,9,
 Tamil Nadu,THIRUVARUR,2003,Whole Year,Dry chillies,32,17
 Tamil Nadu,THIRUVARUR,2003,Whole Year,Jack Fruit,19,184
-Tamil Nadu,THIRUVARUR,2003,Whole Year,Lab-Lab,5,0
+Tamil Nadu,THIRUVARUR,2003,Whole Year,Lab-Lab,5,
 Tamil Nadu,THIRUVARUR,2003,Whole Year,Mango,222,922
 Tamil Nadu,THIRUVARUR,2003,Whole Year,Onion,1,9
-Tamil Nadu,THIRUVARUR,2003,Whole Year,Other Citrus Fruit,17,0
-Tamil Nadu,THIRUVARUR,2003,Whole Year,Other Vegetables,45,0
-Tamil Nadu,THIRUVARUR,2003,Whole Year,Papaya,2,0
+Tamil Nadu,THIRUVARUR,2003,Whole Year,Other Citrus Fruit,17,
+Tamil Nadu,THIRUVARUR,2003,Whole Year,Other Vegetables,45,
+Tamil Nadu,THIRUVARUR,2003,Whole Year,Papaya,2,
 Tamil Nadu,THIRUVARUR,2003,Whole Year,Pome Fruit,8,56
-Tamil Nadu,THIRUVARUR,2003,Whole Year,Pome Granet,1,0
-Tamil Nadu,THIRUVARUR,2003,Whole Year,Pump Kin,2,0
-Tamil Nadu,THIRUVARUR,2003,Whole Year,Redish,5,0
-Tamil Nadu,THIRUVARUR,2003,Whole Year,Ribed Guard,4,0
-Tamil Nadu,THIRUVARUR,2003,Whole Year,Snak Guard,6,0
+Tamil Nadu,THIRUVARUR,2003,Whole Year,Pome Granet,1,
+Tamil Nadu,THIRUVARUR,2003,Whole Year,Pump Kin,2,
+Tamil Nadu,THIRUVARUR,2003,Whole Year,Redish,5,
+Tamil Nadu,THIRUVARUR,2003,Whole Year,Ribed Guard,4,
+Tamil Nadu,THIRUVARUR,2003,Whole Year,Snak Guard,6,
 Tamil Nadu,THIRUVARUR,2003,Whole Year,Sugarcane,1765,179462
 Tamil Nadu,THIRUVARUR,2003,Whole Year,Sweet potato,2,29
 Tamil Nadu,THIRUVARUR,2003,Whole Year,Tapioca,136,4582
@@ -10030,35 +10030,35 @@ Tamil Nadu,TIRUCHIRAPPALLI,2002,Kharif,Urad,2738,1092
 Tamil Nadu,TIRUCHIRAPPALLI,2002,Kharif,Varagu,477,531
 Tamil Nadu,TIRUCHIRAPPALLI,2002,Rabi,Gram,38,23
 Tamil Nadu,TIRUCHIRAPPALLI,2002,Whole Year,Arecanut,8,
-Tamil Nadu,TIRUCHIRAPPALLI,2002,Whole Year,Ash Gourd,32,0
+Tamil Nadu,TIRUCHIRAPPALLI,2002,Whole Year,Ash Gourd,32,
 Tamil Nadu,TIRUCHIRAPPALLI,2002,Whole Year,Banana,9020,384166
 Tamil Nadu,TIRUCHIRAPPALLI,2002,Whole Year,Bhindi,91,678
-Tamil Nadu,TIRUCHIRAPPALLI,2002,Whole Year,Bitter Gourd,14,0
-Tamil Nadu,TIRUCHIRAPPALLI,2002,Whole Year,Bottle Gourd,2,0
+Tamil Nadu,TIRUCHIRAPPALLI,2002,Whole Year,Bitter Gourd,14,
+Tamil Nadu,TIRUCHIRAPPALLI,2002,Whole Year,Bottle Gourd,2,
 Tamil Nadu,TIRUCHIRAPPALLI,2002,Whole Year,Brinjal,127,968
 Tamil Nadu,TIRUCHIRAPPALLI,2002,Whole Year,Cashewnut,770,233
 Tamil Nadu,TIRUCHIRAPPALLI,2002,Whole Year,Citrus Fruit,1113,1233
 Tamil Nadu,TIRUCHIRAPPALLI,2002,Whole Year,Coconut,5991,84200
 Tamil Nadu,TIRUCHIRAPPALLI,2002,Whole Year,Coriander,1643,210
-Tamil Nadu,TIRUCHIRAPPALLI,2002,Whole Year,Cucumber,6,0
-Tamil Nadu,TIRUCHIRAPPALLI,2002,Whole Year,Drum Stick,39,0
+Tamil Nadu,TIRUCHIRAPPALLI,2002,Whole Year,Cucumber,6,
+Tamil Nadu,TIRUCHIRAPPALLI,2002,Whole Year,Drum Stick,39,
 Tamil Nadu,TIRUCHIRAPPALLI,2002,Whole Year,Dry chillies,1819,1969
 Tamil Nadu,TIRUCHIRAPPALLI,2002,Whole Year,Grapes,9,131
 Tamil Nadu,TIRUCHIRAPPALLI,2002,Whole Year,Jack Fruit,23,260
-Tamil Nadu,TIRUCHIRAPPALLI,2002,Whole Year,Lab-Lab,31,0
+Tamil Nadu,TIRUCHIRAPPALLI,2002,Whole Year,Lab-Lab,31,
 Tamil Nadu,TIRUCHIRAPPALLI,2002,Whole Year,Mango,2129,3294
 Tamil Nadu,TIRUCHIRAPPALLI,2002,Whole Year,Onion,2495,26514
 Tamil Nadu,TIRUCHIRAPPALLI,2002,Whole Year,Orange,3,4
-Tamil Nadu,TIRUCHIRAPPALLI,2002,Whole Year,Other Citrus Fruit,22,0
-Tamil Nadu,TIRUCHIRAPPALLI,2002,Whole Year,Other Fresh Fruits,81,0
-Tamil Nadu,TIRUCHIRAPPALLI,2002,Whole Year,Other Vegetables,23,0
-Tamil Nadu,TIRUCHIRAPPALLI,2002,Whole Year,Papaya,4,0
+Tamil Nadu,TIRUCHIRAPPALLI,2002,Whole Year,Other Citrus Fruit,22,
+Tamil Nadu,TIRUCHIRAPPALLI,2002,Whole Year,Other Fresh Fruits,81,
+Tamil Nadu,TIRUCHIRAPPALLI,2002,Whole Year,Other Vegetables,23,
+Tamil Nadu,TIRUCHIRAPPALLI,2002,Whole Year,Papaya,4,
 Tamil Nadu,TIRUCHIRAPPALLI,2002,Whole Year,Pome Fruit,224,1172
-Tamil Nadu,TIRUCHIRAPPALLI,2002,Whole Year,Pome Granet,13,0
-Tamil Nadu,TIRUCHIRAPPALLI,2002,Whole Year,Pump Kin,30,0
-Tamil Nadu,TIRUCHIRAPPALLI,2002,Whole Year,Redish,3,0
-Tamil Nadu,TIRUCHIRAPPALLI,2002,Whole Year,Ribed Guard,4,0
-Tamil Nadu,TIRUCHIRAPPALLI,2002,Whole Year,Snak Guard,17,0
+Tamil Nadu,TIRUCHIRAPPALLI,2002,Whole Year,Pome Granet,13,
+Tamil Nadu,TIRUCHIRAPPALLI,2002,Whole Year,Pump Kin,30,
+Tamil Nadu,TIRUCHIRAPPALLI,2002,Whole Year,Redish,3,
+Tamil Nadu,TIRUCHIRAPPALLI,2002,Whole Year,Ribed Guard,4,
+Tamil Nadu,TIRUCHIRAPPALLI,2002,Whole Year,Snak Guard,17,
 Tamil Nadu,TIRUCHIRAPPALLI,2002,Whole Year,Sugarcane,4614,423740
 Tamil Nadu,TIRUCHIRAPPALLI,2002,Whole Year,Sweet potato,24,328
 Tamil Nadu,TIRUCHIRAPPALLI,2002,Whole Year,Tapioca,5510,261040
@@ -10083,42 +10083,42 @@ Tamil Nadu,TIRUCHIRAPPALLI,2003,Kharif,Sunflower,2338,4827
 Tamil Nadu,TIRUCHIRAPPALLI,2003,Kharif,Urad,1331,544
 Tamil Nadu,TIRUCHIRAPPALLI,2003,Rabi,Gram,133,79
 Tamil Nadu,TIRUCHIRAPPALLI,2003,Whole Year,Arecanut,11,
-Tamil Nadu,TIRUCHIRAPPALLI,2003,Whole Year,Ash Gourd,13,0
+Tamil Nadu,TIRUCHIRAPPALLI,2003,Whole Year,Ash Gourd,13,
 Tamil Nadu,TIRUCHIRAPPALLI,2003,Whole Year,Banana,7521,346490
 Tamil Nadu,TIRUCHIRAPPALLI,2003,Whole Year,Bhindi,132,924
-Tamil Nadu,TIRUCHIRAPPALLI,2003,Whole Year,Bitter Gourd,22,0
+Tamil Nadu,TIRUCHIRAPPALLI,2003,Whole Year,Bitter Gourd,22,
 Tamil Nadu,TIRUCHIRAPPALLI,2003,Whole Year,Brinjal,152,1699
 Tamil Nadu,TIRUCHIRAPPALLI,2003,Whole Year,Cardamom,2,
 Tamil Nadu,TIRUCHIRAPPALLI,2003,Whole Year,Cashewnut,786,271
 Tamil Nadu,TIRUCHIRAPPALLI,2003,Whole Year,Citrus Fruit,1127,1176
 Tamil Nadu,TIRUCHIRAPPALLI,2003,Whole Year,Coconut,5927,47300
 Tamil Nadu,TIRUCHIRAPPALLI,2003,Whole Year,Coriander,1410,710
-Tamil Nadu,TIRUCHIRAPPALLI,2003,Whole Year,Cucumber,2,0
-Tamil Nadu,TIRUCHIRAPPALLI,2003,Whole Year,Drum Stick,44,0
+Tamil Nadu,TIRUCHIRAPPALLI,2003,Whole Year,Cucumber,2,
+Tamil Nadu,TIRUCHIRAPPALLI,2003,Whole Year,Drum Stick,44,
 Tamil Nadu,TIRUCHIRAPPALLI,2003,Whole Year,Dry chillies,2231,2976
 Tamil Nadu,TIRUCHIRAPPALLI,2003,Whole Year,Grapes,6,145
 Tamil Nadu,TIRUCHIRAPPALLI,2003,Whole Year,Jack Fruit,22,213
-Tamil Nadu,TIRUCHIRAPPALLI,2003,Whole Year,Lab-Lab,32,0
+Tamil Nadu,TIRUCHIRAPPALLI,2003,Whole Year,Lab-Lab,32,
 Tamil Nadu,TIRUCHIRAPPALLI,2003,Whole Year,Mango,2191,5204
 Tamil Nadu,TIRUCHIRAPPALLI,2003,Whole Year,Onion,3030,34844
 Tamil Nadu,TIRUCHIRAPPALLI,2003,Whole Year,Orange,21,41
-Tamil Nadu,TIRUCHIRAPPALLI,2003,Whole Year,Other Citrus Fruit,38,0
-Tamil Nadu,TIRUCHIRAPPALLI,2003,Whole Year,Other Fresh Fruits,81,0
-Tamil Nadu,TIRUCHIRAPPALLI,2003,Whole Year,Other Vegetables,38,0
-Tamil Nadu,TIRUCHIRAPPALLI,2003,Whole Year,Papaya,2,0
+Tamil Nadu,TIRUCHIRAPPALLI,2003,Whole Year,Other Citrus Fruit,38,
+Tamil Nadu,TIRUCHIRAPPALLI,2003,Whole Year,Other Fresh Fruits,81,
+Tamil Nadu,TIRUCHIRAPPALLI,2003,Whole Year,Other Vegetables,38,
+Tamil Nadu,TIRUCHIRAPPALLI,2003,Whole Year,Papaya,2,
 Tamil Nadu,TIRUCHIRAPPALLI,2003,Whole Year,Pome Fruit,228,1601
-Tamil Nadu,TIRUCHIRAPPALLI,2003,Whole Year,Pome Granet,10,0
-Tamil Nadu,TIRUCHIRAPPALLI,2003,Whole Year,Pump Kin,15,0
-Tamil Nadu,TIRUCHIRAPPALLI,2003,Whole Year,Redish,8,0
-Tamil Nadu,TIRUCHIRAPPALLI,2003,Whole Year,Ribed Guard,5,0
-Tamil Nadu,TIRUCHIRAPPALLI,2003,Whole Year,Snak Guard,16,0
+Tamil Nadu,TIRUCHIRAPPALLI,2003,Whole Year,Pome Granet,10,
+Tamil Nadu,TIRUCHIRAPPALLI,2003,Whole Year,Pump Kin,15,
+Tamil Nadu,TIRUCHIRAPPALLI,2003,Whole Year,Redish,8,
+Tamil Nadu,TIRUCHIRAPPALLI,2003,Whole Year,Ribed Guard,5,
+Tamil Nadu,TIRUCHIRAPPALLI,2003,Whole Year,Snak Guard,16,
 Tamil Nadu,TIRUCHIRAPPALLI,2003,Whole Year,Sugarcane,3135,318762
 Tamil Nadu,TIRUCHIRAPPALLI,2003,Whole Year,Sweet potato,56,811
 Tamil Nadu,TIRUCHIRAPPALLI,2003,Whole Year,Tapioca,5418,227965
 Tamil Nadu,TIRUCHIRAPPALLI,2003,Whole Year,Tomato,340,3451
 Tamil Nadu,TIRUCHIRAPPALLI,2003,Whole Year,Turmeric,267,1110
-Tamil Nadu,TIRUCHIRAPPALLI,2003,Whole Year,Water Melon,2,0
-Tamil Nadu,TIRUCHIRAPPALLI,2003,Whole Year,Yam,4,0
+Tamil Nadu,TIRUCHIRAPPALLI,2003,Whole Year,Water Melon,2,
+Tamil Nadu,TIRUCHIRAPPALLI,2003,Whole Year,Yam,4,
 Tamil Nadu,TIRUCHIRAPPALLI,2004,Kharif,Arhar/Tur,2397,688
 Tamil Nadu,TIRUCHIRAPPALLI,2004,Kharif,Bajra,3349,1391
 Tamil Nadu,TIRUCHIRAPPALLI,2004,Kharif,Castor seed,598,197
@@ -10548,39 +10548,39 @@ Tamil Nadu,TIRUNELVELI,2002,Kharif,Urad,9988,4340
 Tamil Nadu,TIRUNELVELI,2002,Whole Year,Arecanut,115,
 Tamil Nadu,TIRUNELVELI,2002,Whole Year,Banana,6817,316393
 Tamil Nadu,TIRUNELVELI,2002,Whole Year,Bhindi,349,2644
-Tamil Nadu,TIRUNELVELI,2002,Whole Year,Bitter Gourd,23,0
-Tamil Nadu,TIRUNELVELI,2002,Whole Year,Bottle Gourd,5,0
+Tamil Nadu,TIRUNELVELI,2002,Whole Year,Bitter Gourd,23,
+Tamil Nadu,TIRUNELVELI,2002,Whole Year,Bottle Gourd,5,
 Tamil Nadu,TIRUNELVELI,2002,Whole Year,Brinjal,404,3062
 Tamil Nadu,TIRUNELVELI,2002,Whole Year,Cashewnut,4354,1317
 Tamil Nadu,TIRUNELVELI,2002,Whole Year,Citrus Fruit,1709,1895
 Tamil Nadu,TIRUNELVELI,2002,Whole Year,Coconut,15423,106300
 Tamil Nadu,TIRUNELVELI,2002,Whole Year,Coriander,59,10
-Tamil Nadu,TIRUNELVELI,2002,Whole Year,Cucumber,118,0
-Tamil Nadu,TIRUNELVELI,2002,Whole Year,Drum Stick,78,0
+Tamil Nadu,TIRUNELVELI,2002,Whole Year,Cucumber,118,
+Tamil Nadu,TIRUNELVELI,2002,Whole Year,Drum Stick,78,
 Tamil Nadu,TIRUNELVELI,2002,Whole Year,Dry chillies,2161,1822
 Tamil Nadu,TIRUNELVELI,2002,Whole Year,Dry ginger,9,144
 Tamil Nadu,TIRUNELVELI,2002,Whole Year,Grapes,90,1313
 Tamil Nadu,TIRUNELVELI,2002,Whole Year,Jack Fruit,50,566
-Tamil Nadu,TIRUNELVELI,2002,Whole Year,Lab-Lab,5,0
+Tamil Nadu,TIRUNELVELI,2002,Whole Year,Lab-Lab,5,
 Tamil Nadu,TIRUNELVELI,2002,Whole Year,Mango,4046,28716
 Tamil Nadu,TIRUNELVELI,2002,Whole Year,Onion,1489,14100
 Tamil Nadu,TIRUNELVELI,2002,Whole Year,Orange,7,10
-Tamil Nadu,TIRUNELVELI,2002,Whole Year,Other Citrus Fruit,454,0
-Tamil Nadu,TIRUNELVELI,2002,Whole Year,Other Fresh Fruits,72,0
-Tamil Nadu,TIRUNELVELI,2002,Whole Year,Other Vegetables,421,0
-Tamil Nadu,TIRUNELVELI,2002,Whole Year,Papaya,1,0
+Tamil Nadu,TIRUNELVELI,2002,Whole Year,Other Citrus Fruit,454,
+Tamil Nadu,TIRUNELVELI,2002,Whole Year,Other Fresh Fruits,72,
+Tamil Nadu,TIRUNELVELI,2002,Whole Year,Other Vegetables,421,
+Tamil Nadu,TIRUNELVELI,2002,Whole Year,Papaya,1,
 Tamil Nadu,TIRUNELVELI,2002,Whole Year,Pome Fruit,351,1836
-Tamil Nadu,TIRUNELVELI,2002,Whole Year,Pome Granet,25,0
-Tamil Nadu,TIRUNELVELI,2002,Whole Year,Pump Kin,41,0
-Tamil Nadu,TIRUNELVELI,2002,Whole Year,Snak Guard,21,0
+Tamil Nadu,TIRUNELVELI,2002,Whole Year,Pome Granet,25,
+Tamil Nadu,TIRUNELVELI,2002,Whole Year,Pump Kin,41,
+Tamil Nadu,TIRUNELVELI,2002,Whole Year,Snak Guard,21,
 Tamil Nadu,TIRUNELVELI,2002,Whole Year,Sugarcane,3476,319230
 Tamil Nadu,TIRUNELVELI,2002,Whole Year,Sweet potato,20,273
 Tamil Nadu,TIRUNELVELI,2002,Whole Year,Tapioca,170,5370
 Tamil Nadu,TIRUNELVELI,2002,Whole Year,Tobacco,15,18
 Tamil Nadu,TIRUNELVELI,2002,Whole Year,Tomato,589,7255
 Tamil Nadu,TIRUNELVELI,2002,Whole Year,Turmeric,6,22
-Tamil Nadu,TIRUNELVELI,2002,Whole Year,Water Melon,3,0
-Tamil Nadu,TIRUNELVELI,2002,Whole Year,Yam,12,0
+Tamil Nadu,TIRUNELVELI,2002,Whole Year,Water Melon,3,
+Tamil Nadu,TIRUNELVELI,2002,Whole Year,Yam,12,
 Tamil Nadu,TIRUNELVELI,2003,Kharif,Arhar/Tur,34,21
 Tamil Nadu,TIRUNELVELI,2003,Kharif,Bajra,977,1111
 Tamil Nadu,TIRUNELVELI,2003,Kharif,Castor seed,40,9
@@ -10601,42 +10601,42 @@ Tamil Nadu,TIRUNELVELI,2003,Kharif,Sunflower,292,270
 Tamil Nadu,TIRUNELVELI,2003,Kharif,Urad,12222,5110
 Tamil Nadu,TIRUNELVELI,2003,Rabi,Gram,2,2
 Tamil Nadu,TIRUNELVELI,2003,Whole Year,Arecanut,122,
-Tamil Nadu,TIRUNELVELI,2003,Whole Year,Ash Gourd,13,0
+Tamil Nadu,TIRUNELVELI,2003,Whole Year,Ash Gourd,13,
 Tamil Nadu,TIRUNELVELI,2003,Whole Year,Banana,5924,197539
 Tamil Nadu,TIRUNELVELI,2003,Whole Year,Bhindi,315,2067
-Tamil Nadu,TIRUNELVELI,2003,Whole Year,Bitter Gourd,19,0
+Tamil Nadu,TIRUNELVELI,2003,Whole Year,Bitter Gourd,19,
 Tamil Nadu,TIRUNELVELI,2003,Whole Year,Black pepper,43,9
-Tamil Nadu,TIRUNELVELI,2003,Whole Year,Bottle Gourd,7,0
+Tamil Nadu,TIRUNELVELI,2003,Whole Year,Bottle Gourd,7,
 Tamil Nadu,TIRUNELVELI,2003,Whole Year,Brinjal,421,4707
 Tamil Nadu,TIRUNELVELI,2003,Whole Year,Cardamom,1241,119
 Tamil Nadu,TIRUNELVELI,2003,Whole Year,Cashewnut,4577,1124
 Tamil Nadu,TIRUNELVELI,2003,Whole Year,Citrus Fruit,1830,1911
 Tamil Nadu,TIRUNELVELI,2003,Whole Year,Coconut,15500,86600
 Tamil Nadu,TIRUNELVELI,2003,Whole Year,Coriander,41,12
-Tamil Nadu,TIRUNELVELI,2003,Whole Year,Cucumber,43,0
-Tamil Nadu,TIRUNELVELI,2003,Whole Year,Drum Stick,82,0
+Tamil Nadu,TIRUNELVELI,2003,Whole Year,Cucumber,43,
+Tamil Nadu,TIRUNELVELI,2003,Whole Year,Drum Stick,82,
 Tamil Nadu,TIRUNELVELI,2003,Whole Year,Dry chillies,1938,2118
 Tamil Nadu,TIRUNELVELI,2003,Whole Year,Grapes,76,1832
 Tamil Nadu,TIRUNELVELI,2003,Whole Year,Jack Fruit,56,541
-Tamil Nadu,TIRUNELVELI,2003,Whole Year,Lab-Lab,10,0
-Tamil Nadu,TIRUNELVELI,2003,Whole Year,Litchi,2,0
+Tamil Nadu,TIRUNELVELI,2003,Whole Year,Lab-Lab,10,
+Tamil Nadu,TIRUNELVELI,2003,Whole Year,Litchi,2,
 Tamil Nadu,TIRUNELVELI,2003,Whole Year,Mango,4116,13296
 Tamil Nadu,TIRUNELVELI,2003,Whole Year,Onion,1073,8032
 Tamil Nadu,TIRUNELVELI,2003,Whole Year,Orange,6,12
-Tamil Nadu,TIRUNELVELI,2003,Whole Year,Other Citrus Fruit,603,0
-Tamil Nadu,TIRUNELVELI,2003,Whole Year,Other Fresh Fruits,118,0
-Tamil Nadu,TIRUNELVELI,2003,Whole Year,Other Vegetables,284,0
-Tamil Nadu,TIRUNELVELI,2003,Whole Year,Papaya,2,0
+Tamil Nadu,TIRUNELVELI,2003,Whole Year,Other Citrus Fruit,603,
+Tamil Nadu,TIRUNELVELI,2003,Whole Year,Other Fresh Fruits,118,
+Tamil Nadu,TIRUNELVELI,2003,Whole Year,Other Vegetables,284,
+Tamil Nadu,TIRUNELVELI,2003,Whole Year,Papaya,2,
 Tamil Nadu,TIRUNELVELI,2003,Whole Year,Pome Fruit,390,2738
-Tamil Nadu,TIRUNELVELI,2003,Whole Year,Pome Granet,24,0
-Tamil Nadu,TIRUNELVELI,2003,Whole Year,Pump Kin,21,0
-Tamil Nadu,TIRUNELVELI,2003,Whole Year,Snak Guard,35,0
+Tamil Nadu,TIRUNELVELI,2003,Whole Year,Pome Granet,24,
+Tamil Nadu,TIRUNELVELI,2003,Whole Year,Pump Kin,21,
+Tamil Nadu,TIRUNELVELI,2003,Whole Year,Snak Guard,35,
 Tamil Nadu,TIRUNELVELI,2003,Whole Year,Sugarcane,2707,275244
 Tamil Nadu,TIRUNELVELI,2003,Whole Year,Sweet potato,22,319
 Tamil Nadu,TIRUNELVELI,2003,Whole Year,Tapioca,131,4414
 Tamil Nadu,TIRUNELVELI,2003,Whole Year,Tomato,651,6607
 Tamil Nadu,TIRUNELVELI,2003,Whole Year,Turmeric,6,25
-Tamil Nadu,TIRUNELVELI,2003,Whole Year,Yam,32,0
+Tamil Nadu,TIRUNELVELI,2003,Whole Year,Yam,32,
 Tamil Nadu,TIRUNELVELI,2004,Kharif,Arhar/Tur,33,22
 Tamil Nadu,TIRUNELVELI,2004,Kharif,Bajra,767,1273
 Tamil Nadu,TIRUNELVELI,2004,Kharif,Castor seed,108,25
@@ -11206,37 +11206,37 @@ Tamil Nadu,TIRUVANNAMALAI,2002,Kharif,Sesamum,1661,341
 Tamil Nadu,TIRUVANNAMALAI,2002,Kharif,Sunflower,11,13
 Tamil Nadu,TIRUVANNAMALAI,2002,Kharif,Urad,10754,2487
 Tamil Nadu,TIRUVANNAMALAI,2002,Kharif,Varagu,60,67
-Tamil Nadu,TIRUVANNAMALAI,2002,Rabi,Rapeseed &Mustard,1,0.1
+Tamil Nadu,TIRUVANNAMALAI,2002,Rabi,Rapeseed &Mustard,1,.1
 Tamil Nadu,TIRUVANNAMALAI,2002,Whole Year,Banana,1032,38134
-Tamil Nadu,TIRUVANNAMALAI,2002,Whole Year,Beans & Mutter(Vegetable),168,0
+Tamil Nadu,TIRUVANNAMALAI,2002,Whole Year,Beans & Mutter(Vegetable),168,
 Tamil Nadu,TIRUVANNAMALAI,2002,Whole Year,Bhindi,280,1755
-Tamil Nadu,TIRUVANNAMALAI,2002,Whole Year,Bitter Gourd,9,0
+Tamil Nadu,TIRUVANNAMALAI,2002,Whole Year,Bitter Gourd,9,
 Tamil Nadu,TIRUVANNAMALAI,2002,Whole Year,Brinjal,478,3629
 Tamil Nadu,TIRUVANNAMALAI,2002,Whole Year,Citrus Fruit,10,11
 Tamil Nadu,TIRUVANNAMALAI,2002,Whole Year,Coconut,1023,7300
 Tamil Nadu,TIRUVANNAMALAI,2002,Whole Year,Coriander,27,5
 Tamil Nadu,TIRUVANNAMALAI,2002,Whole Year,Dry chillies,464,279
 Tamil Nadu,TIRUVANNAMALAI,2002,Whole Year,Jack Fruit,15,170
-Tamil Nadu,TIRUVANNAMALAI,2002,Whole Year,Lab-Lab,122,0
-Tamil Nadu,TIRUVANNAMALAI,2002,Whole Year,Litchi,3,0
+Tamil Nadu,TIRUVANNAMALAI,2002,Whole Year,Lab-Lab,122,
+Tamil Nadu,TIRUVANNAMALAI,2002,Whole Year,Litchi,3,
 Tamil Nadu,TIRUVANNAMALAI,2002,Whole Year,Mango,530,3176
 Tamil Nadu,TIRUVANNAMALAI,2002,Whole Year,Onion,102,863
-Tamil Nadu,TIRUVANNAMALAI,2002,Whole Year,Other Citrus Fruit,26,0
-Tamil Nadu,TIRUVANNAMALAI,2002,Whole Year,Other Fresh Fruits,24,0
-Tamil Nadu,TIRUVANNAMALAI,2002,Whole Year,Other Vegetables,318,0
+Tamil Nadu,TIRUVANNAMALAI,2002,Whole Year,Other Citrus Fruit,26,
+Tamil Nadu,TIRUVANNAMALAI,2002,Whole Year,Other Fresh Fruits,24,
+Tamil Nadu,TIRUVANNAMALAI,2002,Whole Year,Other Vegetables,318,
 Tamil Nadu,TIRUVANNAMALAI,2002,Whole Year,Pome Fruit,51,267
-Tamil Nadu,TIRUVANNAMALAI,2002,Whole Year,Pome Granet,1,0
-Tamil Nadu,TIRUVANNAMALAI,2002,Whole Year,Pump Kin,94,0
-Tamil Nadu,TIRUVANNAMALAI,2002,Whole Year,Redish,106,0
-Tamil Nadu,TIRUVANNAMALAI,2002,Whole Year,Snak Guard,6,0
+Tamil Nadu,TIRUVANNAMALAI,2002,Whole Year,Pome Granet,1,
+Tamil Nadu,TIRUVANNAMALAI,2002,Whole Year,Pump Kin,94,
+Tamil Nadu,TIRUVANNAMALAI,2002,Whole Year,Redish,106,
+Tamil Nadu,TIRUVANNAMALAI,2002,Whole Year,Snak Guard,6,
 Tamil Nadu,TIRUVANNAMALAI,2002,Whole Year,Sugarcane,12014,171870
 Tamil Nadu,TIRUVANNAMALAI,2002,Whole Year,Sweet potato,12,258
 Tamil Nadu,TIRUVANNAMALAI,2002,Whole Year,Tapioca,605,19112
 Tamil Nadu,TIRUVANNAMALAI,2002,Whole Year,Tobacco,211,225
 Tamil Nadu,TIRUVANNAMALAI,2002,Whole Year,Tomato,393,2839
 Tamil Nadu,TIRUVANNAMALAI,2002,Whole Year,Turmeric,191,713
-Tamil Nadu,TIRUVANNAMALAI,2002,Whole Year,Water Melon,31,0
-Tamil Nadu,TIRUVANNAMALAI,2002,Whole Year,Yam,137,0
+Tamil Nadu,TIRUVANNAMALAI,2002,Whole Year,Water Melon,31,
+Tamil Nadu,TIRUVANNAMALAI,2002,Whole Year,Yam,137,
 Tamil Nadu,TIRUVANNAMALAI,2003,Kharif,Arhar/Tur,4113,3137
 Tamil Nadu,TIRUVANNAMALAI,2003,Kharif,Bajra,18063,12246
 Tamil Nadu,TIRUVANNAMALAI,2003,Kharif,Castor seed,1,1
@@ -11255,38 +11255,38 @@ Tamil Nadu,TIRUVANNAMALAI,2003,Kharif,Small millets,6420,4351
 Tamil Nadu,TIRUVANNAMALAI,2003,Kharif,Sunflower,132,171
 Tamil Nadu,TIRUVANNAMALAI,2003,Kharif,Urad,10379,3953
 Tamil Nadu,TIRUVANNAMALAI,2003,Kharif,Varagu,26,18
-Tamil Nadu,TIRUVANNAMALAI,2003,Whole Year,Ash Gourd,101,0
+Tamil Nadu,TIRUVANNAMALAI,2003,Whole Year,Ash Gourd,101,
 Tamil Nadu,TIRUVANNAMALAI,2003,Whole Year,Banana,664,23489
-Tamil Nadu,TIRUVANNAMALAI,2003,Whole Year,Beans & Mutter(Vegetable),46,0
+Tamil Nadu,TIRUVANNAMALAI,2003,Whole Year,Beans & Mutter(Vegetable),46,
 Tamil Nadu,TIRUVANNAMALAI,2003,Whole Year,Bhindi,390,2288
-Tamil Nadu,TIRUVANNAMALAI,2003,Whole Year,Bitter Gourd,84,0
-Tamil Nadu,TIRUVANNAMALAI,2003,Whole Year,Bottle Gourd,27,0
+Tamil Nadu,TIRUVANNAMALAI,2003,Whole Year,Bitter Gourd,84,
+Tamil Nadu,TIRUVANNAMALAI,2003,Whole Year,Bottle Gourd,27,
 Tamil Nadu,TIRUVANNAMALAI,2003,Whole Year,Brinjal,543,3381
 Tamil Nadu,TIRUVANNAMALAI,2003,Whole Year,Cabbage,12,763
 Tamil Nadu,TIRUVANNAMALAI,2003,Whole Year,Coconut,776,5700
 Tamil Nadu,TIRUVANNAMALAI,2003,Whole Year,Coriander,3,1
-Tamil Nadu,TIRUVANNAMALAI,2003,Whole Year,Cucumber,1,0
-Tamil Nadu,TIRUVANNAMALAI,2003,Whole Year,Drum Stick,42,0
+Tamil Nadu,TIRUVANNAMALAI,2003,Whole Year,Cucumber,1,
+Tamil Nadu,TIRUVANNAMALAI,2003,Whole Year,Drum Stick,42,
 Tamil Nadu,TIRUVANNAMALAI,2003,Whole Year,Dry chillies,688,451
-Tamil Nadu,TIRUVANNAMALAI,2003,Whole Year,Lab-Lab,171,0
+Tamil Nadu,TIRUVANNAMALAI,2003,Whole Year,Lab-Lab,171,
 Tamil Nadu,TIRUVANNAMALAI,2003,Whole Year,Mango,731,3037
 Tamil Nadu,TIRUVANNAMALAI,2003,Whole Year,Onion,65,585
-Tamil Nadu,TIRUVANNAMALAI,2003,Whole Year,Other Citrus Fruit,4,0
-Tamil Nadu,TIRUVANNAMALAI,2003,Whole Year,Other Fresh Fruits,7,0
-Tamil Nadu,TIRUVANNAMALAI,2003,Whole Year,Other Vegetables,531,0
+Tamil Nadu,TIRUVANNAMALAI,2003,Whole Year,Other Citrus Fruit,4,
+Tamil Nadu,TIRUVANNAMALAI,2003,Whole Year,Other Fresh Fruits,7,
+Tamil Nadu,TIRUVANNAMALAI,2003,Whole Year,Other Vegetables,531,
 Tamil Nadu,TIRUVANNAMALAI,2003,Whole Year,Pineapple,1,31
 Tamil Nadu,TIRUVANNAMALAI,2003,Whole Year,Pome Fruit,49,344
-Tamil Nadu,TIRUVANNAMALAI,2003,Whole Year,Pump Kin,27,0
-Tamil Nadu,TIRUVANNAMALAI,2003,Whole Year,Redish,182,0
-Tamil Nadu,TIRUVANNAMALAI,2003,Whole Year,Ribed Guard,33,0
-Tamil Nadu,TIRUVANNAMALAI,2003,Whole Year,Snak Guard,18,0
+Tamil Nadu,TIRUVANNAMALAI,2003,Whole Year,Pump Kin,27,
+Tamil Nadu,TIRUVANNAMALAI,2003,Whole Year,Redish,182,
+Tamil Nadu,TIRUVANNAMALAI,2003,Whole Year,Ribed Guard,33,
+Tamil Nadu,TIRUVANNAMALAI,2003,Whole Year,Snak Guard,18,
 Tamil Nadu,TIRUVANNAMALAI,2003,Whole Year,Sugarcane,7404,646643
 Tamil Nadu,TIRUVANNAMALAI,2003,Whole Year,Sweet potato,2,45
 Tamil Nadu,TIRUVANNAMALAI,2003,Whole Year,Tapioca,1617,54479
 Tamil Nadu,TIRUVANNAMALAI,2003,Whole Year,Tomato,413,3570
 Tamil Nadu,TIRUVANNAMALAI,2003,Whole Year,Turmeric,288,1197
-Tamil Nadu,TIRUVANNAMALAI,2003,Whole Year,Water Melon,33,0
-Tamil Nadu,TIRUVANNAMALAI,2003,Whole Year,Yam,65,0
+Tamil Nadu,TIRUVANNAMALAI,2003,Whole Year,Water Melon,33,
+Tamil Nadu,TIRUVANNAMALAI,2003,Whole Year,Yam,65,
 Tamil Nadu,TIRUVANNAMALAI,2004,Kharif,Arhar/Tur,2578,955
 Tamil Nadu,TIRUVANNAMALAI,2004,Kharif,Bajra,6051,1965
 Tamil Nadu,TIRUVANNAMALAI,2004,Kharif,Castor seed,4,2
@@ -11707,38 +11707,38 @@ Tamil Nadu,TUTICORIN,2002,Kharif,Urad,13717,5573
 Tamil Nadu,TUTICORIN,2002,Kharif,Varagu,1,1
 Tamil Nadu,TUTICORIN,2002,Rabi,Gram,94,47
 Tamil Nadu,TUTICORIN,2002,Whole Year,Banana,8037,477145
-Tamil Nadu,TUTICORIN,2002,Whole Year,Ber,2,0
+Tamil Nadu,TUTICORIN,2002,Whole Year,Ber,2,
 Tamil Nadu,TUTICORIN,2002,Whole Year,Bhindi,182,1356
-Tamil Nadu,TUTICORIN,2002,Whole Year,Bitter Gourd,127,0
+Tamil Nadu,TUTICORIN,2002,Whole Year,Bitter Gourd,127,
 Tamil Nadu,TUTICORIN,2002,Whole Year,Brinjal,212,1616
 Tamil Nadu,TUTICORIN,2002,Whole Year,Cashewnut,911,275
 Tamil Nadu,TUTICORIN,2002,Whole Year,Citrus Fruit,132,146
 Tamil Nadu,TUTICORIN,2002,Whole Year,Coconut,5586,26700
 Tamil Nadu,TUTICORIN,2002,Whole Year,Coriander,5812,700
-Tamil Nadu,TUTICORIN,2002,Whole Year,Cucumber,33,0
-Tamil Nadu,TUTICORIN,2002,Whole Year,Drum Stick,1228,0
+Tamil Nadu,TUTICORIN,2002,Whole Year,Cucumber,33,
+Tamil Nadu,TUTICORIN,2002,Whole Year,Drum Stick,1228,
 Tamil Nadu,TUTICORIN,2002,Whole Year,Dry chillies,25298,9323
 Tamil Nadu,TUTICORIN,2002,Whole Year,Grapes,2,29
 Tamil Nadu,TUTICORIN,2002,Whole Year,Jack Fruit,2,23
-Tamil Nadu,TUTICORIN,2002,Whole Year,Lab-Lab,27,0
+Tamil Nadu,TUTICORIN,2002,Whole Year,Lab-Lab,27,
 Tamil Nadu,TUTICORIN,2002,Whole Year,Mango,442,2648
 Tamil Nadu,TUTICORIN,2002,Whole Year,Onion,1744,10095
 Tamil Nadu,TUTICORIN,2002,Whole Year,Orange,1,2
-Tamil Nadu,TUTICORIN,2002,Whole Year,Other Citrus Fruit,121,0
-Tamil Nadu,TUTICORIN,2002,Whole Year,Other Fresh Fruits,84,0
-Tamil Nadu,TUTICORIN,2002,Whole Year,Other Vegetables,464,0
+Tamil Nadu,TUTICORIN,2002,Whole Year,Other Citrus Fruit,121,
+Tamil Nadu,TUTICORIN,2002,Whole Year,Other Fresh Fruits,84,
+Tamil Nadu,TUTICORIN,2002,Whole Year,Other Vegetables,464,
 Tamil Nadu,TUTICORIN,2002,Whole Year,Pome Fruit,279,1460
-Tamil Nadu,TUTICORIN,2002,Whole Year,Pome Granet,28,0
-Tamil Nadu,TUTICORIN,2002,Whole Year,Pump Kin,11,0
-Tamil Nadu,TUTICORIN,2002,Whole Year,Ribed Guard,6,0
-Tamil Nadu,TUTICORIN,2002,Whole Year,Snak Guard,6,0
+Tamil Nadu,TUTICORIN,2002,Whole Year,Pome Granet,28,
+Tamil Nadu,TUTICORIN,2002,Whole Year,Pump Kin,11,
+Tamil Nadu,TUTICORIN,2002,Whole Year,Ribed Guard,6,
+Tamil Nadu,TUTICORIN,2002,Whole Year,Snak Guard,6,
 Tamil Nadu,TUTICORIN,2002,Whole Year,Sugarcane,113,10380
 Tamil Nadu,TUTICORIN,2002,Whole Year,Sweet potato,51,697
 Tamil Nadu,TUTICORIN,2002,Whole Year,Tapioca,4,126
 Tamil Nadu,TUTICORIN,2002,Whole Year,Tomato,226,1479
 Tamil Nadu,TUTICORIN,2002,Whole Year,Turmeric,3,11
-Tamil Nadu,TUTICORIN,2002,Whole Year,Water Melon,2,0
-Tamil Nadu,TUTICORIN,2002,Whole Year,Yam,134,0
+Tamil Nadu,TUTICORIN,2002,Whole Year,Water Melon,2,
+Tamil Nadu,TUTICORIN,2002,Whole Year,Yam,134,
 Tamil Nadu,TUTICORIN,2003,Kharif,Arhar/Tur,48,29
 Tamil Nadu,TUTICORIN,2003,Kharif,Bajra,21334,35263
 Tamil Nadu,TUTICORIN,2003,Kharif,Castor seed,93,27
@@ -11757,40 +11757,40 @@ Tamil Nadu,TUTICORIN,2003,Kharif,Small millets,483,239
 Tamil Nadu,TUTICORIN,2003,Kharif,Sunflower,886,228
 Tamil Nadu,TUTICORIN,2003,Kharif,Urad,10131,4472
 Tamil Nadu,TUTICORIN,2003,Rabi,Gram,91,45
-Tamil Nadu,TUTICORIN,2003,Whole Year,Ash Gourd,7,0
+Tamil Nadu,TUTICORIN,2003,Whole Year,Ash Gourd,7,
 Tamil Nadu,TUTICORIN,2003,Whole Year,Banana,8272,386862
 Tamil Nadu,TUTICORIN,2003,Whole Year,Bhindi,206,1129
-Tamil Nadu,TUTICORIN,2003,Whole Year,Bitter Gourd,77,0
-Tamil Nadu,TUTICORIN,2003,Whole Year,Bottle Gourd,1,0
+Tamil Nadu,TUTICORIN,2003,Whole Year,Bitter Gourd,77,
+Tamil Nadu,TUTICORIN,2003,Whole Year,Bottle Gourd,1,
 Tamil Nadu,TUTICORIN,2003,Whole Year,Brinjal,207,2315
 Tamil Nadu,TUTICORIN,2003,Whole Year,Cashewnut,749,259
 Tamil Nadu,TUTICORIN,2003,Whole Year,Citrus Fruit,143,149
 Tamil Nadu,TUTICORIN,2003,Whole Year,Coconut,6057,39600
 Tamil Nadu,TUTICORIN,2003,Whole Year,Coriander,5188,903
-Tamil Nadu,TUTICORIN,2003,Whole Year,Cucumber,47,0
-Tamil Nadu,TUTICORIN,2003,Whole Year,Drum Stick,1456,0
+Tamil Nadu,TUTICORIN,2003,Whole Year,Cucumber,47,
+Tamil Nadu,TUTICORIN,2003,Whole Year,Drum Stick,1456,
 Tamil Nadu,TUTICORIN,2003,Whole Year,Dry chillies,23421,6665
 Tamil Nadu,TUTICORIN,2003,Whole Year,Grapes,1,24
 Tamil Nadu,TUTICORIN,2003,Whole Year,Jack Fruit,1,10
-Tamil Nadu,TUTICORIN,2003,Whole Year,Lab-Lab,14,0
+Tamil Nadu,TUTICORIN,2003,Whole Year,Lab-Lab,14,
 Tamil Nadu,TUTICORIN,2003,Whole Year,Mango,592,2460
 Tamil Nadu,TUTICORIN,2003,Whole Year,Onion,1509,8619
 Tamil Nadu,TUTICORIN,2003,Whole Year,Orange,1,2
-Tamil Nadu,TUTICORIN,2003,Whole Year,Other Citrus Fruit,199,0
-Tamil Nadu,TUTICORIN,2003,Whole Year,Other Fresh Fruits,88,0
-Tamil Nadu,TUTICORIN,2003,Whole Year,Other Vegetables,380,0
-Tamil Nadu,TUTICORIN,2003,Whole Year,Papaya,4,0
+Tamil Nadu,TUTICORIN,2003,Whole Year,Other Citrus Fruit,199,
+Tamil Nadu,TUTICORIN,2003,Whole Year,Other Fresh Fruits,88,
+Tamil Nadu,TUTICORIN,2003,Whole Year,Other Vegetables,380,
+Tamil Nadu,TUTICORIN,2003,Whole Year,Papaya,4,
 Tamil Nadu,TUTICORIN,2003,Whole Year,Pome Fruit,206,1446
-Tamil Nadu,TUTICORIN,2003,Whole Year,Pome Granet,49,0
-Tamil Nadu,TUTICORIN,2003,Whole Year,Pump Kin,20,0
-Tamil Nadu,TUTICORIN,2003,Whole Year,Ribed Guard,6,0
-Tamil Nadu,TUTICORIN,2003,Whole Year,Snak Guard,7,0
+Tamil Nadu,TUTICORIN,2003,Whole Year,Pome Granet,49,
+Tamil Nadu,TUTICORIN,2003,Whole Year,Pump Kin,20,
+Tamil Nadu,TUTICORIN,2003,Whole Year,Ribed Guard,6,
+Tamil Nadu,TUTICORIN,2003,Whole Year,Snak Guard,7,
 Tamil Nadu,TUTICORIN,2003,Whole Year,Sugarcane,69,7016
 Tamil Nadu,TUTICORIN,2003,Whole Year,Sweet potato,64,928
 Tamil Nadu,TUTICORIN,2003,Whole Year,Tapioca,5,168
 Tamil Nadu,TUTICORIN,2003,Whole Year,Tomato,427,3051
 Tamil Nadu,TUTICORIN,2003,Whole Year,Turmeric,4,17
-Tamil Nadu,TUTICORIN,2003,Whole Year,Yam,144,0
+Tamil Nadu,TUTICORIN,2003,Whole Year,Yam,144,
 Tamil Nadu,TUTICORIN,2004,Kharif,Arhar/Tur,38,25
 Tamil Nadu,TUTICORIN,2004,Kharif,Bajra,20965,43654
 Tamil Nadu,TUTICORIN,2004,Kharif,Castor seed,55,16
@@ -12172,45 +12172,45 @@ Tamil Nadu,VELLORE,2002,Kharif,Sesamum,1629,811
 Tamil Nadu,VELLORE,2002,Kharif,Sunflower,30,35
 Tamil Nadu,VELLORE,2002,Kharif,Urad,5609,2036
 Tamil Nadu,VELLORE,2002,Kharif,Varagu,10,11
-Tamil Nadu,VELLORE,2002,Whole Year,Ash Gourd,3,0
+Tamil Nadu,VELLORE,2002,Whole Year,Ash Gourd,3,
 Tamil Nadu,VELLORE,2002,Whole Year,Banana,2051,75791
-Tamil Nadu,VELLORE,2002,Whole Year,Beans & Mutter(Vegetable),26,0
+Tamil Nadu,VELLORE,2002,Whole Year,Beans & Mutter(Vegetable),26,
 Tamil Nadu,VELLORE,2002,Whole Year,Bhindi,308,1765
-Tamil Nadu,VELLORE,2002,Whole Year,Bitter Gourd,58,0
+Tamil Nadu,VELLORE,2002,Whole Year,Bitter Gourd,58,
 Tamil Nadu,VELLORE,2002,Whole Year,Brinjal,571,3745
 Tamil Nadu,VELLORE,2002,Whole Year,Cabbage,2,117
 Tamil Nadu,VELLORE,2002,Whole Year,Cashewnut,29,9
 Tamil Nadu,VELLORE,2002,Whole Year,Citrus Fruit,52,58
 Tamil Nadu,VELLORE,2002,Whole Year,Coconut,18690,171300
 Tamil Nadu,VELLORE,2002,Whole Year,Coriander,108,20
-Tamil Nadu,VELLORE,2002,Whole Year,Drum Stick,70,0
+Tamil Nadu,VELLORE,2002,Whole Year,Drum Stick,70,
 Tamil Nadu,VELLORE,2002,Whole Year,Dry chillies,385,228
 Tamil Nadu,VELLORE,2002,Whole Year,Grapes,36,525
 Tamil Nadu,VELLORE,2002,Whole Year,Jack Fruit,17,192
-Tamil Nadu,VELLORE,2002,Whole Year,Lab-Lab,17,0
-Tamil Nadu,VELLORE,2002,Whole Year,Litchi,1,0
+Tamil Nadu,VELLORE,2002,Whole Year,Lab-Lab,17,
+Tamil Nadu,VELLORE,2002,Whole Year,Litchi,1,
 Tamil Nadu,VELLORE,2002,Whole Year,Mango,12403,32758
 Tamil Nadu,VELLORE,2002,Whole Year,Onion,39,330
 Tamil Nadu,VELLORE,2002,Whole Year,Orange,17,26
-Tamil Nadu,VELLORE,2002,Whole Year,Other Citrus Fruit,4,0
-Tamil Nadu,VELLORE,2002,Whole Year,Other Fresh Fruits,227,0
-Tamil Nadu,VELLORE,2002,Whole Year,Other Vegetables,244,0
-Tamil Nadu,VELLORE,2002,Whole Year,Papaya,1,0
+Tamil Nadu,VELLORE,2002,Whole Year,Other Citrus Fruit,4,
+Tamil Nadu,VELLORE,2002,Whole Year,Other Fresh Fruits,227,
+Tamil Nadu,VELLORE,2002,Whole Year,Other Vegetables,244,
+Tamil Nadu,VELLORE,2002,Whole Year,Papaya,1,
 Tamil Nadu,VELLORE,2002,Whole Year,Pineapple,1,31
 Tamil Nadu,VELLORE,2002,Whole Year,Pome Fruit,599,3134
-Tamil Nadu,VELLORE,2002,Whole Year,Pome Granet,19,0
-Tamil Nadu,VELLORE,2002,Whole Year,Pump Kin,32,0
-Tamil Nadu,VELLORE,2002,Whole Year,Redish,14,0
-Tamil Nadu,VELLORE,2002,Whole Year,Ribed Guard,5,0
-Tamil Nadu,VELLORE,2002,Whole Year,Snak Guard,8,0
+Tamil Nadu,VELLORE,2002,Whole Year,Pome Granet,19,
+Tamil Nadu,VELLORE,2002,Whole Year,Pump Kin,32,
+Tamil Nadu,VELLORE,2002,Whole Year,Redish,14,
+Tamil Nadu,VELLORE,2002,Whole Year,Ribed Guard,5,
+Tamil Nadu,VELLORE,2002,Whole Year,Snak Guard,8,
 Tamil Nadu,VELLORE,2002,Whole Year,Sugarcane,14397,1134480
 Tamil Nadu,VELLORE,2002,Whole Year,Sweet potato,4,55
 Tamil Nadu,VELLORE,2002,Whole Year,Tapioca,98,3096
 Tamil Nadu,VELLORE,2002,Whole Year,Tobacco,116,146
 Tamil Nadu,VELLORE,2002,Whole Year,Tomato,699,4115
 Tamil Nadu,VELLORE,2002,Whole Year,Turmeric,426,1588
-Tamil Nadu,VELLORE,2002,Whole Year,Water Melon,6,0
-Tamil Nadu,VELLORE,2002,Whole Year,Yam,94,0
+Tamil Nadu,VELLORE,2002,Whole Year,Water Melon,6,
+Tamil Nadu,VELLORE,2002,Whole Year,Yam,94,
 Tamil Nadu,VELLORE,2003,Kharif,Arhar/Tur,15268,9814
 Tamil Nadu,VELLORE,2003,Kharif,Bajra,3437,3487
 Tamil Nadu,VELLORE,2003,Kharif,Castor seed,1221,459
@@ -12231,46 +12231,46 @@ Tamil Nadu,VELLORE,2003,Kharif,Urad,7177,1480
 Tamil Nadu,VELLORE,2003,Kharif,Varagu,328,418
 Tamil Nadu,VELLORE,2003,Rabi,Gram,6,2
 Tamil Nadu,VELLORE,2003,Rabi,Rapeseed &Mustard,1,1
-Tamil Nadu,VELLORE,2003,Whole Year,Ash Gourd,4,0
+Tamil Nadu,VELLORE,2003,Whole Year,Ash Gourd,4,
 Tamil Nadu,VELLORE,2003,Whole Year,Banana,2049,72483
-Tamil Nadu,VELLORE,2003,Whole Year,Beans & Mutter(Vegetable),83,0
+Tamil Nadu,VELLORE,2003,Whole Year,Beans & Mutter(Vegetable),83,
 Tamil Nadu,VELLORE,2003,Whole Year,Bhindi,568,3016
-Tamil Nadu,VELLORE,2003,Whole Year,Bitter Gourd,30,0
+Tamil Nadu,VELLORE,2003,Whole Year,Bitter Gourd,30,
 Tamil Nadu,VELLORE,2003,Whole Year,Brinjal,1465,17679
 Tamil Nadu,VELLORE,2003,Whole Year,Cabbage,1,64
 Tamil Nadu,VELLORE,2003,Whole Year,Cashewnut,37,13
 Tamil Nadu,VELLORE,2003,Whole Year,Citrus Fruit,72,75
 Tamil Nadu,VELLORE,2003,Whole Year,Coconut,21805,106800
 Tamil Nadu,VELLORE,2003,Whole Year,Coriander,68,20
-Tamil Nadu,VELLORE,2003,Whole Year,Cucumber,2,0
-Tamil Nadu,VELLORE,2003,Whole Year,Drum Stick,96,0
+Tamil Nadu,VELLORE,2003,Whole Year,Cucumber,2,
+Tamil Nadu,VELLORE,2003,Whole Year,Drum Stick,96,
 Tamil Nadu,VELLORE,2003,Whole Year,Dry chillies,495,264
 Tamil Nadu,VELLORE,2003,Whole Year,Garlic,34,169
 Tamil Nadu,VELLORE,2003,Whole Year,Grapes,33,796
 Tamil Nadu,VELLORE,2003,Whole Year,Jack Fruit,19,184
-Tamil Nadu,VELLORE,2003,Whole Year,Lab-Lab,18,0
-Tamil Nadu,VELLORE,2003,Whole Year,Litchi,1,0
+Tamil Nadu,VELLORE,2003,Whole Year,Lab-Lab,18,
+Tamil Nadu,VELLORE,2003,Whole Year,Litchi,1,
 Tamil Nadu,VELLORE,2003,Whole Year,Mango,12553,96174
 Tamil Nadu,VELLORE,2003,Whole Year,Onion,69,621
 Tamil Nadu,VELLORE,2003,Whole Year,Orange,18,35
-Tamil Nadu,VELLORE,2003,Whole Year,Other Citrus Fruit,20,0
-Tamil Nadu,VELLORE,2003,Whole Year,Other Fresh Fruits,467,0
-Tamil Nadu,VELLORE,2003,Whole Year,Other Vegetables,439,0
-Tamil Nadu,VELLORE,2003,Whole Year,Papaya,7,0
+Tamil Nadu,VELLORE,2003,Whole Year,Other Citrus Fruit,20,
+Tamil Nadu,VELLORE,2003,Whole Year,Other Fresh Fruits,467,
+Tamil Nadu,VELLORE,2003,Whole Year,Other Vegetables,439,
+Tamil Nadu,VELLORE,2003,Whole Year,Papaya,7,
 Tamil Nadu,VELLORE,2003,Whole Year,Pineapple,1,31
 Tamil Nadu,VELLORE,2003,Whole Year,Pome Fruit,771,5413
-Tamil Nadu,VELLORE,2003,Whole Year,Pome Granet,19,0
-Tamil Nadu,VELLORE,2003,Whole Year,Pump Kin,23,0
-Tamil Nadu,VELLORE,2003,Whole Year,Redish,21,0
-Tamil Nadu,VELLORE,2003,Whole Year,Ribed Guard,27,0
-Tamil Nadu,VELLORE,2003,Whole Year,Snak Guard,13,0
+Tamil Nadu,VELLORE,2003,Whole Year,Pome Granet,19,
+Tamil Nadu,VELLORE,2003,Whole Year,Pump Kin,23,
+Tamil Nadu,VELLORE,2003,Whole Year,Redish,21,
+Tamil Nadu,VELLORE,2003,Whole Year,Ribed Guard,27,
+Tamil Nadu,VELLORE,2003,Whole Year,Snak Guard,13,
 Tamil Nadu,VELLORE,2003,Whole Year,Sugarcane,12772,1051915
 Tamil Nadu,VELLORE,2003,Whole Year,Sweet potato,9,130
 Tamil Nadu,VELLORE,2003,Whole Year,Tapioca,121,4077
 Tamil Nadu,VELLORE,2003,Whole Year,Tomato,1254,8372
 Tamil Nadu,VELLORE,2003,Whole Year,Turmeric,196,814
-Tamil Nadu,VELLORE,2003,Whole Year,Water Melon,17,0
-Tamil Nadu,VELLORE,2003,Whole Year,Yam,33,0
+Tamil Nadu,VELLORE,2003,Whole Year,Water Melon,17,
+Tamil Nadu,VELLORE,2003,Whole Year,Yam,33,
 Tamil Nadu,VELLORE,2004,Kharif,Arhar/Tur,13774,10407
 Tamil Nadu,VELLORE,2004,Kharif,Bajra,4517,4927
 Tamil Nadu,VELLORE,2004,Kharif,Castor seed,562,211
@@ -12703,36 +12703,36 @@ Tamil Nadu,VILLUPURAM,2002,Kharif,Sesamum,7504,3231
 Tamil Nadu,VILLUPURAM,2002,Kharif,Sunflower,73,84
 Tamil Nadu,VILLUPURAM,2002,Kharif,Urad,15646,6242
 Tamil Nadu,VILLUPURAM,2002,Kharif,Varagu,2489,4780
-Tamil Nadu,VILLUPURAM,2002,Whole Year,Ash Gourd,43,0
+Tamil Nadu,VILLUPURAM,2002,Whole Year,Ash Gourd,43,
 Tamil Nadu,VILLUPURAM,2002,Whole Year,Banana,1215,22654
 Tamil Nadu,VILLUPURAM,2002,Whole Year,Bhindi,180,1340
-Tamil Nadu,VILLUPURAM,2002,Whole Year,Bitter Gourd,38,0
+Tamil Nadu,VILLUPURAM,2002,Whole Year,Bitter Gourd,38,
 Tamil Nadu,VILLUPURAM,2002,Whole Year,Brinjal,236,1519
 Tamil Nadu,VILLUPURAM,2002,Whole Year,Cashewnut,4606,2299
 Tamil Nadu,VILLUPURAM,2002,Whole Year,Citrus Fruit,23,25
 Tamil Nadu,VILLUPURAM,2002,Whole Year,Coconut,2118,14300
 Tamil Nadu,VILLUPURAM,2002,Whole Year,Coriander,243,45
-Tamil Nadu,VILLUPURAM,2002,Whole Year,Cucumber,14,0
-Tamil Nadu,VILLUPURAM,2002,Whole Year,Drum Stick,8,0
+Tamil Nadu,VILLUPURAM,2002,Whole Year,Cucumber,14,
+Tamil Nadu,VILLUPURAM,2002,Whole Year,Drum Stick,8,
 Tamil Nadu,VILLUPURAM,2002,Whole Year,Dry chillies,355,211
 Tamil Nadu,VILLUPURAM,2002,Whole Year,Jack Fruit,38,430
 Tamil Nadu,VILLUPURAM,2002,Whole Year,Mango,910,5453
 Tamil Nadu,VILLUPURAM,2002,Whole Year,Onion,173,1463
-Tamil Nadu,VILLUPURAM,2002,Whole Year,Other Citrus Fruit,11,0
-Tamil Nadu,VILLUPURAM,2002,Whole Year,Other Fresh Fruits,42,0
-Tamil Nadu,VILLUPURAM,2002,Whole Year,Other Vegetables,324,0
+Tamil Nadu,VILLUPURAM,2002,Whole Year,Other Citrus Fruit,11,
+Tamil Nadu,VILLUPURAM,2002,Whole Year,Other Fresh Fruits,42,
+Tamil Nadu,VILLUPURAM,2002,Whole Year,Other Vegetables,324,
 Tamil Nadu,VILLUPURAM,2002,Whole Year,Pome Fruit,474,2480
-Tamil Nadu,VILLUPURAM,2002,Whole Year,Pome Granet,2,0
-Tamil Nadu,VILLUPURAM,2002,Whole Year,Pump Kin,78,0
-Tamil Nadu,VILLUPURAM,2002,Whole Year,Redish,1,0
-Tamil Nadu,VILLUPURAM,2002,Whole Year,Ribed Guard,10,0
-Tamil Nadu,VILLUPURAM,2002,Whole Year,Snak Guard,42,0
+Tamil Nadu,VILLUPURAM,2002,Whole Year,Pome Granet,2,
+Tamil Nadu,VILLUPURAM,2002,Whole Year,Pump Kin,78,
+Tamil Nadu,VILLUPURAM,2002,Whole Year,Redish,1,
+Tamil Nadu,VILLUPURAM,2002,Whole Year,Ribed Guard,10,
+Tamil Nadu,VILLUPURAM,2002,Whole Year,Snak Guard,42,
 Tamil Nadu,VILLUPURAM,2002,Whole Year,Sugarcane,34805,3033690
 Tamil Nadu,VILLUPURAM,2002,Whole Year,Sweet potato,138,2094
 Tamil Nadu,VILLUPURAM,2002,Whole Year,Tapioca,7517,235465
 Tamil Nadu,VILLUPURAM,2002,Whole Year,Tomato,43,531
 Tamil Nadu,VILLUPURAM,2002,Whole Year,Turmeric,1473,3742
-Tamil Nadu,VILLUPURAM,2002,Whole Year,Water Melon,467,0
+Tamil Nadu,VILLUPURAM,2002,Whole Year,Water Melon,467,
 Tamil Nadu,VILLUPURAM,2003,Kharif,Arhar/Tur,2047,1252
 Tamil Nadu,VILLUPURAM,2003,Kharif,Bajra,67289,75916
 Tamil Nadu,VILLUPURAM,2003,Kharif,Castor seed,538,362
@@ -12753,39 +12753,39 @@ Tamil Nadu,VILLUPURAM,2003,Kharif,Urad,23842,17990
 Tamil Nadu,VILLUPURAM,2003,Kharif,Varagu,1148,1303
 Tamil Nadu,VILLUPURAM,2003,Rabi,Gram,50,23
 Tamil Nadu,VILLUPURAM,2003,Rabi,Rapeseed &Mustard,9,3
-Tamil Nadu,VILLUPURAM,2003,Whole Year,Ash Gourd,109,0
+Tamil Nadu,VILLUPURAM,2003,Whole Year,Ash Gourd,109,
 Tamil Nadu,VILLUPURAM,2003,Whole Year,Banana,862,19680
 Tamil Nadu,VILLUPURAM,2003,Whole Year,Bhindi,247,1730
-Tamil Nadu,VILLUPURAM,2003,Whole Year,Bitter Gourd,32,0
-Tamil Nadu,VILLUPURAM,2003,Whole Year,Bottle Gourd,3,0
+Tamil Nadu,VILLUPURAM,2003,Whole Year,Bitter Gourd,32,
+Tamil Nadu,VILLUPURAM,2003,Whole Year,Bottle Gourd,3,
 Tamil Nadu,VILLUPURAM,2003,Whole Year,Brinjal,339,1882
 Tamil Nadu,VILLUPURAM,2003,Whole Year,Cashewnut,4613,1369
 Tamil Nadu,VILLUPURAM,2003,Whole Year,Citrus Fruit,27,28
 Tamil Nadu,VILLUPURAM,2003,Whole Year,Coconut,1933,10600
 Tamil Nadu,VILLUPURAM,2003,Whole Year,Coriander,302,88
-Tamil Nadu,VILLUPURAM,2003,Whole Year,Cucumber,19,0
-Tamil Nadu,VILLUPURAM,2003,Whole Year,Drum Stick,27,0
+Tamil Nadu,VILLUPURAM,2003,Whole Year,Cucumber,19,
+Tamil Nadu,VILLUPURAM,2003,Whole Year,Drum Stick,27,
 Tamil Nadu,VILLUPURAM,2003,Whole Year,Dry chillies,390,209
 Tamil Nadu,VILLUPURAM,2003,Whole Year,Jack Fruit,37,357
-Tamil Nadu,VILLUPURAM,2003,Whole Year,Lab-Lab,11,0
+Tamil Nadu,VILLUPURAM,2003,Whole Year,Lab-Lab,11,
 Tamil Nadu,VILLUPURAM,2003,Whole Year,Mango,932,3872
 Tamil Nadu,VILLUPURAM,2003,Whole Year,Onion,170,1531
-Tamil Nadu,VILLUPURAM,2003,Whole Year,Other Citrus Fruit,35,0
-Tamil Nadu,VILLUPURAM,2003,Whole Year,Other Fresh Fruits,65,0
-Tamil Nadu,VILLUPURAM,2003,Whole Year,Other Vegetables,155,0
-Tamil Nadu,VILLUPURAM,2003,Whole Year,Papaya,2,0
+Tamil Nadu,VILLUPURAM,2003,Whole Year,Other Citrus Fruit,35,
+Tamil Nadu,VILLUPURAM,2003,Whole Year,Other Fresh Fruits,65,
+Tamil Nadu,VILLUPURAM,2003,Whole Year,Other Vegetables,155,
+Tamil Nadu,VILLUPURAM,2003,Whole Year,Papaya,2,
 Tamil Nadu,VILLUPURAM,2003,Whole Year,Pome Fruit,529,3714
-Tamil Nadu,VILLUPURAM,2003,Whole Year,Pump Kin,72,0
-Tamil Nadu,VILLUPURAM,2003,Whole Year,Redish,1,0
-Tamil Nadu,VILLUPURAM,2003,Whole Year,Ribed Guard,17,0
-Tamil Nadu,VILLUPURAM,2003,Whole Year,Snak Guard,43,0
+Tamil Nadu,VILLUPURAM,2003,Whole Year,Pump Kin,72,
+Tamil Nadu,VILLUPURAM,2003,Whole Year,Redish,1,
+Tamil Nadu,VILLUPURAM,2003,Whole Year,Ribed Guard,17,
+Tamil Nadu,VILLUPURAM,2003,Whole Year,Snak Guard,43,
 Tamil Nadu,VILLUPURAM,2003,Whole Year,Sugarcane,30279,3125368
 Tamil Nadu,VILLUPURAM,2003,Whole Year,Sweet potato,139,1956
 Tamil Nadu,VILLUPURAM,2003,Whole Year,Tapioca,6268,270869
 Tamil Nadu,VILLUPURAM,2003,Whole Year,Tomato,90,913
 Tamil Nadu,VILLUPURAM,2003,Whole Year,Turmeric,1112,3918
-Tamil Nadu,VILLUPURAM,2003,Whole Year,Water Melon,1485,0
-Tamil Nadu,VILLUPURAM,2003,Whole Year,Yam,1,0
+Tamil Nadu,VILLUPURAM,2003,Whole Year,Water Melon,1485,
+Tamil Nadu,VILLUPURAM,2003,Whole Year,Yam,1,
 Tamil Nadu,VILLUPURAM,2004,Kharif,Arhar/Tur,509,340
 Tamil Nadu,VILLUPURAM,2004,Kharif,Bajra,20439,19546
 Tamil Nadu,VILLUPURAM,2004,Kharif,Castor seed,40,27
@@ -13189,42 +13189,42 @@ Tamil Nadu,VIRUDHUNAGAR,2002,Kharif,Sunflower,820,413
 Tamil Nadu,VIRUDHUNAGAR,2002,Kharif,Urad,6312,2518
 Tamil Nadu,VIRUDHUNAGAR,2002,Kharif,Varagu,113,126
 Tamil Nadu,VIRUDHUNAGAR,2002,Rabi,Gram,120,60
-Tamil Nadu,VIRUDHUNAGAR,2002,Whole Year,Ash Gourd,2,0
+Tamil Nadu,VIRUDHUNAGAR,2002,Whole Year,Ash Gourd,2,
 Tamil Nadu,VIRUDHUNAGAR,2002,Whole Year,Banana,934,34514
-Tamil Nadu,VIRUDHUNAGAR,2002,Whole Year,Ber,14,0
+Tamil Nadu,VIRUDHUNAGAR,2002,Whole Year,Ber,14,
 Tamil Nadu,VIRUDHUNAGAR,2002,Whole Year,Bhindi,157,1170
-Tamil Nadu,VIRUDHUNAGAR,2002,Whole Year,Bitter Gourd,34,0
-Tamil Nadu,VIRUDHUNAGAR,2002,Whole Year,Bottle Gourd,3,0
+Tamil Nadu,VIRUDHUNAGAR,2002,Whole Year,Bitter Gourd,34,
+Tamil Nadu,VIRUDHUNAGAR,2002,Whole Year,Bottle Gourd,3,
 Tamil Nadu,VIRUDHUNAGAR,2002,Whole Year,Brinjal,231,1761
 Tamil Nadu,VIRUDHUNAGAR,2002,Whole Year,Cashewnut,34,10
 Tamil Nadu,VIRUDHUNAGAR,2002,Whole Year,Citrus Fruit,263,292
 Tamil Nadu,VIRUDHUNAGAR,2002,Whole Year,Coconut,8511,64900
 Tamil Nadu,VIRUDHUNAGAR,2002,Whole Year,Coriander,3869,724
-Tamil Nadu,VIRUDHUNAGAR,2002,Whole Year,Cucumber,27,0
-Tamil Nadu,VIRUDHUNAGAR,2002,Whole Year,Drum Stick,21,0
+Tamil Nadu,VIRUDHUNAGAR,2002,Whole Year,Cucumber,27,
+Tamil Nadu,VIRUDHUNAGAR,2002,Whole Year,Drum Stick,21,
 Tamil Nadu,VIRUDHUNAGAR,2002,Whole Year,Dry chillies,5144,3435
 Tamil Nadu,VIRUDHUNAGAR,2002,Whole Year,Grapes,1,15
 Tamil Nadu,VIRUDHUNAGAR,2002,Whole Year,Jack Fruit,49,555
-Tamil Nadu,VIRUDHUNAGAR,2002,Whole Year,Lab-Lab,8,0
+Tamil Nadu,VIRUDHUNAGAR,2002,Whole Year,Lab-Lab,8,
 Tamil Nadu,VIRUDHUNAGAR,2002,Whole Year,Mango,1493,14647
 Tamil Nadu,VIRUDHUNAGAR,2002,Whole Year,Onion,1312,9542
 Tamil Nadu,VIRUDHUNAGAR,2002,Whole Year,Orange,1,2
-Tamil Nadu,VIRUDHUNAGAR,2002,Whole Year,Other Citrus Fruit,61,0
-Tamil Nadu,VIRUDHUNAGAR,2002,Whole Year,Other Fresh Fruits,255,0
-Tamil Nadu,VIRUDHUNAGAR,2002,Whole Year,Other Vegetables,114,0
-Tamil Nadu,VIRUDHUNAGAR,2002,Whole Year,Papaya,16,0
+Tamil Nadu,VIRUDHUNAGAR,2002,Whole Year,Other Citrus Fruit,61,
+Tamil Nadu,VIRUDHUNAGAR,2002,Whole Year,Other Fresh Fruits,255,
+Tamil Nadu,VIRUDHUNAGAR,2002,Whole Year,Other Vegetables,114,
+Tamil Nadu,VIRUDHUNAGAR,2002,Whole Year,Papaya,16,
 Tamil Nadu,VIRUDHUNAGAR,2002,Whole Year,Pome Fruit,914,4782
-Tamil Nadu,VIRUDHUNAGAR,2002,Whole Year,Pome Granet,12,0
-Tamil Nadu,VIRUDHUNAGAR,2002,Whole Year,Pump Kin,4,0
-Tamil Nadu,VIRUDHUNAGAR,2002,Whole Year,Ribed Guard,14,0
-Tamil Nadu,VIRUDHUNAGAR,2002,Whole Year,Snak Guard,2,0
+Tamil Nadu,VIRUDHUNAGAR,2002,Whole Year,Pome Granet,12,
+Tamil Nadu,VIRUDHUNAGAR,2002,Whole Year,Pump Kin,4,
+Tamil Nadu,VIRUDHUNAGAR,2002,Whole Year,Ribed Guard,14,
+Tamil Nadu,VIRUDHUNAGAR,2002,Whole Year,Snak Guard,2,
 Tamil Nadu,VIRUDHUNAGAR,2002,Whole Year,Sugarcane,3580,328780
 Tamil Nadu,VIRUDHUNAGAR,2002,Whole Year,Sweet potato,70,956
 Tamil Nadu,VIRUDHUNAGAR,2002,Whole Year,Tapioca,23,727
 Tamil Nadu,VIRUDHUNAGAR,2002,Whole Year,Tomato,277,3412
 Tamil Nadu,VIRUDHUNAGAR,2002,Whole Year,Turmeric,1,4
-Tamil Nadu,VIRUDHUNAGAR,2002,Whole Year,Water Melon,1,0
-Tamil Nadu,VIRUDHUNAGAR,2002,Whole Year,Yam,36,0
+Tamil Nadu,VIRUDHUNAGAR,2002,Whole Year,Water Melon,1,
+Tamil Nadu,VIRUDHUNAGAR,2002,Whole Year,Yam,36,
 Tamil Nadu,VIRUDHUNAGAR,2003,Kharif,Arhar/Tur,500,306
 Tamil Nadu,VIRUDHUNAGAR,2003,Kharif,Bajra,4849,5331
 Tamil Nadu,VIRUDHUNAGAR,2003,Kharif,Castor seed,21,4
@@ -13244,41 +13244,41 @@ Tamil Nadu,VIRUDHUNAGAR,2003,Kharif,Sunflower,700,294
 Tamil Nadu,VIRUDHUNAGAR,2003,Kharif,Urad,5426,2218
 Tamil Nadu,VIRUDHUNAGAR,2003,Rabi,Gram,146,73
 Tamil Nadu,VIRUDHUNAGAR,2003,Whole Year,Arecanut,1,
-Tamil Nadu,VIRUDHUNAGAR,2003,Whole Year,Ash Gourd,4,0
+Tamil Nadu,VIRUDHUNAGAR,2003,Whole Year,Ash Gourd,4,
 Tamil Nadu,VIRUDHUNAGAR,2003,Whole Year,Banana,760,26885
-Tamil Nadu,VIRUDHUNAGAR,2003,Whole Year,Ber,4,0
+Tamil Nadu,VIRUDHUNAGAR,2003,Whole Year,Ber,4,
 Tamil Nadu,VIRUDHUNAGAR,2003,Whole Year,Bhindi,127,890
-Tamil Nadu,VIRUDHUNAGAR,2003,Whole Year,Bitter Gourd,17,0
-Tamil Nadu,VIRUDHUNAGAR,2003,Whole Year,Bottle Gourd,10,0
+Tamil Nadu,VIRUDHUNAGAR,2003,Whole Year,Bitter Gourd,17,
+Tamil Nadu,VIRUDHUNAGAR,2003,Whole Year,Bottle Gourd,10,
 Tamil Nadu,VIRUDHUNAGAR,2003,Whole Year,Brinjal,199,2225
 Tamil Nadu,VIRUDHUNAGAR,2003,Whole Year,Cardamom,279,24
 Tamil Nadu,VIRUDHUNAGAR,2003,Whole Year,Cashewnut,66,23
 Tamil Nadu,VIRUDHUNAGAR,2003,Whole Year,Citrus Fruit,274,286
 Tamil Nadu,VIRUDHUNAGAR,2003,Whole Year,Coconut,8574,64100
 Tamil Nadu,VIRUDHUNAGAR,2003,Whole Year,Coriander,5077,1076
-Tamil Nadu,VIRUDHUNAGAR,2003,Whole Year,Cucumber,12,0
-Tamil Nadu,VIRUDHUNAGAR,2003,Whole Year,Drum Stick,22,0
+Tamil Nadu,VIRUDHUNAGAR,2003,Whole Year,Cucumber,12,
+Tamil Nadu,VIRUDHUNAGAR,2003,Whole Year,Drum Stick,22,
 Tamil Nadu,VIRUDHUNAGAR,2003,Whole Year,Dry chillies,5872,3129
 Tamil Nadu,VIRUDHUNAGAR,2003,Whole Year,Jack Fruit,25,242
-Tamil Nadu,VIRUDHUNAGAR,2003,Whole Year,Lab-Lab,10,0
+Tamil Nadu,VIRUDHUNAGAR,2003,Whole Year,Lab-Lab,10,
 Tamil Nadu,VIRUDHUNAGAR,2003,Whole Year,Mango,1607,11809
 Tamil Nadu,VIRUDHUNAGAR,2003,Whole Year,Onion,1201,6859
 Tamil Nadu,VIRUDHUNAGAR,2003,Whole Year,Orange,2,4
-Tamil Nadu,VIRUDHUNAGAR,2003,Whole Year,Other Citrus Fruit,112,0
-Tamil Nadu,VIRUDHUNAGAR,2003,Whole Year,Other Fresh Fruits,354,0
-Tamil Nadu,VIRUDHUNAGAR,2003,Whole Year,Other Vegetables,78,0
-Tamil Nadu,VIRUDHUNAGAR,2003,Whole Year,Papaya,26,0
+Tamil Nadu,VIRUDHUNAGAR,2003,Whole Year,Other Citrus Fruit,112,
+Tamil Nadu,VIRUDHUNAGAR,2003,Whole Year,Other Fresh Fruits,354,
+Tamil Nadu,VIRUDHUNAGAR,2003,Whole Year,Other Vegetables,78,
+Tamil Nadu,VIRUDHUNAGAR,2003,Whole Year,Papaya,26,
 Tamil Nadu,VIRUDHUNAGAR,2003,Whole Year,Pome Fruit,831,5835
-Tamil Nadu,VIRUDHUNAGAR,2003,Whole Year,Pome Granet,4,0
-Tamil Nadu,VIRUDHUNAGAR,2003,Whole Year,Pump Kin,2,0
-Tamil Nadu,VIRUDHUNAGAR,2003,Whole Year,Ribed Guard,17,0
-Tamil Nadu,VIRUDHUNAGAR,2003,Whole Year,Snak Guard,4,0
+Tamil Nadu,VIRUDHUNAGAR,2003,Whole Year,Pome Granet,4,
+Tamil Nadu,VIRUDHUNAGAR,2003,Whole Year,Pump Kin,2,
+Tamil Nadu,VIRUDHUNAGAR,2003,Whole Year,Ribed Guard,17,
+Tamil Nadu,VIRUDHUNAGAR,2003,Whole Year,Snak Guard,4,
 Tamil Nadu,VIRUDHUNAGAR,2003,Whole Year,Sugarcane,2871,291919
 Tamil Nadu,VIRUDHUNAGAR,2003,Whole Year,Sweet potato,64,927
 Tamil Nadu,VIRUDHUNAGAR,2003,Whole Year,Tapioca,30,1011
 Tamil Nadu,VIRUDHUNAGAR,2003,Whole Year,Tomato,190,1928
-Tamil Nadu,VIRUDHUNAGAR,2003,Whole Year,Water Melon,2,0
-Tamil Nadu,VIRUDHUNAGAR,2003,Whole Year,Yam,165,0
+Tamil Nadu,VIRUDHUNAGAR,2003,Whole Year,Water Melon,2,
+Tamil Nadu,VIRUDHUNAGAR,2003,Whole Year,Yam,165,
 Tamil Nadu,VIRUDHUNAGAR,2004,Kharif,Arhar/Tur,381,254
 Tamil Nadu,VIRUDHUNAGAR,2004,Kharif,Bajra,5585,6718
 Tamil Nadu,VIRUDHUNAGAR,2004,Kharif,Castor seed,67,14

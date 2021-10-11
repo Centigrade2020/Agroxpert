@@ -5,7 +5,7 @@ function App() {
   const [district, setDistrict] = useState("TIRUPPUR"); //removed district
   const [season, setSeason] = useState("Kharif");
 
-  const [crops, setCrops] = useState([]);
+  const [crops, setCrops] = useState({});
 
   const sendData = async () => {
     await fetch("/getcrop", {
@@ -23,7 +23,7 @@ function App() {
       })
       .then((res) => {
         console.log(res);
-        setCrops(res.crops);
+        setCrops(res);
       });
   };
 
@@ -99,7 +99,12 @@ function App() {
         </select>
         <button>Search Crops</button>
       </form>
-      {crops && crops.map((crop, key) => <p key={key}>{crop}</p>)}
+
+      {Object.keys(crops).map((item, i) => (
+        <p key={i}>
+          {item} {crops[item]}
+        </p>
+      ))}
     </div>
   );
 }
