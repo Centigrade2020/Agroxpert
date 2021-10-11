@@ -2,7 +2,11 @@ import { useState } from "react";
 import "./App.css";
 
 function App() {
-  const [district, setDistrict] = useState(""); //removed district
+  const [district, setDistrict] = useState("TIRUPPUR"); //removed district
+  const [season, setSeason] = useState("Kharif");
+
+  const [crops, setCrops] = useState([]);
+
   const sendData = async () => {
     await fetch("/getcrop", {
       method: "POST",
@@ -10,11 +14,17 @@ function App() {
         "Content-Type": "application/json",
       },
       body: JSON.stringify({
-        districts: districts,
-        seasons: seasons,
+        district,
+        season,
       }),
-    });
-    console.log(districts);
+    })
+      .then((res) => {
+        return res.json();
+      })
+      .then((res) => {
+        console.log(res);
+        setCrops(res.crops);
+      });
   };
 
   const districts = [
@@ -75,7 +85,12 @@ function App() {
           ))}
         </select>
 
-        <select name="season">
+        <select
+          name="season"
+          onChange={(e) => {
+            setSeason(e.target.value);
+          }}
+        >
           {seasons.map((season, key) => (
             <option value={season} key={key}>
               {season}
@@ -84,6 +99,7 @@ function App() {
         </select>
         <button>Search Crops</button>
       </form>
+      {crops && crops.map((crop, key) => <p key={key}>{crop}</p>)}
     </div>
   );
 }

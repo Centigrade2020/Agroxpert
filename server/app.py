@@ -1,16 +1,16 @@
-from flask import Flask, jsonify, request
+from flask import Flask, json, jsonify, request
 import pandas as pd
 import requests
 
 app = Flask(__name__)
 
-data = pd.read_csv("server/datasets/TN_data.csv")
+data = pd.read_csv("datasets/TN_data.csv")
 df = pd.DataFrame(data)
 
 
 def get_distinct(col):   #param : col
      li = list(set(df[col].to_list()))
-     group = df.groupby["District_Name"]
+     group = df.groupby(["District_Name","Season"])
      df2 = group.apply(lambda x: x['Crop'].unique())
      return df2
 
@@ -27,18 +27,27 @@ def get_yield(district):
         
         print(crop, crop_yield)
 
+def get_crops(district, season):
+
+    df2 = get_distinct("District_Name")
+    df2 = df2[district][season]
+
+    crops = df2.tolist()
+
+
+        
+    return crops
+
 
 @app.route('/getcrop',methods=["POST","GET"])
 def getCrop():
     content = request.get_json()
-    season = content['seasons']
-    district = content['districts']
-    # li = []
-    # for i, rows in df.iterrows():
-    #     if (name in rows[season]) and (district in rows[district]):
-    #         li.append(rows["Crop"])
-    print(season,district)
-    return {}
+    season = content['season']
+    district = content['district']
+    
+    crops = get_crops(district, season)
+
+    return jsonify({"crops": crops})
     
 
 @app.route("/", methods=["GET"])
