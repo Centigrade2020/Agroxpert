@@ -4,11 +4,12 @@ import requests
 
 app = Flask(__name__)
 
-data = pd.read_csv("datasets/TN_data.csv")
+data = pd.read_csv("server/datasets/TN_data.csv")
 df = pd.DataFrame(data)
 
 
 def get_distinct(col):   #param : col
+<<<<<<< Updated upstream
     #li = list(set(df[col].to_list()))
     group = df.groupby(col)
     df2 = group.apply(lambda x: x['Crop'].unique())
@@ -19,6 +20,12 @@ def get_distinct(col):   #param : col
 #     # group = df.groupby(col)
 #     # df2 = group.apply(lambda x: x['Crop'].unique())
 #     return li
+=======
+     li = list(set(df[col].to_list()))
+     group = df.groupby["District_Name"]
+     df2 = group.apply(lambda x: x['Crop'].unique())
+     return df2
+>>>>>>> Stashed changes
 
 
 def get_yield(district):
@@ -33,7 +40,7 @@ def get_yield(district):
         
         print(crop, crop_yield)
 
-"""
+
 @app.route('/getcrop/<district>/<name>')
 def getCrop(district, name):
     # content = request.get_json()
@@ -55,8 +62,12 @@ def index():
 
 if __name__ == "__main__":
     app.run(debug=True, port=6900)
+<<<<<<< Updated upstream
 """
 
 # get_yield("ARIYALUR")
+=======
+    get_yield("ARIYALUR")
+>>>>>>> Stashed changes
 
 

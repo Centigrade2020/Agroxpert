@@ -1,0 +1,16 @@
+.district{
+    position:absolute;
+    top: 22px
+}
+.season{
+    position: absolute;
+    top: 22px
+}
+
+.button{
+    background-color: #982eab;
+    color: white;
+    font-size: 22px;
+    border-radius: 4px;
+
+}
