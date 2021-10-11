@@ -28,15 +28,17 @@ def get_yield(district):
         print(crop, crop_yield)
 
 
-@app.route('/getcrop')
-def getCrop(district, name):
+@app.route('/getcrop',methods=["POST","GET"])
+def getCrop():
     content = request.get_json()
-    season = content['season']
-    li = []
-    for i, rows in df.iterrows():
-        if (name in rows['Season']) and (district in rows['District_Name']):
-            li.append(rows["Crop"])
-    return {f'For district,{district}, plant Crops': li}
+    season = content['seasons']
+    district = content['districts']
+    # li = []
+    # for i, rows in df.iterrows():
+    #     if (name in rows[season]) and (district in rows[district]):
+    #         li.append(rows["Crop"])
+    print(season,district)
+    return {}
     
 
 @app.route("/", methods=["GET"])

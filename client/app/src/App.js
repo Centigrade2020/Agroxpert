@@ -2,19 +2,22 @@ import { useState } from "react";
 import "./App.css";
 
 function App() {
-
-  const sendData = () => {
-    fetch("/getcrop", {
+  const [district,setDistrict] = useState("")
+  const sendData = async () => {
+    await fetch("/getcrop", {
     method :"POST",
     headers:{
-      'content-type':'application/json',
+      'Content-Type':'application/json',
     },
     body: JSON.stringify({ 
-    district,
-    season
+    districts:districts,
+    seasons:seasons,
   })
 })
+console.log(districts)
 }
+ 
+
   const districts = [
     "TIRUPPUR",
     "TIRUVANNAMALAI",
@@ -54,7 +57,7 @@ function App() {
   return (
     <div className="App">
       <h1>AgroXpert</h1>
-      <form>
+      <form onSubmit={sendData}>
         <select name="district">
           onChange={(e)=>{
             setDistrict(e.target.value);
@@ -73,7 +76,7 @@ function App() {
             </option>
           ))}
         </select>
-        <button>Search Crops</button>
+        <button >Search Crops</button>
       </form>
     </div>
   );
