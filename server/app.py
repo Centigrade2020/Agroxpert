@@ -27,17 +27,15 @@ def get_yield(district, crops):
             crop_yield = sum(production)/sum(area)
             dict1[crop] = crop_yield
 
-
-    return dict1    
+    dict2 = sorted(dict1.items(), key = lambda item:item[1],reverse = True)
+    return (dict2)    
 
 
 def get_crops(district, season):
 
     df2 = get_distinct("District_Name")
     df2 = df2[district][season]
-
     crops = df2.tolist()
-        
     return crops
 
 
@@ -64,5 +62,3 @@ def index():
 
 if __name__ == "__main__":
     app.run(debug=True, port=6900)
-
-
