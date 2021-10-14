@@ -4,7 +4,7 @@ import requests
 
 app = Flask(__name__)
 
-data = pd.read_csv("datasets/TN_data1.csv")
+data = pd.read_csv("datasets/data.csv")
 df = pd.DataFrame(data)
 
 
@@ -25,7 +25,8 @@ def get_yield(district, crops):
         production = df.loc[(df["District_Name"] == district) & (df["Crop"] == crop) & (df["Area"].notnull() )& (df["Production"].notnull() ) ]["Production"].to_list()
         if len(area) != 0:
             crop_yield = sum(production)/sum(area)
-            dict1[crop] = crop_yield
+            if crop_yield > 0:
+                dict1[crop] = crop_yield
 
     dict2 = sorted(dict1.items(), key = lambda item:item[1],reverse = True)
     return (dict2)    

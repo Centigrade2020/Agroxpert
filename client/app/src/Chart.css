@@ -1,0 +1,48 @@
+.Chart {
+  width: 70%;
+  margin: auto;
+  height: calc(50px * 10);
+  overflow-y: scroll;
+  overflow-x: hidden;
+  color: whitesmoke;
+}
+
+.Chart::-webkit-scrollbar {
+  width: 8px;
+}
+.Chart::-webkit-scrollbar-thumb {
+  background-color: rgba(245, 245, 245, 0.685);
+}
+
+.ChartBar {
+  height: 50px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-left: 1px solid gray;
+}
+
+.ChartBar .Bar {
+  height: 40px;
+  position: relative;
+  border-radius: 5px;
+}
+
+.ChartBar .Bar p {
+  position: absolute;
+  top: 50%;
+  left: calc(100% + 10px);
+  transform: translateY(-50%);
+}
+
+.ChartElement {
+  display: grid;
+  grid-template-columns: 1fr 4fr;
+}
+
+.ChartElement p {
+  text-align: right;
+  padding-right: 10px;
+  align-self: center;
+}

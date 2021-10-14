@@ -1,5 +1,5 @@
 import sqlite3
-
+import pandas as pd
 
 def csv_clearSpaces(path, filename):
 
@@ -38,10 +38,13 @@ def csv_clearSpaces(path, filename):
         with open(filename, "w") as f:
             f.write(new_file_content)
 
+data = pd.read_csv("datasets/data.csv")
+df = pd.DataFrame(data)
 
-# def get_distinct(col):
-#     li = list(set(df[col].to_list()))
-#     return li
+
+def get_distinct(col):
+    li = list(set(df[col].to_list()))
+    return li
 
 
 def execute_query(sql_query):
@@ -50,6 +53,13 @@ def execute_query(sql_query):
         result = cur.execute(sql_query)
         conn.commit()
     return result
+
+
+
+# for i in get_distinct("Crop"):
+#     print(i)
+
+print(len(get_distinct("Crop")))
 
 
 # print(execute_query("SELECT name FROM sqlite_temp_master WHERE type='table';").fetchall())

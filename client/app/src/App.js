@@ -1,11 +1,12 @@
 import { useState } from "react";
 import "./App.css";
+import Chart from "./components/Chart";
 
 function App() {
   const [district, setDistrict] = useState("TIRUPPUR"); //removed district
   const [season, setSeason] = useState("Kharif");
 
-  const [crops, setCrops] = useState({});
+  const [crops, setCrops] = useState([]);
 
   const sendData = async () => {
     await fetch("/getcrop", {
@@ -22,12 +23,11 @@ function App() {
         return res.json();
       })
       .then((res) => {
-        console.log(res);
         setCrops(res);
       });
   };
 
-  const districts = [
+  const districts0 = [
     "TIRUPPUR",
     "TIRUVANNAMALAI",
     "TIRUCHIRAPPALLI",
@@ -61,6 +61,8 @@ function App() {
     "VILLUPURAM",
   ];
 
+  const districts = districts0.sort();
+
   const seasons = ["Kharif", "Rabi", "Whole Year"];
 
   return (
@@ -80,7 +82,7 @@ function App() {
         >
           {districts.map((district, key) => (
             <option value={district} key={key}>
-              {district}
+              {district.charAt(0) + district.slice(1).toLowerCase()}
             </option>
           ))}
         </select>
@@ -100,11 +102,7 @@ function App() {
         <button>Search Crops</button>
       </form>
 
-      {Object.keys(crops).map((item, i) => (
-        <p key={i}>
-          {item} {crops[item]}
-        </p>
-      ))}
+      <Chart list={crops} />
     </div>
   );
 }

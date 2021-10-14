@@ -1,34 +1,35 @@
-import React, { Component } from "react";
+import React from // , { Component }
+"react";
 import ReactDOM from "react-dom";
 import "./index.css";
 import App from "./App";
-import FusionCharts from "fusioncharts";
-import Charts from "fusioncharts/fusioncharts.charts";
-import ReactFC from "react-fusioncharts";
-import FusionTheme from "fusioncharts/themes/fusioncharts.theme.fusion";
+// import FusionCharts from "fusioncharts";
+// import Charts from "fusioncharts/fusioncharts.charts";
+// import ReactFC from "react-fusioncharts";
+// import FusionTheme from "fusioncharts/themes/fusioncharts.theme.fusion";
 
-ReactFC.fcRoot(FusionCharts, Charts, FusionTheme);
+// ReactFC.fcRoot(FusionCharts, Charts, FusionTheme);
 
-const chartConfigs = {
-  type: "column2d",
-  width: 600,
-  height: 400,
-  dataFormat: "json",
-  dataSource: {
-    /* see data tab */
-  },
-};
+// const chartConfigs = {
+//   type: "column2d",
+//   width: 600,
+//   height: 400,
+//   dataFormat: "json",
+//   dataSource: {
+//     /* see data tab */
+//   },
+// };
 
-class Chart extends Component {
-  render() {
-    return <ReactFC {...chartConfigs} />;
-  }
-}
+// class Chart extends Component {
+//   render() {
+//     return <ReactFC {...chartConfigs} />;
+//   }
+// }
 ReactDOM.render(
   <React.StrictMode>
     <App />
   </React.StrictMode>,
-  <Chart />,
+  // <Chart />,
   document.getElementById("root")
 );
 
