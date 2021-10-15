@@ -1,0 +1,58 @@
+@import url("./Chart.css");
+
+.district {
+  position: absolute;
+  top: 22px;
+}
+.season {
+  position: absolute;
+  top: 22px;
+}
+
+.button {
+  background-color: #982eab;
+  color: white;
+  font-size: 22px;
+  border-radius: 4px;
+}
+
+.Navbar {
+  height: var(--navHeight);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.Navbar > h1 {
+  color: rgb(0, 238, 0);
+}
+
+.Home > form {
+  display: flex;
+  flex-direction: column;
+  width: 500px;
+  margin: 20px auto 40px auto;
+  gap: 20px;
+}
+
+.Home > form > * {
+  padding: 10px;
+  border: none;
+  background-color: #151515;
+  outline: none;
+  border-bottom: 1px solid gray;
+  color: gray;
+  font-size: 1.2rem;
+}
+
+.Home > form > button {
+  background-color: rgb(53, 53, 53);
+  border: none;
+  color: gray;
+  transition: all 300ms ease-in-out;
+}
+
+.Home > form > button:hover {
+  background-color: rgb(87, 87, 87);
+  color: white;
+}
