@@ -63,7 +63,7 @@ function App() {
 
   const districts = districts0.sort();
 
-  const seasons = ["Kharif", "Rabi", "Whole Year"];
+  const seasons = {"October-March":"Rabi", "July-October":"Kharif", "Whole Year":"Whole Year"};
 
   return (
     <div className="App">
@@ -93,9 +93,9 @@ function App() {
             setSeason(e.target.value);
           }}
         >
-          {seasons.map((season, key) => (
-            <option value={season} key={key}>
-              {season}
+          {Object.keys(seasons).map((key, i) => (
+            <option value={season} key={i}>
+              {key}
             </option>
           ))}
         </select>

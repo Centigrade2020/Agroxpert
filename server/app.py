@@ -8,28 +8,30 @@ data = pd.read_csv("datasets/data.csv")
 df = pd.DataFrame(data)
 
 
-def get_distinct(col):   #param : col
-     li = list(set(df[col].to_list()))
-     group = df.groupby(["District_Name","Season"])
-     df2 = group.apply(lambda x: x['Crop'].unique())
-     return df2
+def get_distinct(col):  # param : col
+    li = list(set(df[col].to_list()))
+    group = df.groupby(["District_Name", "Season"])
+    df2 = group.apply(lambda x: x['Crop'].unique())
+    return df2
 
 
 def get_yield(district, crops):
-    
+
     df2 = get_distinct("District_Name")
     dict1 = {}
 
     for crop in crops:
-        area = df.loc[(df["District_Name"] == district) & (df["Crop"] == crop) & (df["Area"].notnull() )& (df["Production"].notnull() ) ]["Area"].to_list()
-        production = df.loc[(df["District_Name"] == district) & (df["Crop"] == crop) & (df["Area"].notnull() )& (df["Production"].notnull() ) ]["Production"].to_list()
+        area = df.loc[(df["District_Name"] == district) & (df["Crop"] == crop) & (
+            df["Area"].notnull()) & (df["Production"].notnull())]["Area"].to_list()
+        production = df.loc[(df["District_Name"] == district) & (df["Crop"] == crop) & (
+            df["Area"].notnull()) & (df["Production"].notnull())]["Production"].to_list()
         if len(area) != 0:
             crop_yield = sum(production)/sum(area)
             if crop_yield > 0:
                 dict1[crop] = crop_yield
 
-    dict2 = sorted(dict1.items(), key = lambda item:item[1],reverse = True)
-    return (dict2)    
+    dict2 = sorted(dict1.items(), key=lambda item: item[1], reverse=True)
+    return (dict2)
 
 
 def get_crops(district, season):
@@ -40,18 +42,16 @@ def get_crops(district, season):
     return crops
 
 
-
-@app.route('/getcrop',methods=["POST","GET"])
+@app.route('/getcrop', methods=["POST", "GET"])
 def getCrop():
     content = request.get_json()
     season = content['season']
     district = content['district']
-    
     crops = get_crops(district, season)
     yld = get_yield(district, crops)
 
     return jsonify(yld)
-    
+
 
 @app.route("/", methods=["GET"])
 def index():
