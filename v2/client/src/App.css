@@ -1,4 +1,5 @@
-@import url("./Chart.css");
+@import url("./styles/Chart.css");
+@import url("./styles/Dashboard.css");
 
 .district {
   position: absolute;
@@ -9,12 +10,12 @@
   top: 22px;
 }
 
-.button {
+/* .button {
   background-color: #982eab;
   color: white;
   font-size: 22px;
   border-radius: 4px;
-}
+} */
 
 .Navbar {
   height: var(--navHeight);
@@ -22,6 +23,16 @@
   align-items: center;
   justify-content: space-between;
   padding: 0 10%;
+  position: relative;
+}
+
+.Navbar::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 5%;
+  width: 90%;
+  /* border-bottom: 1px solid var(--gray); */
 }
 
 .Navbar > .logo > h1 {
@@ -42,33 +53,4 @@
   color: whitesmoke;
   cursor: pointer;
   font-weight: 600;
-}
-.Home > form {
-  display: flex;
-  flex-direction: column;
-  width: 500px;
-  margin: 20px auto 40px auto;
-  gap: 20px;
-}
-
-.Home > form > * {
-  padding: 10px;
-  border: none;
-  background-color: #151515;
-  outline: none;
-  border-bottom: 1px solid gray;
-  color: gray;
-  font-size: 1.2rem;
-}
-
-.Home > form > button {
-  background-color: rgb(53, 53, 53);
-  border: none;
-  color: gray;
-  transition: all 300ms ease-in-out;
-}
-
-.Home > form > button:hover {
-  background-color: rgb(87, 87, 87);
-  color: white;
 }

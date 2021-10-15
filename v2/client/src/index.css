@@ -8,9 +8,10 @@
 }
 
 :root {
-  --navHeight: 70px;
+  --navHeight: 80px;
   --greenLogo: rgb(0, 184, 0);
   --green: rgb(0, 148, 0);
+  --gray: rgb(65, 65, 65);
 }
 
 body {
@@ -18,5 +19,5 @@ body {
   min-height: 100vh;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #151515;
+  background-color: #161616;
 }

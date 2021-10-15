@@ -1,6 +1,6 @@
 .Chart {
-  width: 70%;
-  margin: auto;
+  width: 100%;
+  margin-top: 10vh;
   height: calc(50px * 10);
   overflow-y: scroll;
   overflow-x: hidden;
