@@ -9,6 +9,8 @@
 
 :root {
   --navHeight: 70px;
+  --greenLogo: rgb(0, 184, 0);
+  --green: rgb(0, 148, 0);
 }
 
 body {

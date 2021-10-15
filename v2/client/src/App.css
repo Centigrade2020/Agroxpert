@@ -20,13 +20,29 @@
   height: var(--navHeight);
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: space-between;
+  padding: 0 10%;
 }
 
-.Navbar > h1 {
-  color: rgb(0, 238, 0);
+.Navbar > .logo > h1 {
+  color: var(--greenLogo);
 }
 
+.navRight {
+  color: whitesmoke;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.authButton {
+  padding: 10px 20px;
+  background-color: var(--green);
+  border: none;
+  color: whitesmoke;
+  cursor: pointer;
+  font-weight: 600;
+}
 .Home > form {
   display: flex;
   flex-direction: column;

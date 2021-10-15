@@ -4,7 +4,11 @@ import React from "react";
 function LogoutButton() {
   const { logout } = useAuth0();
 
-  return <button onClick={() => logout()}>Logout</button>;
+  return (
+    <button className="authButton" onClick={() => logout()}>
+      Logout
+    </button>
+  );
 }
 
 export default LogoutButton;

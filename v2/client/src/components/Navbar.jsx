@@ -6,10 +6,13 @@ function Navbar() {
 
   return (
     <div className="Navbar">
-      <h1>AgroXpert</h1>
-
-      {isAuthenticated && user.name}
-      {!isAuthenticated ? <LoginButton /> : <LogoutButton />}
+      <div className="logo">
+        <h1>AgroXpert</h1>
+      </div>
+      <div className="navRight">
+        {isAuthenticated && <p>{user.nickname}</p>}
+        {!isAuthenticated ? <LoginButton /> : <LogoutButton />}
+      </div>
     </div>
   );
 }
