@@ -9,7 +9,7 @@ function App() {
   const [crops, setCrops] = useState([]);
 
   const sendData = async () => {
-    await fetch("/getcrop", {
+    await fetch("/getcrops", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
