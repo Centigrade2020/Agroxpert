@@ -1,6 +1,3 @@
-import { useState } from "react";
-import { Chart } from "../../components";
-
 function Home() {
   return (
     <div className="Home">

@@ -1,8 +1,9 @@
 from flask import Flask, json, jsonify, request
 import pandas as pd
-import requests
 
 app = Flask(__name__)
+
+
 
 data = pd.read_csv("datasets/data.csv")
 df = pd.DataFrame(data)
@@ -34,6 +35,21 @@ def get_yield(district, crops):
     return (dict2)
 
 
+def get_yield_yearwise(district, crop):
+    years = [1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004,
+             2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013]
+    yld_yearwise = {}
+    for year in years:
+        area = df.loc[(df["District_Name"] == district) & (df["Crop"] == crop) & (
+            df["Area"].notnull()) & (df["Production"].notnull()) & (df["Crop_Year"] == year)]["Area"].to_list()
+        production = df.loc[(df["District_Name"] == district) & (df["Crop"] == crop) & (
+            df["Area"].notnull()) & (df["Production"].notnull()) & (df["Crop_Year"] == year)]["Production"].to_list()
+        if len(area) != 0:
+            crop_yield = production[0]/area[0]
+            yld_yearwise[year] = crop_yield
+    return yld_yearwise
+
+
 def get_crops(district, season):
 
     df2 = get_distinct("District_Name")
@@ -42,13 +58,22 @@ def get_crops(district, season):
     return crops
 
 
-@app.route('/getcrop', methods=["POST", "GET"])
-def getCrop():
+@app.route('/getcrops', methods=["POST", "GET"])
+def getCrops():
     content = request.get_json()
     season = content['season']
     district = content['district']
     crops = get_crops(district, season)
     yld = get_yield(district, crops)
+    return jsonify(yld)
+
+
+@app.route('/getcrop', methods=["POST", "GET"])
+def getCrop():
+    content = request.get_json()
+    district = content['district']
+    crop = content['crop']
+    yld = get_yield_yearwise(district, crop)
 
     return jsonify(yld)
 
@@ -57,7 +82,7 @@ def getCrop():
 def index():
     return jsonify({
         "Centigrade": "Agroxpert",
-        "Developed by": ["Dharundds", "DharunVS", "Ramya", "HrithikMJ"]
+        "Developed by": ["DharunC << VS", "DharunLEGEND", "Ramya", "HrithikMJ"]
     })
 
 

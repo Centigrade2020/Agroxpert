@@ -1,7 +1,30 @@
-function ChartBar({ len, max }) {
+import { CropDetails } from "../components";
+
+function ChartBar({ len, max, val, dis }) {
   const percent = (len / max) * 100;
+
+  const getCrop = async (crop) => {
+    await fetch("/getcrop", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify({
+        district: dis,
+        crop,
+      }),
+    })
+      .then((res) => res.json())
+      .then((res) => console.log(crop, res));
+  };
+
   return (
-    <div className="ChartBar">
+    <div
+      className="ChartBar"
+      onClick={() => {
+        getCrop(val);
+      }}
+    >
       <div
         className="Bar"
         style={{

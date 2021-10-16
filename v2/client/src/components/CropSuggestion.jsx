@@ -1,14 +1,20 @@
-import { useState } from "react";
-import { Chart } from "../components";
+import { useState, useEffect } from "react";
+import { CropDetails } from "../components";
+import LineChart from "./LineChart";
 
 function CropSuggestion() {
   const [district, setDistrict] = useState("TIRUPPUR"); //removed district
   const [season, setSeason] = useState("Kharif");
 
+  const [tabState, setTabState] = useState(false);
+
   const [crops, setCrops] = useState([]);
 
+  const [crop, setCrop] = useState("");
+  const [cropObj, setCropObj] = useState({});
+
   const sendData = async () => {
-    await fetch("/getcrop", {
+    await fetch("/getcrops", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
@@ -64,6 +70,126 @@ function CropSuggestion() {
 
   const seasons = ["Kharif", "Rabi", "Whole Year"];
 
+  const Chart = ({ district, list }) => {
+    const [max, setMax] = useState(0);
+
+    useEffect(() => {
+      if (list.length > 0) {
+        setMax(list[0][1]);
+      }
+    }, [list]);
+
+    const getCrop = async (crop) => {
+      await fetch("/getcrop", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({
+          district,
+          crop,
+        }),
+      })
+        .then((res) => res.json())
+        .then((res) => console.log(crop, res));
+    };
+
+    return (
+      <div className="Chart">
+        {list.length > 0 &&
+          list.map((val, key) => {
+            return (
+              <div className="ChartElement" key={`c${key}`}>
+                <p
+                  onClick={() => {
+                    getCrop(val[0]);
+                  }}
+                >
+                  {val[0]}
+                </p>
+                <ChartBar
+                  val={val[0]}
+                  district={district}
+                  len={val[1]}
+                  max={max}
+                />
+              </div>
+            );
+          })}
+      </div>
+    );
+  };
+
+  const ChartBar = ({ len, max, val, district }) => {
+    const percent = (len / max) * 100;
+
+    const getCrop = async (crop) => {
+      await fetch("/getcrop", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({
+          district,
+          crop,
+        }),
+      })
+        .then((res) => res.json())
+        .then((res) => {
+          console.log(crop, res);
+          setCrop(crop);
+          setCropObj(res);
+          setTabState(true);
+        });
+    };
+
+    return (
+      <div
+        className="ChartBar"
+        onClick={() => {
+          getCrop(val);
+        }}
+      >
+        <div
+          className="Bar"
+          style={{
+            width: `${percent}%`,
+            maxWidth: `calc(100% - 100px)`,
+            backgroundColor: `rgb(${
+              Math.round((255 * (100 - percent)) / 100) + 50
+            }, ${Math.round((255 * percent) / 100) + 50}, ${
+              Math.round((0 * percent) / 100) + 50
+            })`,
+          }}
+        >
+          <p>
+            {Math.round(len * 100) / 100}
+            {/* {percent} */}
+          </p>
+        </div>
+      </div>
+    );
+  };
+
+  const CropDetails = () => {
+    return (
+      <div className="CropDetails">
+        <div className="cdContainer">
+          <div className="cross" onClick={() => setTabState(false)}>
+            <div className="line1"></div>
+            <div className="line2"></div>
+          </div>
+          <h1>{crop}</h1>
+
+          <div className="cdContent">
+            <p style={{ color: "whitesmoke" }}>{JSON.stringify(cropObj)}</p>
+            <LineChart />
+          </div>
+        </div>
+      </div>
+    );
+  };
+
   return (
     <div className="CropSuggestion">
       <form
@@ -100,7 +226,8 @@ function CropSuggestion() {
         <button>Search Crops</button>
       </form>
 
-      <Chart list={crops} />
+      <Chart district={district} list={crops} />
+      {tabState && <CropDetails />}
     </div>
   );
 }

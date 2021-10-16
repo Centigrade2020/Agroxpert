@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { CropSuggestion } from "../../components";
+import { CropSuggestion, Tracking } from "../../components";
 
 function Dashboard() {
   const [tab, setTab] = useState("Your Trackings");
@@ -9,6 +9,7 @@ function Dashboard() {
     "Crop Suggestions",
     "Predict Production",
   ];
+
   return (
     <div className="Dashboard">
       <section className="tabs">
@@ -30,8 +31,10 @@ function Dashboard() {
       <section className="right">
         {tab === "Crop Suggestions" ? (
           <CropSuggestion />
+        ) : tab === "Predict Production" ? (
+          <h1>Predict Productions</h1>
         ) : (
-          <h1>Your Trackings</h1>
+          <Tracking />
         )}
       </section>
     </div>
