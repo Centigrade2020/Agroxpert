@@ -78,6 +78,32 @@ def getCrop():
     return jsonify(yld)
 
 
+@app.route('/saveuser')
+def saveUser():
+    content = request.get_json()
+    user = save_user(content['auth_id'])
+    return jsonify(user)
+
+
+@app.route("/addtracking")
+def addTrack():
+    content = request.get_json()
+    add_tracks(content['auth_id'], content['district'], content['crop'])
+    return {}
+
+
+@app.route('/gettrackings')
+def getTracking():
+    content = request.get_json()
+    return jsonify(get_tracking(content['auth_id']))
+
+
+@app.route('/getuser')
+def getUser():
+    content = request.get_json()
+    return jsonify(get_user(content['auth_id']))
+
+
 @app.route("/", methods=["GET"])
 def index():
     return jsonify({
