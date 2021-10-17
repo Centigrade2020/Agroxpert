@@ -1,5 +1,3 @@
-import { CropDetails } from "../components";
-
 function ChartBar({ len, max, val, dis }) {
   const percent = (len / max) * 100;
 

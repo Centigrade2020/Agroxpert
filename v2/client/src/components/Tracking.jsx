@@ -1,17 +1,39 @@
 import React, { useState } from "react";
 import statik from "../assets";
+import { useAuth0 } from "@auth0/auth0-react";
 
 function Tracking() {
   const [tstate, setTstate] = useState(false);
-  const [district, setDistrict] = useState("ARIYALUR");
-  const [title, setTitle] = useState("Untitled");
-  const [units, setUnits] = useState("Acres");
-  const [crop, setCrop] = useState("Apple");
-  const [area, setArea] = useState(0);
 
   const areaUnits = ["Acres", "Hectares", "Sq. Miles", "Sq. Kilometers"];
 
+  const { user, isAuthenticated } = useAuth0();
+
   const AddTrackingForm = () => {
+    const [district, setDistrict] = useState("ARIYALUR");
+    const [title, setTitle] = useState("Untitled");
+    const [units, setUnits] = useState("Acres");
+    const [crop, setCrop] = useState("Apple");
+    const [area, setArea] = useState(0);
+
+    const submitForm = () => {
+      const content = {
+        auth_id: user.sub,
+        district,
+        crop,
+        title,
+        area,
+        units,
+      };
+      fetch("/addtracking", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(content),
+      })
+        .then((res) => res.json())
+        .then((res) => console.log(res.res));
+    };
+
     return (
       <div className="AddTrackingForm">
         <div className="tContainer">
@@ -26,7 +48,13 @@ function Tracking() {
           </div>
           <h1>{}</h1>
 
-          <form className="tform">
+          <form
+            className="tform"
+            onSubmit={(e) => {
+              e.preventDefault();
+              submitForm();
+            }}
+          >
             <label>
               <p>Title</p>
               <input
@@ -34,7 +62,7 @@ function Tracking() {
                 onChange={(e) => {
                   setTitle(e.target.value);
                 }}
-                // value={title}
+                value={title}
                 placeholder="Title"
               />
             </label>
@@ -90,6 +118,7 @@ function Tracking() {
                 onChange={(e) => {
                   setCrop(e.target.value);
                 }}
+                value={crop}
               >
                 {statik.crops.map((Crop, key) => (
                   <option value={Crop} key={key}>

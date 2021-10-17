@@ -86,11 +86,12 @@ def saveUser():
     return jsonify(user)
 
 
-@app.route("/addtracking")
+@app.route("/addtracking", methods=["POST"])
 def addTrack():
     content = request.get_json()
-    add_tracks(content['auth_id'], content['district'], content['crop'])
-    return {}
+    res = add_tracks(content)
+
+    return {"res": res}
 
 
 @app.route('/gettrackings')

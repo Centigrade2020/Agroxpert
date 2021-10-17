@@ -11,8 +11,6 @@ function App() {
   const history = useHistory();
   const { user, isAuthenticated } = useAuth0();
 
-  console.log(isAuthenticated);
-
   useEffect(() => {
     if (isAuthenticated) {
       history.push("/dashboard");
@@ -20,9 +18,7 @@ function App() {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ auth_id: user.sub }),
-      })
-        .then((res) => res.json())
-        .then((res) => console.log(res));
+      });
     }
   }, [history, isAuthenticated, user]);
 
