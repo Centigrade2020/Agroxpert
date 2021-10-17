@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { useHistory } from "react-router-dom";
-import { CropSuggestion, Tracking } from "../../components";
+import { CropSuggestion, PredictProduction, Tracking } from "../../components";
 import { useAuth0 } from "@auth0/auth0-react";
 
 function Dashboard() {
@@ -44,7 +44,7 @@ function Dashboard() {
         {tab === "Crop Suggestions" ? (
           <CropSuggestion />
         ) : tab === "Predict Production" ? (
-          <h1>Predict Productions</h1>
+          <PredictProduction />
         ) : (
           <Tracking />
         )}

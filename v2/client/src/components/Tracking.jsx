@@ -20,7 +20,6 @@ function Tracking() {
     })
       .then((res) => res.json())
       .then((res) => {
-        // console.log(res.tracks);
         setTracks(res.tracks);
       });
   }

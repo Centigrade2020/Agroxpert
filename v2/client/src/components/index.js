@@ -6,6 +6,7 @@ import CropSuggestion from "./CropSuggestion";
 import Tracking from "./Tracking";
 import CropDetails from "./CropDetails";
 import LineChart from "./LineChart";
+import PredictProduction from "./PredictProduction";
 
 export {
   Chart,
@@ -16,4 +17,5 @@ export {
   Tracking,
   CropDetails,
   LineChart,
+  PredictProduction,
 };

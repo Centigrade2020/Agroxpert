@@ -9,6 +9,7 @@ function CropSuggestion() {
   const [tabState, setTabState] = useState(false);
 
   const [crops, setCrops] = useState([]);
+  const [pests, setPests] = useState({});
 
   const [crop, setCrop] = useState("");
   const [cropObj, setCropObj] = useState({});
@@ -28,6 +29,7 @@ function CropSuggestion() {
         return res.json();
       })
       .then((res) => {
+        setPests(res[1]);
         setCrops(res[0]);
       });
   };
@@ -151,6 +153,20 @@ function CropSuggestion() {
           <div className="cdContent">
             {/* <p style={{ color: "whitesmoke" }}>{JSON.stringify(cropObj)}</p> */}
             <LineChart obj={cropObj} />
+          </div>
+
+          <div className="pests">
+            <h1>Potential problems</h1>
+            {pests[crop][0]
+              .replace("and", ",")
+              .split(",")
+              .map((val, key) => (
+                <p key={key}>
+                  {val.charAt(0) == " "
+                    ? val.charAt(1).toUpperCase() + val.slice(2)
+                    : val.charAt(0).toUpperCase() + val.slice(1)}
+                </p>
+              ))}
           </div>
         </div>
       </div>

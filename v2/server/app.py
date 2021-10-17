@@ -49,6 +49,19 @@ def get_yield_yearwise(district, crop):
             yld_yearwise[year] = crop_yield
     return yld_yearwise
 
+def get_production(district,crop,Area,units):
+    x = get_yield(district,crop)
+    yld = x[crop]
+    if units =="Acres":
+        Area *= 0.404
+    elif units=="Sq.Miles":
+        Area *=258.999
+    elif units=="Sq.Kilometers":
+        Area *=100.000
+    production = yld*Area
+
+    return production
+
 
 def get_pests(crops, district):
     pests = {}

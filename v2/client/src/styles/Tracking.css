@@ -55,29 +55,29 @@
   background-color: rgb(87, 255, 87);
 }
 
-.tContainer .tform {
+.tform {
   width: 80%;
   margin: 10vh auto;
   display: flex;
   flex-direction: column;
 }
-.tContainer .tform div {
+.tform div {
   width: 100%;
   display: flex;
 }
 
-.tContainer .tform label {
+.tform label {
   display: flex;
   flex-direction: column;
   width: 100%;
   margin-bottom: 30px;
 }
-.tContainer .tform label p {
+.tform label p {
   color: gray;
 }
 
-.tContainer .tform input,
-.tContainer .tform select {
+.tform input,
+.tform select {
   padding-top: 10px;
   padding-bottom: 20px;
   border: none;
@@ -87,11 +87,11 @@
   color: whitesmoke;
   font-size: 1rem;
 }
-.tContainer .tform input::placeholder {
+.tform input::placeholder {
   color: whitesmoke;
 }
 
-.tContainer .tform > button {
+.tform > button {
   padding: 20px;
   border: none;
   outline: none;
@@ -104,7 +104,7 @@
   cursor: pointer;
 }
 
-.tContainer .tform > button:hover {
+.tform > button:hover {
   background-color: rgb(87, 87, 87);
   color: white;
 }
@@ -151,6 +151,7 @@
 
 .Tracks .track label h2 {
   font-weight: 400;
+  font-size: 1.2rem;
   margin-bottom: 20px;
   color: whitesmoke;
 }
@@ -158,4 +159,15 @@
 .addTrackButton {
   margin-top: 50px;
   margin-left: 20px;
+}
+
+.pests {
+  padding-left: 10%;
+  transform: translateY(-5vh);
+}
+
+.pests h1 {
+  padding-bottom: 20px;
+  font-weight: 600;
+  color: var(--greenLogo);
 }

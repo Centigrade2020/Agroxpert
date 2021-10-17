@@ -3,6 +3,7 @@
 @import url("./styles/CropDetails.css");
 @import url("./styles/Tracking.css");
 @import url("./styles/Home.css");
+@import url("./styles/PredictProduction.css");
 
 .district {
   position: absolute;
