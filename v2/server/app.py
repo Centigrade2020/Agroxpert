@@ -50,8 +50,13 @@ def get_yield_yearwise(district, crop):
     return yld_yearwise
 
 def get_production(district,crop,Area,units):
-    x = get_yield(district,crop)
-    yld = x[crop]
+    area = df.loc[(df["District_Name"] == district) & (df["Crop"] == crop) & (
+            df["Area"].notnull()) & (df["Production"].notnull())]["Area"].to_list()
+    production = df.loc[(df["District_Name"] == district) & (df["Crop"] == crop) & (
+            df["Area"].notnull()) & (df["Production"].notnull())]["Production"].to_list()
+    
+    yld = sum(production)/sum(area)
+    Area = int(Area)
     if units =="Acres":
         Area *= 0.404
     elif units=="Sq.Miles":
@@ -59,6 +64,9 @@ def get_production(district,crop,Area,units):
     elif units=="Sq.Kilometers":
         Area *=100.000
     production = yld*Area
+
+    production = str(production).split(".")
+    production = production[0]+"."+production[1][:2]
 
     return production
 
@@ -135,6 +143,15 @@ def deleteTrack():
     print(res)
     return jsonify({'res': res})
 
+@app.route('/getproduction',methods={"POST"})
+def getProduction():
+    content = request.get_json()
+    district = content['district']
+    crop = content['crop']
+    area = content['area']
+    units = content["units"]
+    production = get_production(district,crop,area,units)
+    return jsonify({"res":production})
 
 @app.route("/", methods=["GET"])
 def index():
