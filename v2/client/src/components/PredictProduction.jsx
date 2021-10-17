@@ -114,7 +114,7 @@ function PredictProduction() {
       {result > 0 && (
         <div className="result">
           <h1>
-            Predicted production <span>{result}</span>
+            Predicted production <span>{result}</span>Kg/hectares
           </h1>
         </div>
       )}

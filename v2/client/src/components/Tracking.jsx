@@ -70,6 +70,7 @@ function Tracking() {
                 {track["area"]} {track["units"]}
               </h2>
             </label>
+            <p>{track["submission"]}</p>
 
             <button>View</button>
             <button
