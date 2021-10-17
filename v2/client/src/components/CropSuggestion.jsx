@@ -28,7 +28,7 @@ function CropSuggestion() {
         return res.json();
       })
       .then((res) => {
-        setCrops(res);
+        setCrops(res[0]);
       });
   };
 
