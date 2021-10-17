@@ -94,10 +94,10 @@ def addTrack():
     return {"res": res}
 
 
-@app.route('/gettrackings')
-def getTracking():
+@app.route('/gettracks')
+def getTracks():
     content = request.get_json()
-    return jsonify(get_tracking(content['auth_id']))
+    return jsonify(get_tracks(content['auth_id']))
 
 
 @app.route('/getuser')

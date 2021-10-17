@@ -7,7 +7,7 @@ function Tracking() {
 
   const areaUnits = ["Acres", "Hectares", "Sq. Miles", "Sq. Kilometers"];
 
-  const { user, isAuthenticated } = useAuth0();
+  const { user } = useAuth0();
 
   const AddTrackingForm = () => {
     const [district, setDistrict] = useState("ARIYALUR");

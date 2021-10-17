@@ -54,5 +54,5 @@ def add_tracks(con):
         return False
 
 
-def get_tracking(auth_id):
+def get_tracks(auth_id):
     return tracking.find_one({'_id': auth_id})

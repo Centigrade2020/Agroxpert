@@ -1,7 +1,19 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
+import { useHistory } from "react-router-dom";
 import { CropSuggestion, Tracking } from "../../components";
+import { useAuth0 } from "@auth0/auth0-react";
 
 function Dashboard() {
+  const { isAuthenticated } = useAuth0();
+
+  const history = useHistory();
+
+  useEffect(() => {
+    if (!isAuthenticated) {
+      history.push("/");
+    }
+  });
+
   const [tab, setTab] = useState("Your Trackings");
 
   const staticTabs = [
