@@ -5,7 +5,7 @@ function PredictProduction() {
   const [district, setDistrict] = useState("ARIYALUR");
   const [units, setUnits] = useState("Acres");
   const [crop, setCrop] = useState("Apple");
-  const [area, setArea] = useState(0);
+  const [area, setArea] = useState(100);
 
   const [result, setResult] = useState(0);
 
@@ -33,7 +33,7 @@ function PredictProduction() {
       body: JSON.stringify(content),
     })
       .then((res) => res.json())
-      .then((res) => setResult(res["result"]));
+      .then((res) => setResult(res["res"]));
   };
 
   return (
