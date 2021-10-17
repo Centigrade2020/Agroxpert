@@ -5,7 +5,6 @@ from db import *
 app = Flask(__name__)
 
 
-
 data = pd.read_csv("datasets/data.csv")
 df = pd.DataFrame(data)
 
@@ -50,12 +49,23 @@ def get_yield_yearwise(district, crop):
             yld_yearwise[year] = crop_yield
     return yld_yearwise
 
+
+def get_pests(crops, district):
+    pests = {}
+    for crop in crops:
+        pest = df.loc[(df["Crop"] == crop) & (df["District_Name"]
+                                              == district)]["Potential Pests"].to_list()
+        pests[crop] = pest
+    return pests
+
+
 def get_crops(district, season):
 
     df2 = get_distinct("District_Name")
     df2 = df2[district][season]
     crops = df2.tolist()
-    return crops
+    pests = get_pests(crops, district)
+    return crops, pests
 
 
 @app.route('/getcrops', methods=["POST", "GET"])
@@ -63,9 +73,9 @@ def getCrops():
     content = request.get_json()
     season = content['season']
     district = content['district']
-    crops = get_crops(district, season)
+    crops, pests = get_crops(district, season)
     yld = get_yield(district, crops)
-    return jsonify(yld)
+    return jsonify(yld, pests)
 
 
 @app.route('/getcrop', methods=["POST", "GET"])
@@ -104,12 +114,14 @@ def getUser():
     content = request.get_json()
     return jsonify(get_user(content['auth_id']))
 
-@app.route('/deletetrack',methods=["POST"])
+
+@app.route('/deletetrack', methods=["POST"])
 def deleteTrack():
     content = request.get_json()
-    res = delete_track(content['_id'],content['auth_id'])
+    res = delete_track(content['_id'], content['auth_id'])
     print(res)
-    return jsonify({'res':res})
+    return jsonify({'res': res})
+
 
 @app.route("/", methods=["GET"])
 def index():
@@ -121,3 +133,4 @@ def index():
 
 if __name__ == "__main__":
     app.run(debug=True, port=6900)
+    # get_crops("ARIYALUR", "Kharif")
