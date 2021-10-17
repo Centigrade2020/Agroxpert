@@ -59,5 +59,6 @@ def get_tracks(auth_id):
     return {"tracks":list(tracking.find({'auth_id': auth_id}))}
 
 
-def delete_track(id):
+def delete_track(id,auth_id):
     tracking.delete_one({'_id':id})
+    users_collection.find_one_and_update({'_id':auth_id},{'$pull':{'tracks':str(id)}})

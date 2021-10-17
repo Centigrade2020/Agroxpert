@@ -50,7 +50,6 @@ def get_yield_yearwise(district, crop):
             yld_yearwise[year] = crop_yield
     return yld_yearwise
 
-
 def get_crops(district, season):
 
     df2 = get_distinct("District_Name")

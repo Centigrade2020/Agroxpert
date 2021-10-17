@@ -73,7 +73,15 @@ function Tracking() {
             </label>
 
             <button>View</button>
-            <button onClick={() => deleteTrack(track["_id"])}>Delete</button>
+            <button
+              onClick={() => {
+                deleteTrack(track["_id"]);
+                getTracks();
+              }}
+              style={{ color: "red" }}
+            >
+              Delete
+            </button>
           </div>
         ))}
       </div>
@@ -105,6 +113,7 @@ function Tracking() {
         .then((res) => {
           console.log(res.res);
           setTstate(false);
+          getTracks();
         });
     };
 
@@ -212,7 +221,9 @@ function Tracking() {
   return (
     <>
       <div className="Tracking">
-        <button onClick={() => setTstate(true)}>Add Track</button>
+        <button className="addTrackButton" onClick={() => setTstate(true)}>
+          Add Track
+        </button>
 
         <Tracks />
       </div>

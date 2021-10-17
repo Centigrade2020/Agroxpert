@@ -101,6 +101,7 @@
   border: none;
   color: gray;
   transition: all 300ms ease-in-out;
+  cursor: pointer;
 }
 
 .tContainer .tform > button:hover {
@@ -119,12 +120,21 @@
   border: none;
   color: var(--green);
   font-weight: 600;
+  cursor: pointer;
   transition: all 300ms ease-in-out;
+}
+
+.Tracking button:hover {
+  background-color: rgb(87, 87, 87);
 }
 
 /* ----------- */
 /* ----------- */
 /* ----------- */
+
+.Tracks {
+  display: flex;
+}
 
 .Tracks .track {
   width: 300px;
@@ -132,4 +142,20 @@
   margin: 20px;
   border-radius: 10px;
   background-color: rgb(31, 31, 31);
+  transition: 200ms ease-in-out;
+}
+
+.Tracks .track label p {
+  color: gray;
+}
+
+.Tracks .track label h2 {
+  font-weight: 400;
+  margin-bottom: 20px;
+  color: whitesmoke;
+}
+
+.addTrackButton {
+  margin-top: 50px;
+  margin-left: 20px;
 }
