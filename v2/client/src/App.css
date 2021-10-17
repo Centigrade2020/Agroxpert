@@ -52,7 +52,8 @@
 .authButton {
   padding: 10px 20px;
   background-color: var(--green);
-  border: none;
+  border-radius: 3px;
+  border-style: none;
   color: whitesmoke;
   cursor: pointer;
   font-weight: 600;

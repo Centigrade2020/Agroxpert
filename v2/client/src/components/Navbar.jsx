@@ -10,6 +10,7 @@ function Navbar() {
         <h1>AgroXpert</h1>
       </div>
       <div className="navRight">
+        
         {isAuthenticated && <p>{user.nickname}</p>}
         {!isAuthenticated ? <LoginButton /> : <LogoutButton />}
       </div>
