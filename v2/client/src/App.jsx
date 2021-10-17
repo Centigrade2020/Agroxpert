@@ -16,6 +16,13 @@ function App() {
   useEffect(() => {
     if (isAuthenticated) {
       history.push("/dashboard");
+      fetch("/saveuser", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ auth_id: user.sub }),
+      })
+        .then((res) => res.json())
+        .then((res) => console.log(res));
     }
   }, [history, isAuthenticated, user]);
 

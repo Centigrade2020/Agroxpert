@@ -156,39 +156,30 @@ dict1 = {"Bottle Gourd": "Anthracnose disease, leaf spots and nematode attack",
 
 
 
-with open("datasets/data.csv", "r") as f:
-    rows0 = f.read().split("\n")
-    rows = []
-    new_rows = []
-    for i in rows0:
-        rows.append(i.split(","))
+# with open("datasets/data.csv", "r") as f:
+#     rows0 = f.read().split("\n")
+#     rows = []
+#     new_rows = []
+#     for i in rows0:
+#         rows.append(i.split(","))
     
-    for i in rows:
-        new_rows.append(i + [ f'"{dict1[i[4]]}"'])
+#     for i in rows:
+#         new_rows.append(i + [ f'"{dict1[i[4]]}"'])
 
-    content = ""
+#     content = ""
 
-    for i in new_rows:
-        a = ",".join(i)
-        a += "\n"
-        content += a
+#     for i in new_rows:
+#         a = ",".join(i)
+#         a += "\n"
+#         content += a
     
 
-    with open("data.csv", "w") as f:
-        f.write(content)
-        print(content)
+#     with open("data.csv", "w") as f:
+#         f.write(content)
+#         print(content)
         
 
 
 
 
-
-
-
-
-
-
-
-
-
-
+print(get_distinct("Crop"))

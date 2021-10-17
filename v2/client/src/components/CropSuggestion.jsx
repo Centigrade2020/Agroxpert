@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
-import { CropDetails } from "../components";
 import LineChart from "./LineChart";
+import statik from "../assets";
 
 function CropSuggestion() {
   const [district, setDistrict] = useState("TIRUPPUR"); //removed district
@@ -32,41 +32,24 @@ function CropSuggestion() {
       });
   };
 
-  const districts0 = [
-    "TIRUPPUR",
-    "TIRUVANNAMALAI",
-    "TIRUCHIRAPPALLI",
-    "PUDUKKOTTAI",
-    "SALEM",
-    "ARIYALUR",
-    "KANCHIPURAM",
-    "NAGAPATTINAM",
-    "TIRUNELVELI",
-    "PERAMBALUR",
-    "KRISHNAGIRI",
-    "THE NILGIRIS",
-    "COIMBATORE",
-    "THIRUVARUR",
-    "VELLORE",
-    "DINDIGUL",
-    "MADURAI",
-    "KARUR",
-    "SIVAGANGA",
-    "CUDDALORE",
-    "THENI",
-    "KANNIYAKUMARI",
-    "RAMANATHAPURAM",
-    "DHARMAPURI",
-    "NAMAKKAL",
-    "THIRUVALLUR",
-    "ERODE",
-    "TUTICORIN",
-    "THANJAVUR",
-    "VIRUDHUNAGAR",
-    "VILLUPURAM",
-  ];
-
-  const districts = districts0.sort();
+  const getCrop = async (crop) => {
+    await fetch("/getcrop", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify({
+        district,
+        crop,
+      }),
+    })
+      .then((res) => res.json())
+      .then((res) => {
+        setCrop(crop);
+        setCropObj(res);
+        setTabState(true);
+      });
+  };
 
   const seasons = ["Kharif", "Rabi", "Whole Year"];
 
@@ -79,20 +62,20 @@ function CropSuggestion() {
       }
     }, [list]);
 
-    const getCrop = async (crop) => {
-      await fetch("/getcrop", {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-        },
-        body: JSON.stringify({
-          district,
-          crop,
-        }),
-      })
-        .then((res) => res.json())
-        .then((res) => console.log(crop, res));
-    };
+    // const getCrop = async (crop) => {
+    //   await fetch("/getcrop", {
+    //     method: "POST",
+    //     headers: {
+    //       "Content-Type": "application/json",
+    //     },
+    //     body: JSON.stringify({
+    //       district,
+    //       crop,
+    //     }),
+    //   })
+    //     .then((res) => res.json())
+    //     .then((res) => console.log(crop, res));
+    // };
 
     return (
       <div className="Chart">
@@ -122,26 +105,6 @@ function CropSuggestion() {
 
   const ChartBar = ({ len, max, val, district }) => {
     const percent = (len / max) * 100;
-
-    const getCrop = async (crop) => {
-      await fetch("/getcrop", {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-        },
-        body: JSON.stringify({
-          district,
-          crop,
-        }),
-      })
-        .then((res) => res.json())
-        .then((res) => {
-          console.log(crop, res);
-          setCrop(crop);
-          setCropObj(res);
-          setTabState(true);
-        });
-    };
 
     return (
       <div
@@ -182,8 +145,8 @@ function CropSuggestion() {
           <h1>{crop}</h1>
 
           <div className="cdContent">
-            <p style={{ color: "whitesmoke" }}>{JSON.stringify(cropObj)}</p>
-            <LineChart />
+            {/* <p style={{ color: "whitesmoke" }}>{JSON.stringify(cropObj)}</p> */}
+            <LineChart obj={cropObj} />
           </div>
         </div>
       </div>
@@ -204,7 +167,7 @@ function CropSuggestion() {
             setDistrict(e.target.value);
           }}
         >
-          {districts.map((district, key) => (
+          {statik.districts.map((district, key) => (
             <option value={district} key={key}>
               {district.charAt(0) + district.slice(1).toLowerCase()}
             </option>

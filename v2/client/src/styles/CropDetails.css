@@ -57,6 +57,10 @@
 
 .cdContainer > h1 {
   color: var(--greenLogo);
+  padding: 20px 30px;
+  font-size: 2rem;
 }
 .cdContainer .cdContent {
+  width: 80%;
+  margin: 10vh auto;
 }

@@ -1,6 +1,8 @@
 @import url("./styles/Chart.css");
 @import url("./styles/Dashboard.css");
 @import url("./styles/CropDetails.css");
+@import url("./styles/Tracking.css");
+@import url("./styles/Home.css");
 
 .district {
   position: absolute;

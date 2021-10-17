@@ -1,5 +1,6 @@
 from flask import Flask, json, jsonify, request
 import pandas as pd
+from db import *
 
 app = Flask(__name__)
 
@@ -78,7 +79,7 @@ def getCrop():
     return jsonify(yld)
 
 
-@app.route('/saveuser')
+@app.route('/saveuser', methods=["POST"])
 def saveUser():
     content = request.get_json()
     user = save_user(content['auth_id'])
