@@ -4,6 +4,7 @@
 @import url("./styles/Tracking.css");
 @import url("./styles/Home.css");
 @import url("./styles/PredictProduction.css");
+@import url("./styles/Slideshow.css");
 
 .district {
   position: absolute;
