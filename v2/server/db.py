@@ -44,10 +44,11 @@ def add_tracks(con):
                 "title": con["title"],
                 "area": con["area"],
                 "units": con["units"],
-                "submission": datetime.now().strftime("%d/%m/%y, %H:%M:%S")
+                "submission": datetime.now().strftime("%d/%m/%y, %H:%M:%S"),
             }
         )
         # update tracks list _id as 
+        users_collection.find_one_and_update({'_id':con['auth_id']},{'$push': {'tracks': str(_id)}})
         return True
     except Exception as error:
         print(error)
@@ -55,4 +56,8 @@ def add_tracks(con):
 
 
 def get_tracks(auth_id):
-    return tracking.find_one({'_id': auth_id})
+    return {"tracks":list(tracking.find({'auth_id': auth_id}))}
+
+
+def delete_track(id):
+    tracking.delete_one({'_id':id})
