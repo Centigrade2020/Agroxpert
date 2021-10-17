@@ -94,17 +94,23 @@ def addTrack():
     return {"res": res}
 
 
-@app.route('/gettracks')
+@app.route('/gettracks', methods=["POST"])
 def getTracks():
     content = request.get_json()
     return jsonify(get_tracks(content['auth_id']))
 
 
-@app.route('/getuser')
+@app.route('/getuser', methods=["POST"])
 def getUser():
     content = request.get_json()
     return jsonify(get_user(content['auth_id']))
 
+@app.route('/deletetrack',methods=["POST"])
+def deleteTrack():
+    content = request.get_json()
+    res = delete_track(content['_id'],content['auth_id'])
+    print(res)
+    return jsonify({'res':res})
 
 @app.route("/", methods=["GET"])
 def index():

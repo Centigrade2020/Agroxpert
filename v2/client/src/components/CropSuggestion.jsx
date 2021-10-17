@@ -51,7 +51,11 @@ function CropSuggestion() {
       });
   };
 
-  const seasons = ["Kharif", "Rabi", "Whole Year"];
+  const seasons = {
+    "October-March": "Rabi",
+    "July-October": "Kharif",
+    "Whole Year": "Whole Year",
+  };
 
   const Chart = ({ district, list }) => {
     const [max, setMax] = useState(0);
@@ -180,9 +184,9 @@ function CropSuggestion() {
             setSeason(e.target.value);
           }}
         >
-          {seasons.map((season, key) => (
-            <option value={season} key={key}>
-              {season}
+          {Object.keys(seasons).map((key, i) => (
+            <option value={seasons[key]} key={i}>
+              {key}
             </option>
           ))}
         </select>
